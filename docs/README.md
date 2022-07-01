@@ -8,11 +8,14 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
 
 O site Domínio Público é uma biblioteca digital editada pelo Ministério da Educação do Brasil. Tal site fornece informações e conhecimento de forma livre e gratuita, incentivando o aprendizado, a inovação e a cooperação entre os geradores de conteúdo e usuários.
 
+<div align="center">
 <img src="assets/imagens/dominio-publico_2.png" alt="Gustavo Martins" width="100"> 
+</div>
 
 # Equipe
 
 Os integrantes envolvidos no projeto são:
+
 
  Foto | Nome | GitHub | Matrícula |
  ---- | ---- | ------ | -------- |
@@ -39,7 +42,7 @@ Os integrantes envolvidos no projeto são:
 # Cronograma de Atividades
 
 <figcaption><center>
-    <b>Figura 1 - Quadro de conhecimento da equipe (Início do semestre)</b>
+    <b>Figura 1 - Cronograma de Atividades (Início do semestre)</b>
 </figcaption>
     
 <div align="center">
