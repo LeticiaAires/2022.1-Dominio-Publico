@@ -6,9 +6,9 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
 
 # Site Selecionado - Domínio Público
 
-O site selecionado foi o "Domínio Público". Tal site traz...
+O site Domínio Público é uma biblioteca digital editada pelo Ministério da Educação do Brasil. Tal site fornece informações e conhecimento de forma livre e gratuita, incentivando o aprendizado, a inovação e a cooperação entre os geradores de conteúdo e usuários.
 
-![image](https://user-images.githubusercontent.com/72039007/176435212-84167340-fa0f-41c9-8ea9-c608055ec031.png)
+<img src="assets/imagens/dominio-publico_2.png" alt="Gustavo Martins" width="100"> 
 
 # Equipe
 
@@ -24,11 +24,9 @@ Os integrantes envolvidos no projeto são:
 <img src="https://github.com/vitorekr.png" alt="Vitor Eduardo" width="100">   | Vitor Eduardo | [@vitorekr](https://github.com/vitorekr) | 190118288 |
 
 
-# Rich Picture
+# Processo de Design
 
-Uma "Rich Picture", ou "Imagem Rica", é uma ferramenta eficaz utilizada para analisar problemas e expressar suas ideias. Sendo assim, a imagem rica a seguir confere uma boa visão sobre como um individuo interage com o aplicativo e, além disso, exibe as principais funcionalidades do sistema.
 
-![image](https://user-images.githubusercontent.com/72039007/176474568-a941fb62-d016-48c6-9d01-ed9feaa088dd.png)
 # Ferramentas
 |     |     | 
 | :-: | :- |
@@ -55,4 +53,3 @@ Etapa | Entrega | Apresentação | Atividade(s) |
 | Versão | Data | Descrição | Autor |
 |--------|------|-----------|-------|
 | 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins |
-| 0.2 | 29/06/22 | Revisão e adição dos aplicativos | Todos |
