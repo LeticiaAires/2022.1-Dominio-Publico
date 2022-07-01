@@ -38,15 +38,13 @@ Os integrantes envolvidos no projeto são:
 
 # Cronograma de Atividades
 
-Etapa | Entrega | Apresentação | Atividade(s) |
------ | ------- | ---------- | ----------
-1 | 29/06/2022  | 30/06/2022 | Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina, Ferramentas do projeto, cronograma das atividades, Rich Picture.
-2 | 13/072022 | 14/072022 | Técnicas e Priorização
-3 | 20/07/2022 | 21/07/2022 | Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
-4 | 03/08/2022 | 04/08/2022  | Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR Framework)
-5 | 17/08/2022 | 18/08/2022 | Análise de Requisitos: Verificação e Validação
-6 | 24/08/2022 | 25/08/2022 | Pós-Rastreabilidade - Gerência II
-7 | 12/09/2022 | ------------- | Entrega da apresentação do projeto final
+<figcaption><center>
+    <b>Figura 1 - Quadro de conhecimento da equipe (Início do semestre)</b>
+</figcaption>
+    
+<div align="center">
+<iframe src="./documentos/cronograma.xlsx"  width="100%" height="550px" ></iframe>
+</div>
 
 ## Histórico de Versão
 
