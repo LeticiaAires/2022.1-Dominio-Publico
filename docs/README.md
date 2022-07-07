@@ -55,7 +55,7 @@ Os integrantes envolvidos no projeto são:
 </figcaption>
     
 <div align="center">
-<iframe width="100%" height="550px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZgZvIHbYT3x_niK3SAPwP_rg2Jza8JUdNEBPBxh_7rfzeyzjpALPWf99UMBOFfVFq3Au5rxXI6V9h/pubhtml?gid=670011982&single=true"></iframe>
+<iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZgZvIHbYT3x_niK3SAPwP_rg2Jza8JUdNEBPBxh_7rfzeyzjpALPWf99UMBOFfVFq3Au5rxXI6V9h/pubhtml?gid=670011982&single=true"></iframe>
 </div>
 
 ## Histórico de Versão
