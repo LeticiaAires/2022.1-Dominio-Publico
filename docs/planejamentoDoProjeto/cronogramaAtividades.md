@@ -25,10 +25,10 @@ Processo de Design| 07/07/2022 | Guilherme Puida, Luan Vasco | Vitor Eduardo |
 
 Atividade(s) | Data  | Responsável | Revisor |
 ------------ | ------- | ----------| ------- | 
-Brainstorm   | 05/07/2022 | Todos | - |
+Brainstorm   | 05/07/2022 | Todos | Vitor Eduardo, Luan Vasco |
 Estudo do perfil do usuário | 07/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco |
 Definição de personas  |   10/07/2022  | Guilherme Puida, Luan Vasco | Gustavo Martins |
-Elicitação de requisitos| 10/07/2022 | Todos | - |
+Elicitação de requisitos| 10/07/2022 | Todos | Gustavo Martins |
 
 <br>
 
@@ -36,12 +36,12 @@ Elicitação de requisitos| 10/07/2022 | Todos | - |
 
 Atividade(s) | Data  | Responsável | Revisor |
 ------------ | ------- | ----------| ------- | 
-Brainstorm   | 05/07/2022 | Todos | - |
-Estudo do perfil do usuário | 07/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco |
-Definição de personas  |   10/07/2022  | Guilherme Puida, Luan Vasco | Gustavo Martins |
-Elicitação de requisitos| 10/07/2022 | Todos | - |
+Princípios Gerais de Projeto   | 26/07/2022 | Todos | Adne Moretti |
+Metas de usabilidade | 28/07/2022 | Gustavo Martins,Vitor Eduardo | Luan Vasco |
+Guia de Estilo  |   30/07/2022  | Guilherme Puida, Luan Vasco | Gabriel Moretti |
 
 <br>
+
 
 ## Histórico de Versão
 
