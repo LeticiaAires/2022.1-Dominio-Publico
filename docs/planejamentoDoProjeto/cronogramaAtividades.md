@@ -3,6 +3,9 @@ Nesta pagina podemos visualizar as atividades específicas relacionadas a cada e
 
 <img src=https://img.freepik.com/vetores-gratis/alunos-ou-funcionarios-adicionando-eventos-ou-prazos-ao-aplicativo-de-calendario-jovens-usando-ilustracao-plana-de-organizador-de-tempo-ou-planejador_74855-20735.jpg width=400px/>
 
+### Cronograma geral de entregas
+Figura 3 - Cronograma de Atividades (Início do semestre)
+<iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZgZvIHbYT3x_niK3SAPwP_rg2Jza8JUdNEBPBxh_7rfzeyzjpALPWf99UMBOFfVFq3Au5rxXI6V9h/pubhtml?gid=670011982&single=true"></iframe>
 
 ### Primeira entrega - 13/07/2022
 Atividade(s) | Data  | Responsável | Revisor |
@@ -34,3 +37,4 @@ Elicitação de requisitos| 10/07/2022 | Todos | - |
 |--------|------|-----------|-------|
 | 0.1 | 30/06/22 | Documento Inicial | Gustavo Martins |
 | 0.2 | 04/07/22 | Adicionando revisores para cada artefato | Adne Moretti |
+| 0.2 | 07/07/22 | Alterações | Adne Moretti |
