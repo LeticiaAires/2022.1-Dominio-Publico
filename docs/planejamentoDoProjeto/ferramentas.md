@@ -1,5 +1,8 @@
 # Ferramentas do Projeto
 
+As ferramentas foram escolhidas visando a fácil interação dos integrantes do grupo em contexto remoto, tanto assíncrono quanto síncrono.
+Também foi levado em consideração o nível de familiaridade dos integrantes com as ferramentas, com a intenção de diminiuir o atrito e aumentar a eficiência nas atividades do projeto.
+
 ## [GitHub](https://github.com)
  
 ![image](https://user-images.githubusercontent.com/72039007/176484543-35225d6c-4a2e-464f-adac-e23c6ff5a086.png)
@@ -32,6 +35,7 @@ A ferramenta Telegram será utilizada como fonte de comunicação primária, vis
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor |
-|--------|------|-----------|-------|
-| 0.1 | 30/06/22 | Documento Inicial | Gustavo Martins |
+| Versão | Data | Descrição | Autor | Revisor |
+|--------|------|-----------|-------|---------|
+| 0.1 | 30/06/22 | Documento Inicial | Gustavo Martins | Guilherme Puida |
+| 0.2 | 07/07/22 | Motivação da escolha das ferramentas | Guilherme Puida | --- |
