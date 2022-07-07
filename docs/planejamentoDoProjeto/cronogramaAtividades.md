@@ -25,10 +25,10 @@ Processo de Design| 07/07/2022 | Guilherme Puida, Luan Vasco | Vitor Eduardo |
 
 Atividade(s) | Data  | Responsável | Revisor |
 ------------ | ------- | ----------| ------- | 
-Brainstorm   | 05/07/2022 | Todos | Vitor Eduardo, Luan Vasco |
-Estudo do perfil do usuário | 07/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco |
-Definição de personas  |   10/07/2022  | Guilherme Puida, Luan Vasco | Gustavo Martins |
-Elicitação de requisitos| 10/07/2022 | Todos | Gustavo Martins |
+Brainstorm   | 12/07/2022 | Todos | Vitor Eduardo, Luan Vasco |
+Estudo do perfil do usuário | 12/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco |
+Definição de personas  |   14/07/2022  | Guilherme Puida, Luan Vasco | Gustavo Martins |
+Elicitação de requisitos| 14/07/2022 | Todos | Gustavo Martins |
 
 <br>
 
