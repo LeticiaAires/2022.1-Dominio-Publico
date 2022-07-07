@@ -3,14 +3,14 @@
 Este repositório está destinado ao desenvolvimento da documentação do projeto da disciplina Interação Humano-Computador, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - FGA, durante o período 2022.1
 
 # Sites Avaliados
- Site |  Avaliador |
- ---- | --------- |
-[Prefeitura de Joaquim Nabuco](https://joaquimnabuco.pe.gov.br/v1/)  | Gabriel Moretti 
-[Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.do)  | Adne Moretti 
-[Secretaria de Estado de Educação](https://www.educacao.df.gov.br/)  | Luan Vasco
-[Hacker News](https://news.ycombinator.com/)  | Guilherme Puida
-[-](-)  | Vitor Eduardo
-[Secretaria da Saúde](https://sivisa.saude.sp.gov.br/sivisa/) | Gustavo Martins
+| Site |  Avaliador |
+| ---- | --------- |
+|[Prefeitura de Joaquim Nabuco](https://joaquimnabuco.pe.gov.br/v1/)  | Gabriel Moretti |
+|[Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.do)  | Adne Moretti |
+|[Secretaria de Estado de Educação](https://www.educacao.df.gov.br/)  | Luan Vasco |
+|[Hacker News](https://news.ycombinator.com/)  | Guilherme Puida |
+|[-](-)  | Vitor Eduardo |
+|[Secretaria da Saúde](https://sivisa.saude.sp.gov.br/sivisa/) | Gustavo Martins |
 
 # Site Selecionado - Domínio Público
 
@@ -29,14 +29,14 @@ Os integrantes envolvidos no projeto são, como segue na _figura 2_:
     <b>Figura 2 - Integrantes da equipe</b>
 </figcaption>
  
- Foto | Nome | GitHub |
- ---- | ---- | ------ |
-<img src="https://github.com/gustavomartins-github.png" alt="Gustavo Martins" width="100">           | Gustavo Martins | [@gustavomartins-github](https://github.com/gustavomartins-github) |
-<img src="https://github.com/AdneMoretti.png" alt="Adne Moretti" width="100">    | Adne Moretti  | [@AdneMoretti](https://github.com/AdneMoretti) |
-<img src="https://github.com/MorettiGS.png" alt="Gabriel Moretti" width="100">        | Gabriel Moretti | [@MorettiGS](https://github.com/MorettiGS) |
-<img src="https://github.com/Luan-Cavalcante.png" alt="Luan Vasco" width="100">              | Luan Vasco | [@Luan-Cavalcante](https://github.com/Luan-Cavalcante) |
-<img src="https://github.com/guilherme-puida.png" alt="Guilherme Puida" width="100">   | Guilherme Puida | [@guilherme-puida](https://github.com/guilherme-puida) |
-<img src="https://github.com/vitorekr.png" alt="Vitor Eduardo" width="100">   | Vitor Eduardo | [@vitorekr](https://github.com/vitorekr) |
+| Foto | Nome | GitHub |
+| ---- | ---- | ------ |
+|<img src="https://github.com/gustavomartins-github.png" alt="Gustavo Martins" width="100"> | Gustavo Martins | [@gustavomartins-github](https://github.com/gustavomartins-github) |
+|<img src="https://github.com/AdneMoretti.png" alt="Adne Moretti" width="100"> | Adne Moretti  | [@AdneMoretti](https://github.com/AdneMoretti) |
+|<img src="https://github.com/MorettiGS.png" alt="Gabriel Moretti" width="100"> | Gabriel Moretti | [@MorettiGS](https://github.com/MorettiGS) |
+|<img src="https://github.com/Luan-Cavalcante.png" alt="Luan Vasco" width="100"> | Luan Vasco | [@Luan-Cavalcante](https://github.com/Luan-Cavalcante) |
+|<img src="https://github.com/guilherme-puida.png" alt="Guilherme Puida" width="100">   | Guilherme Puida | [@guilherme-puida](https://github.com/guilherme-puida) |
+|<img src="https://github.com/vitorekr.png" alt="Vitor Eduardo" width="100">   | Vitor Eduardo | [@vitorekr](https://github.com/vitorekr) |
 
 
 # Processo de Design
