@@ -28,7 +28,7 @@ Os integrantes envolvidos no projeto são, como segue na _figura 2_:
 <figcaption><center>
     <b>Figura 2 - Integrantes da equipe</b>
 </figcaption>
- 
+
 | Foto | Nome | GitHub |
 | ---- | ---- | ------ |
 |<img src="https://github.com/gustavomartins-github.png" alt="Gustavo Martins" width="100"> | Gustavo Martins | [@gustavomartins-github](https://github.com/gustavomartins-github) |
