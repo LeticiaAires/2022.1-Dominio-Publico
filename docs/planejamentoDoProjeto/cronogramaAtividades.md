@@ -7,25 +7,38 @@ Nesta pagina podemos visualizar as atividades específicas relacionadas a cada e
 Figura 3 - Cronograma de Atividades (Início do semestre)
 <iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZgZvIHbYT3x_niK3SAPwP_rg2Jza8JUdNEBPBxh_7rfzeyzjpALPWf99UMBOFfVFq3Au5rxXI6V9h/pubhtml?gid=670011982&single=true"></iframe>
 
-### Primeira entrega - 13/07/2022
+### Primeira entrega - 11/07/2022 
 Atividade(s) | Data  | Responsável | Revisor |
 ------------ | ------- | --------- | ------- |
-Selecionar app para o projeto da disciplina | 27/06/2022 | Todos | - |
-Rich Picture | 28/06/2022 | Gustavo Martins | - |
-Definição de ferramentas e metodologias |  29/06/2022   | Todos| - |
-Cronograma detalhado | 29/06/2022 | Adne Moretti | - | 
-Detalhamento das Metodologias | 29/06/2022 | Vitor Eduardo | - |
+Selecionar site para o projeto da disciplina | 27/06/2022 | Todos | Todos |
+Ferramentas do projeto | 03/07/2022 | Gustavo Martins | Guilherme Puida
+Equipe | 03/07/2022 | Gustavo Martins | Adne Moretti
+Listas de sites avaliados | 05/07/2022 | Adne Moretti | Gabriel Moretti |
+Descrição do site selecionado e motivação |  05/07/2022   | Gabriel Moretti | Luan Vasco |
+Cronograma detalhado | 07/07/2022 | Adne Moretti | Vitor Eduardo| 
+Detalhamento das Metodologias | 07/07/2022 | Vitor Eduardo | Gustavo Martins|
+Processo de Design| 07/07/2022 | Guilherme Puida, Luan Vasco | Vitor Eduardo |
 
 <br>
 
-### Segunda entrega - 13/07/2022
+### Segunda entrega - 20/07/2022
 
 Atividade(s) | Data  | Responsável | Revisor |
 ------------ | ------- | ----------| ------- | 
 Brainstorm   | 05/07/2022 | Todos | - |
-Introspecção | 07/07/2022 | Gustavo Martins, Vitor Eduardo | - |
-Estudo do perfil do usuário | 07/07/2022 | Adne Moretti, Gabriel Moretti | - |
-Definição de personas  |   10/07/2022  | Guilherme Puida, Luan Vasco | - |
+Estudo do perfil do usuário | 07/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco |
+Definição de personas  |   10/07/2022  | Guilherme Puida, Luan Vasco | Gustavo Martins |
+Elicitação de requisitos| 10/07/2022 | Todos | - |
+
+<br>
+
+### Terceira Entrega - 01/08/2022
+
+Atividade(s) | Data  | Responsável | Revisor |
+------------ | ------- | ----------| ------- | 
+Brainstorm   | 05/07/2022 | Todos | - |
+Estudo do perfil do usuário | 07/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco |
+Definição de personas  |   10/07/2022  | Guilherme Puida, Luan Vasco | Gustavo Martins |
 Elicitação de requisitos| 10/07/2022 | Todos | - |
 
 <br>
