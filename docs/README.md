@@ -23,9 +23,12 @@ O site Domínio Público é uma biblioteca digital editada pelo Ministério da E
 
 # Equipe
 
-Os integrantes envolvidos no projeto são:
+Os integrantes envolvidos no projeto são, como segue na _figura 2_:
 
-
+<figcaption><center>
+    <b>Figura 2 - Integrantes da equipe</b>
+</figcaption>
+ 
  Foto | Nome | GitHub |
  ---- | ---- | ------ |
 <img src="https://github.com/gustavomartins-github.png" alt="Gustavo Martins" width="100">           | Gustavo Martins | [@gustavomartins-github](https://github.com/gustavomartins-github) |
@@ -51,11 +54,11 @@ Os integrantes envolvidos no projeto são:
 # Cronograma de Atividades
 
 <figcaption><center>
-    <b>Figura 2 - Cronograma de Atividades (Início do semestre)</b>
+    <b>Figura 3 - Cronograma de Atividades (Início do semestre)</b>
 </figcaption>
     
 <div align="center">
-<iframe width="100%" height="800px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZgZvIHbYT3x_niK3SAPwP_rg2Jza8JUdNEBPBxh_7rfzeyzjpALPWf99UMBOFfVFq3Au5rxXI6V9h/pubhtml?gid=670011982&single=true"></iframe>
+<iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZgZvIHbYT3x_niK3SAPwP_rg2Jza8JUdNEBPBxh_7rfzeyzjpALPWf99UMBOFfVFq3Au5rxXI6V9h/pubhtml?gid=670011982&single=true"></iframe>
 </div>
 
 ## Histórico de Versão
@@ -64,3 +67,4 @@ Os integrantes envolvidos no projeto são:
 |--------|------|-----------|-------| -------
 | 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins | Gabriel Moretti
 | 0.2 | 05/07/22 | Adição de descrições e legendas | Gabriel Moretti |
+| 0.3 | 07/07/22 | Adição do cronograma e legendas | Gabriel Moretti |
