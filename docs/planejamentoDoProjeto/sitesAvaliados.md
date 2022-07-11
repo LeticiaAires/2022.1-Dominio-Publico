@@ -39,6 +39,22 @@ O site é ativamente moderado e possui uma comunidade ativa, podendo alcançar m
 
 ### EEAR
 
+O site [EEAR](https://ingresso.eear.aer.mil.br/) é responsável por exibir concursos abertos, fechados, além dos resultados dos exames, da Força Aérea Brasileira(FAB) e disponibilizar um ambiente para a realização de inscrição em algum concurso em aberto.
+
+<p><i>Figura 1 - Tela principal"</i></p>
+
+![eear](https://user-images.githubusercontent.com/56610229/178374895-d7ad6998-022a-4768-ac35-79977b12aaac.png)
+
+<p><i>Figura 2 - Tela de divulgações"</i></p>
+
+![eear_divulgacoes](https://user-images.githubusercontent.com/56610229/178375005-0f1d4041-538e-4288-bb45-b7c901568ad4.png)
+
+<p><i>Figura 3 - Logo do site"</i></p>
+
+![logo_eear](https://user-images.githubusercontent.com/56610229/178375241-3e710210-f1cd-458b-ab27-d7e7ff394e7f.png)
+
+
+
 ### Secretaria da Administração Penitenciária
 A Secretaria da Administração Penitenciária se destina a promover a execução administrativa das penas privativas de liberdade, das medidas de segurança detentivas e das penas alternativas à prisão, cominadas pela justiça comum, e proporcionar as condições necessárias de assistência e promoção ao preso, para sua reinserção social, preservando sua dignidade como cidadão. Sendo assim, o site [Secretaria da Administração Penitenciária](http://www.sap.sp.gov.br/sap.html) é um portal cuja finalidade é integrar todos os objetivos descritos acima.
 
@@ -78,7 +94,8 @@ Nas imagens abaixo (_figuras 2 e 3_), podemos visualizar o site:
 | 0.1 | 30/06/22 | Documento Inicial | Gustavo Martins | Adne Moretti
 | 0.2 | 04/07/22 | Adicionando sites avaliados | Adne Moretti | Gabriel Moretti
 | 0.3 | 05/07/22 | Correção dos nomes dos sites avaliados | Gabriel Moretti | Adne Moretti
-| 0.4 | 07/07/22 | Adicionando site escolhido e motivação | Guilherme Puida | ---
+| 0.4 | 07/07/22 | Adicionando site escolhido e motivação | Guilherme Puida | Vitor Eduardo
 | 0.5 | 07/07/22 | Adicionando descrição de sites escolhidos | Guilherme Puida | ---
 | 0.5 | 11/07/22 | Adicionando imagens do site | Adne Moretti | ---
 | 0.6 | 11/07/22 | Adicionando descrição Joaquim Nabuco | Gabriel Moretti | ---
+| 0.7 | 11/07/22 | Adicionado informações sobre o site avaliado | Vitor Eduardo | ---
