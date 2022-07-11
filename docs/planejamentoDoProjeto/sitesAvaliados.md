@@ -55,11 +55,11 @@ Segue, na _figura 1_, o ícone do site.
 Nas imagens abaixo, podemos visualizar o site:
  <p><i>Figura 2 - Tela principal"</i></p>
  
-![photo_5030839376313166799_y](https://user-images.githubusercontent.com/64036847/178313856-7c451203-bf8b-4b1a-98c6-f613c07df38c.jpeg)
+![dominio_telaprincipal](https://user-images.githubusercontent.com/64036847/178316942-a6883f04-0550-422f-8eff-2560cd2a5e92.png)
 
 <p><i>Figura 2 - Tela após pesquisa"</i></p>
 
-![photo_5030839376313166801_y](https://user-images.githubusercontent.com/64036847/178313425-72fa5e9d-cb2f-47e2-b376-c2a1354804cf.jpeg)
+![dominio_secundaria](https://user-images.githubusercontent.com/64036847/178317231-a562329f-4990-4d1e-9f6e-9f5c09526208.png)
 
 
 
@@ -72,3 +72,4 @@ Nas imagens abaixo, podemos visualizar o site:
 | 0.3 | 05/07/22 | Correção dos nomes dos sites avaliados | Gabriel Moretti | Adne Moretti
 | 0.4 | 07/07/22 | Adicionando site escolhido e motivação | Guilherme Puida | ---
 | 0.5 | 07/07/22 | Adicionando descrição de sites escolhidos | Guilherme Puida | ---
+| 0.5 | 11/07/22 | Adicionando imagens do site | Adne Moretti | ---
