@@ -4,7 +4,7 @@ Na fase inicial do projeto, cada integrante da equipe avaliou, individualmente, 
 A tabela a seguir (_Figura 1_) descreve os sites avaliados nessa etapa.
 
 <figcaption><center>
-    <b>Figura 1 - Sites avaliados individualmente</b>
+    Figura 1 - Sites avaliados individualmente
 </figcaption>
 
  Site |  Avaliador |
@@ -41,15 +41,15 @@ O site é ativamente moderado e possui uma comunidade ativa, podendo alcançar m
 
 O site [EEAR](https://ingresso.eear.aer.mil.br/) é responsável por exibir concursos abertos, fechados, além dos resultados dos exames, da Força Aérea Brasileira(FAB) e disponibilizar um ambiente para a realização de inscrição em algum concurso em aberto.
 
-<p><i>Figura 1 - Tela principal"</i></p>
+<p><i>Figura 2 - Tela principal</i></p>
 
 ![eear](https://user-images.githubusercontent.com/56610229/178374895-d7ad6998-022a-4768-ac35-79977b12aaac.png)
 
-<p><i>Figura 2 - Tela de divulgações"</i></p>
+<p><i>Figura 3 - Tela de divulgações</i></p>
 
 ![eear_divulgacoes](https://user-images.githubusercontent.com/56610229/178375005-0f1d4041-538e-4288-bb45-b7c901568ad4.png)
 
-<p><i>Figura 3 - Logo do site"</i></p>
+<p><i>Figura 4 - Logo do site</i></p>
 
 ![logo_eear](https://user-images.githubusercontent.com/56610229/178375241-3e710210-f1cd-458b-ab27-d7e7ff394e7f.png)
 
@@ -70,18 +70,18 @@ Analisando os sites avaliados individualmente, a equipe decidiu trabalhar com o 
 Com base na avaliação heurística de Nielsen (2000), percebe-se que existem vários problemas de usabilidade e interação humano-computador no site.
 Além disso, a facilidade de se encontrar e interagir com um usuário foi um ponto considerado durante o processo de escolha, visto que o _domínio público_ é popularmente conhecido em todo o país.
 
-Segue, na _figura 1_, o ícone do site.
+Segue, na _figura 5_, o ícone do site.
 <div align="center">
  <img src="assets/imagens/dominio-publico_2.png" alt="Ícone do site Domínio Público" width="100">
- <p><i>Figura 1 - Ícone do site "Domínio Público"</i></p>
+ <p><i>Figura 5 - Ícone do site "Domínio Público"</i></p>
 </div>
 
-Nas imagens abaixo (_figuras 2 e 3_), podemos visualizar o site:
- <p><center><i>Figura 2 - Tela principal</i></p>
+Nas imagens abaixo (_figuras 6 e 7_), podemos visualizar o site:
+ <p><center><i>Figura 6 - Tela principal</i></p>
  
 ![dominio_telaprincipal](https://user-images.githubusercontent.com/64036847/178316942-a6883f04-0550-422f-8eff-2560cd2a5e92.png)
 
-<p><center><i>Figura 3 - Tela após pesquisa</i></p>
+<p><center><i>Figura 7 - Tela após pesquisa</i></p>
 
 ![dominio_secundaria](https://user-images.githubusercontent.com/64036847/178317231-a562329f-4990-4d1e-9f6e-9f5c09526208.png)
 
