@@ -31,6 +31,8 @@ O site é ativamente moderado e possui uma comunidade ativa, podendo alcançar m
 
 ### EEAR
 
+O site [EEAR](https://ingresso.eear.aer.mil.br/) é responsável por exibir concursos abertos, fechados, além dos resultados dos exames, da Força Aérea Brasileira(FAB) e disponibilizar um ambiente para a realização de inscrição em algum concurso em aberto.
+
 ### Secretaria da Saúde
 
 
@@ -70,6 +72,7 @@ Nas imagens abaixo, podemos visualizar o site:
 | 0.1 | 30/06/22 | Documento Inicial | Gustavo Martins | Adne Moretti
 | 0.2 | 04/07/22 | Adicionando sites avaliados | Adne Moretti | Gabriel Moretti
 | 0.3 | 05/07/22 | Correção dos nomes dos sites avaliados | Gabriel Moretti | Adne Moretti
-| 0.4 | 07/07/22 | Adicionando site escolhido e motivação | Guilherme Puida | ---
+| 0.4 | 07/07/22 | Adicionando site escolhido e motivação | Guilherme Puida | Vitor Eduardo
 | 0.5 | 07/07/22 | Adicionando descrição de sites escolhidos | Guilherme Puida | ---
 | 0.5 | 11/07/22 | Adicionando imagens do site | Adne Moretti | ---
+| 0.6 | 11/07/22 | Adicionado informações sobre o site avaliado | Vitor Eduardo | ---
