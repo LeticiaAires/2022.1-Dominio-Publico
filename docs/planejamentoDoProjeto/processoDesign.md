@@ -35,6 +35,10 @@ No terceito nível, é projetado um protótipo de alta fidelidade, com detalhame
 Nessa fase, o designer coleta o _feedback_ dos usuários depois do uso.
 Essas informações serão usadas para melhorar o sistema nas próximas iterações ou apontar falhas não previstas durante o processo de design.
 
+
+![ciclo_mayhew](https://user-images.githubusercontent.com/64036847/178362196-30461bb1-4071-4f60-87de-070bea0bc6d0.png)
+<p>Figura 1 - Engenharia de usabilidade de Mayhew<p/>
+
 ### Engenharia de Usabilidade de Nielsen
 ### Referências Bibliográficas
 
@@ -48,3 +52,4 @@ Humano-Computador e Experiência do usuário. Autopublicação.
 | 0.1    | 29/06/2022 | Criação do documento | Gustavo Martins | Adne Moretti
 | 0.2  | 07/07/2022 | Adição de conceitos e processo | Adne Moretti | Luan Vasco |
 | 0.2  | 07/07/2022 | Adição de conceitos e processo | Guilherme Puida | Adne Moretti |
+| 0.2  | 11/07/2022 | Adição de imagem | Adne Moretti | Guilherme Puida |
