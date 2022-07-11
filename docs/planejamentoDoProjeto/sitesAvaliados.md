@@ -10,9 +10,12 @@ A tabela a seguir descreve os sites avaliados nessa etapa.
 [Secretaria de Estado de Educação](https://www.educacao.df.gov.br/)  | Luan Vasco
 [Hacker News](https://news.ycombinator.com/)  | Guilherme Puida
 [EEAR](https://ingresso.eear.aer.mil.br/)  | Vitor Eduardo
-[Secretaria da Saúde](https://sivisa.saude.sp.gov.br/sivisa/) | Gustavo Martins
+[Secretaria da Administração Penitenciária](http://www.sap.sp.gov.br/) | Gustavo Martins
 
 ### Prefeitura de Joaquim Nabuco
+
+O site da prefeitura de Joaquim Nabuco contém todas as informações relacionadas aos processos seletivos, eventos e características pertencentes à cidade de Joaquim Nabuco (PE).
+Nele, é possível realizar a busca por tais processos seletivos, visualizar a documentação dos eventos e publicação de notícias e acessar as páginas relacionadas às questões políticas e históricas do local.
 
 ### Secretaria de Estado de Educação
 
@@ -33,8 +36,8 @@ O site é ativamente moderado e possui uma comunidade ativa, podendo alcançar m
 
 O site [EEAR](https://ingresso.eear.aer.mil.br/) é responsável por exibir concursos abertos, fechados, além dos resultados dos exames, da Força Aérea Brasileira(FAB) e disponibilizar um ambiente para a realização de inscrição em algum concurso em aberto.
 
-### Secretaria da Saúde
-
+### Secretaria da Administração Penitenciária
+A Secretaria da Administração Penitenciária se destina a promover a execução administrativa das penas privativas de liberdade, das medidas de segurança detentivas e das penas alternativas à prisão, cominadas pela justiça comum, e proporcionar as condições necessárias de assistência e promoção ao preso, para sua reinserção social, preservando sua dignidade como cidadão. Sendo assim, o site [Secretaria da Administração Penitenciária](http://www.sap.sp.gov.br/sap.html) é um portal cuja finalidade é integrar todos os objetivos descritos a cima.
 
 ## Site escolhido - Domínio Público
 
@@ -75,4 +78,5 @@ Nas imagens abaixo, podemos visualizar o site:
 | 0.4 | 07/07/22 | Adicionando site escolhido e motivação | Guilherme Puida | Vitor Eduardo
 | 0.5 | 07/07/22 | Adicionando descrição de sites escolhidos | Guilherme Puida | ---
 | 0.5 | 11/07/22 | Adicionando imagens do site | Adne Moretti | ---
-| 0.6 | 11/07/22 | Adicionado informações sobre o site avaliado | Vitor Eduardo | ---
+| 0.6 | 11/07/22 | Adicionando descrição Joaquim Nabuco | Gabriel Moretti | ---
+| 0.7 | 11/07/22 | Adicionado informações sobre o site avaliado | Vitor Eduardo | ---
