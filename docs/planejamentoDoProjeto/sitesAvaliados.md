@@ -36,6 +36,20 @@ O site é ativamente moderado e possui uma comunidade ativa, podendo alcançar m
 
 O site [EEAR](https://ingresso.eear.aer.mil.br/) é responsável por exibir concursos abertos, fechados, além dos resultados dos exames, da Força Aérea Brasileira(FAB) e disponibilizar um ambiente para a realização de inscrição em algum concurso em aberto.
 
+<p><i>Figura 1 - Tela principal"</i></p>
+
+![eear](https://user-images.githubusercontent.com/56610229/178374895-d7ad6998-022a-4768-ac35-79977b12aaac.png)
+
+<p><i>Figura 2 - Tela de divulgações"</i></p>
+
+![eear_divulgacoes](https://user-images.githubusercontent.com/56610229/178375005-0f1d4041-538e-4288-bb45-b7c901568ad4.png)
+
+<p><i>Figura 3 - Logo do site"</i></p>
+
+![logo_eear](https://user-images.githubusercontent.com/56610229/178375241-3e710210-f1cd-458b-ab27-d7e7ff394e7f.png)
+
+
+
 ### Secretaria da Administração Penitenciária
 A Secretaria da Administração Penitenciária se destina a promover a execução administrativa das penas privativas de liberdade, das medidas de segurança detentivas e das penas alternativas à prisão, cominadas pela justiça comum, e proporcionar as condições necessárias de assistência e promoção ao preso, para sua reinserção social, preservando sua dignidade como cidadão. Sendo assim, o site [Secretaria da Administração Penitenciária](http://www.sap.sp.gov.br/sap.html) é um portal cuja finalidade é integrar todos os objetivos descritos a cima.
 
