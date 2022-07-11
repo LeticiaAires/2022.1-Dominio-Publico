@@ -14,6 +14,9 @@ A tabela a seguir descreve os sites avaliados nessa etapa.
 
 ### Prefeitura de Joaquim Nabuco
 
+O site da prefeitura de Joaquim Nabuco contém todas as informações relacionadas aos processos seletivos, eventos e características pertencentes à cidade de Joaquim Nabuco (PE).
+Nele, é possível realizar a busca por tais processos seletivos, visualizar a documentação dos eventos e publicação de notícias e acessar as páginas relacionadas às questões políticas e históricas do local.
+
 ### Secretaria de Estado de Educação
 
 O site da Secretaria de Educação do DF visa concentrar vários serviços da secretaria de educação em um só lugar.
@@ -73,3 +76,4 @@ Nas imagens abaixo, podemos visualizar o site:
 | 0.4 | 07/07/22 | Adicionando site escolhido e motivação | Guilherme Puida | ---
 | 0.5 | 07/07/22 | Adicionando descrição de sites escolhidos | Guilherme Puida | ---
 | 0.5 | 11/07/22 | Adicionando imagens do site | Adne Moretti | ---
+| 0.6 | 11/07/22 | Adicionando descrição Joaquim Nabuco | Gabriel Moretti | ---
