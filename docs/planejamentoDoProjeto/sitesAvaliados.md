@@ -41,16 +41,26 @@ Tal site fornece informações e conhecimentos de forma livre e gratuita, incent
 
 ### Motivação
 
+
 Analisando os sites avaliados individualmente, a equipe decidiu trabalhar com o Domínio Público.
 Com base na avaliação heurística de Nielsen (2000), percebe-se que existem vários problemas de usabilidade e interação humano-computador no site.
 Além disso, a facilidade de se encontrar e interagir com um usuário foi um ponto considerado durante o processo de escolha, visto que o _domínio público_ é popularmente conhecido em todo o país.
 
 Segue, na _figura 1_, o ícone do site.
-
 <div align="center">
  <img src="assets/imagens/dominio-publico_2.png" alt="Ícone do site Domínio Público" width="100">
  <p><i>Figura 1 - Ícone do site "Domínio Público"</i></p>
 </div>
+
+Nas imagens abaixo, podemos visualizar o site:
+ <p><i>Figura 2 - Tela principal"</i></p>
+ 
+![photo_5030839376313166799_y](https://user-images.githubusercontent.com/64036847/178313856-7c451203-bf8b-4b1a-98c6-f613c07df38c.jpeg)
+
+<p><i>Figura 2 - Tela após pesquisa"</i></p>
+
+![photo_5030839376313166801_y](https://user-images.githubusercontent.com/64036847/178313425-72fa5e9d-cb2f-47e2-b376-c2a1354804cf.jpeg)
+
 
 
 ## Histórico de Versão
