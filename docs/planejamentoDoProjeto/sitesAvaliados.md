@@ -10,7 +10,7 @@ A tabela a seguir descreve os sites avaliados nessa etapa.
 [Secretaria de Estado de Educação](https://www.educacao.df.gov.br/)  | Luan Vasco
 [Hacker News](https://news.ycombinator.com/)  | Guilherme Puida
 [EEAR](https://ingresso.eear.aer.mil.br/)  | Vitor Eduardo
-[Secretaria da Saúde](https://sivisa.saude.sp.gov.br/sivisa/) | Gustavo Martins
+[Secretaria da Administração Penitenciária](http://www.sap.sp.gov.br/) | Gustavo Martins
 
 ### Prefeitura de Joaquim Nabuco
 
@@ -31,8 +31,8 @@ O site é ativamente moderado e possui uma comunidade ativa, podendo alcançar m
 
 ### EEAR
 
-### Secretaria da Saúde
-
+### Secretaria da Administração Penitenciária
+A Secretaria da Administração Penitenciária se destina a promover a execução administrativa das penas privativas de liberdade, das medidas de segurança detentivas e das penas alternativas à prisão, cominadas pela justiça comum, e proporcionar as condições necessárias de assistência e promoção ao preso, para sua reinserção social, preservando sua dignidade como cidadão. Sendo assim, o site [Secretaria da Administração Penitenciária](http://www.sap.sp.gov.br/sap.html) é um portal cuja finalidade é integrar todos os objetivos descritos a cima.
 
 ## Site escolhido - Domínio Público
 
