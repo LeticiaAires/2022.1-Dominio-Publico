@@ -1,7 +1,11 @@
 ## Sites avaliados 
 
 Na fase inicial do projeto, cada integrante da equipe avaliou, individualmente, um site.
-A tabela a seguir descreve os sites avaliados nessa etapa.
+A tabela a seguir (_Figura 1_) descreve os sites avaliados nessa etapa.
+
+<figcaption><center>
+    <b>Figura 1 - Sites avaliados individualmente</b>
+</figcaption>
 
  Site |  Avaliador |
  ---- | --------- |
@@ -23,7 +27,7 @@ Nele, é possível realizar a busca por tais processos seletivos, visualizar a d
 O site da Secretaria de Educação do DF visa concentrar vários serviços da secretaria de educação em um só lugar.
 Nele, é possível se informar sobre inscrições abertas, cursos e serviços para servidores públicos, como o diário oficial.
 
-Além disso, os usuários podem acessar informações sobre: cursos de robótica, novo ensino médio e Centro Interescolar de Línguas (CIL)
+Além disso, os usuários podem acessar informações sobre: cursos de robótica, novo ensino médio e Centro Interescolar de Línguas (CIL).
 Também é possível visualizar o calendário da rede pública de educação.
 
 ### HackerNews
@@ -36,7 +40,7 @@ O site é ativamente moderado e possui uma comunidade ativa, podendo alcançar m
 ### EEAR
 
 ### Secretaria da Administração Penitenciária
-A Secretaria da Administração Penitenciária se destina a promover a execução administrativa das penas privativas de liberdade, das medidas de segurança detentivas e das penas alternativas à prisão, cominadas pela justiça comum, e proporcionar as condições necessárias de assistência e promoção ao preso, para sua reinserção social, preservando sua dignidade como cidadão. Sendo assim, o site [Secretaria da Administração Penitenciária](http://www.sap.sp.gov.br/sap.html) é um portal cuja finalidade é integrar todos os objetivos descritos a cima.
+A Secretaria da Administração Penitenciária se destina a promover a execução administrativa das penas privativas de liberdade, das medidas de segurança detentivas e das penas alternativas à prisão, cominadas pela justiça comum, e proporcionar as condições necessárias de assistência e promoção ao preso, para sua reinserção social, preservando sua dignidade como cidadão. Sendo assim, o site [Secretaria da Administração Penitenciária](http://www.sap.sp.gov.br/sap.html) é um portal cuja finalidade é integrar todos os objetivos descritos acima.
 
 ## Site escolhido - Domínio Público
 
@@ -56,12 +60,12 @@ Segue, na _figura 1_, o ícone do site.
  <p><i>Figura 1 - Ícone do site "Domínio Público"</i></p>
 </div>
 
-Nas imagens abaixo, podemos visualizar o site:
- <p><i>Figura 2 - Tela principal"</i></p>
+Nas imagens abaixo (_figuras 2 e 3_), podemos visualizar o site:
+ <p><center><i>Figura 2 - Tela principal</i></p>
  
 ![dominio_telaprincipal](https://user-images.githubusercontent.com/64036847/178316942-a6883f04-0550-422f-8eff-2560cd2a5e92.png)
 
-<p><i>Figura 2 - Tela após pesquisa"</i></p>
+<p><center><i>Figura 3 - Tela após pesquisa</i></p>
 
 ![dominio_secundaria](https://user-images.githubusercontent.com/64036847/178317231-a562329f-4990-4d1e-9f6e-9f5c09526208.png)
 
