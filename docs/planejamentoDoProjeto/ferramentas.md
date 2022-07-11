@@ -37,7 +37,7 @@ A ferramenta Telegram será utilizada como fonte de comunicação primária, vis
 
 ![image](https://user-images.githubusercontent.com/72039007/178374882-f5391562-d629-43c9-b67a-af4c4381d345.png)
 
-A ferramenta LucidyChart será utilizada para diagramação e construção de esquemáticos de maneira barata, eficaz e colaborativa.
+A ferramenta LucidChart será utilizada para diagramação e construção de esquemáticos de maneira barata, eficaz e colaborativa.
 
 ## Histórico de Versão
 
