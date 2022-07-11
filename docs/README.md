@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Este repositório está destinado ao desenvolvimento da documentação do projeto da disciplina Interação Humano-Computador, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - FGA, durante o período 2022.1
+Este repositório está destinado ao desenvolvimento da documentação do projeto da disciplina Interação Humano-Computador, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - FGA, durante o período 2022.1. Esse projeto tem como objetivo avaliar a interface e interação do sistema com usuário, avaliar a usabilidade do site Domínio Público e encontrar seus principais problemas. 
 
 # Sobre o site - Domínio Público
 
