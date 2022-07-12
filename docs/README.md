@@ -34,4 +34,3 @@ Os integrantes envolvidos no projeto são, como segue na _figura 2_:
 |--------|------|-----------|-------| -------
 | 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins | Gabriel Moretti
 | 0.2 | 05/07/22 | Adição de descrições e legendas | Gabriel Moretti |
-| 0.3 | 07/07/22 | Adição do cronograma e legendas | Gabriel Moretti |
