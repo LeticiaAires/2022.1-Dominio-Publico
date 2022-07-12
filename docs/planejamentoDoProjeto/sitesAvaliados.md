@@ -81,7 +81,7 @@ Nas imagens abaixo (_figuras 6 e 7_), podemos visualizar o site:
 | 0.2 | 04/07/22 | Adicionando sites avaliados | Adne Moretti | Gabriel Moretti
 | 0.3 | 05/07/22 | Correção dos nomes dos sites avaliados | Gabriel Moretti | Adne Moretti
 | 0.4 | 07/07/22 | Adicionando site escolhido e motivação | Guilherme Puida | Vitor Eduardo
-| 0.5 | 07/07/22 | Adicionando descrição de sites escolhidos | Guilherme Puida | ---
-| 0.5 | 11/07/22 | Adicionando imagens do site | Adne Moretti | ---
-| 0.6 | 11/07/22 | Adicionando descrição Joaquim Nabuco | Gabriel Moretti | ---
-| 0.7 | 11/07/22 | Adicionado informações sobre o site avaliado | Vitor Eduardo | ---
+| 0.5 | 07/07/22 | Adicionando descrição de sites escolhidos | Guilherme Puida | Adne Moretti
+| 0.5 | 11/07/22 | Adicionando imagens do site | Adne Moretti | Vitor Eduardo
+| 0.6 | 11/07/22 | Adicionando descrição Joaquim Nabuco | Gabriel Moretti | Luan Vasco
+| 0.7 | 11/07/22 | Adicionado informações sobre o site avaliado | Vitor Eduardo | Gustavo Martins
