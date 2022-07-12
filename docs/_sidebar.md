@@ -3,6 +3,7 @@
 - [Sites Avaliados](/planejamentoDoProjeto/sitesAvaliados.md)
 - [Ferramentas](/planejamentoDoProjeto/ferramentas.md)
 - [Processo de Design](/planejamentoDoProjeto/processoDesign.md)
+- [Metodologia](/planejamentoDoProjeto/metodologias.md)
 - [Cronograma de Atividades](/planejamentoDoProjeto/cronogramaAtividades.md)
 
 - Apresentações
