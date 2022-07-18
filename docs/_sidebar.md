@@ -6,5 +6,7 @@
 - [Metodologia](/planejamentoDoProjeto/metodologias.md)
 - [Cronograma de Atividades](/planejamentoDoProjeto/cronogramaAtividades.md)
 
+- [Análise de tarefas](/analiseTarefas.md)
+
 - Apresentações
 - [Apresentação 1](/apresentacoes/apresentacao1.md)
