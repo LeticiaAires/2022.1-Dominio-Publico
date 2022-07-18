@@ -1,10 +1,10 @@
 ## Sites avaliados 
 
 Na fase inicial do projeto, cada integrante da equipe avaliou, individualmente, um site.
-A tabela a seguir (_Figura 1_) descreve os sites avaliados nessa etapa.
+A tabela a seguir (_tabela 1_) descreve os sites avaliados nessa etapa.
 
 <figcaption><center>
-    Figura 1 - Sites avaliados individualmente
+    Tabela 1 - Sites avaliados individualmente
 </figcaption>
 
  Site |  Avaliador |
@@ -56,18 +56,18 @@ Analisando os sites avaliados individualmente, a equipe decidiu trabalhar com o 
 Com base na avaliação heurística de Nielsen (2000), percebe-se que existem vários problemas de usabilidade e interação humano-computador no site.
 Além disso, a facilidade de se encontrar e interagir com um usuário foi um ponto considerado durante o processo de escolha, visto que o _domínio público_ é popularmente conhecido em todo o país.
 
-Segue, na _figura 5_, o ícone do site.
+Segue, na _figura 1_, o ícone do site.
 <div align="center">
  <img src="assets/imagens/dominio-publico_2.png" alt="Ícone do site Domínio Público" width="100">
- <p><i>Figura 5 - Ícone do site "Domínio Público"</i></p>
+ <p><i>Figura 1 - Ícone do site "Domínio Público"</i></p>
 </div>
 
-Nas imagens abaixo (_figuras 6 e 7_), podemos visualizar o site:
- <p><center><i>Figura 6 - Tela principal</i></p>
+Nas imagens abaixo (_imagem 1 e 2_), podemos visualizar o site:
+ <p><center><i>Imagem 1 - Tela principal</i></p>
  
 ![dominio_telaprincipal](https://user-images.githubusercontent.com/64036847/178316942-a6883f04-0550-422f-8eff-2560cd2a5e92.png)
 
-<p><center><i>Figura 7 - Tela após pesquisa</i></p>
+<p><center><i>Imagem 2 - Tela após pesquisa</i></p>
 
 ![dominio_secundaria](https://user-images.githubusercontent.com/64036847/178317231-a562329f-4990-4d1e-9f6e-9f5c09526208.png)
 

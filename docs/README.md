@@ -13,10 +13,10 @@ O site Domínio Público é uma biblioteca digital editada pelo Ministério da E
 
 # Equipe
 
-Os integrantes envolvidos no projeto são, como segue na _figura 2_:
+Os integrantes envolvidos no projeto são, como segue na _tabela 1_:
 
 <figcaption><center>
-    <b>Figura 2 - Integrantes da equipe</b>
+    <b>Tabela 1 - Integrantes da equipe</b>
 </figcaption>
 
 | Foto | Nome | GitHub |

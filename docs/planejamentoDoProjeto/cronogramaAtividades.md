@@ -9,10 +9,10 @@ Nesta página podemos visualizar as atividades específicas relacionadas a cada 
 
 ## Cronograma geral de entregas
 
-Segue em anexo, _na figura 2_, o cronograma oficial de entregas, incorporado por meio do Google Sheets.
+Segue em anexo, _na tabela 1_, o cronograma oficial de entregas, incorporado por meio do Google Sheets.
 
 <figcaption><center>
-    Figura 2 - Cronograma de Atividades (Início do semestre)
+    Tabela 1 - Cronograma de Atividades (Início do semestre)
 </figcaption>
 
 <iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZgZvIHbYT3x_niK3SAPwP_rg2Jza8JUdNEBPBxh_7rfzeyzjpALPWf99UMBOFfVFq3Au5rxXI6V9h/pubhtml?gid=670011982&single=true"></iframe>
@@ -23,10 +23,10 @@ Foram separadas, em tabelas nesse documento, as entregas e seus respectivos resp
 
 ### Primeira entrega - 11/07/2022 
 
-A seguir, na _figura 3_, se encontra a tabela relacionada à primeira entrega da matéria.
+A seguir, na _tabela 2_, se encontra a tabela relacionada à primeira entrega da matéria.
 
 <figcaption><center>
-    Figura 3 - Primeira entrega
+    Tabela 2 - Primeira entrega
 </figcaption>
 
 Atividade(s) | Data  | Responsável | Revisor |
@@ -44,10 +44,10 @@ Processo de Design| 07/07/2022 | Guilherme Puida, Luan Vasco | Vitor Eduardo |
 
 ### Segunda entrega - 20/07/2022
 
-A seguir, na _figura 4_, se encontra a tabela relacionada à segunda entrega da matéria.
+A seguir, na _tabela 3_, se encontra a tabela relacionada à segunda entrega da matéria.
 
 <figcaption><center>
-    Figura 4 - Segunda entrega
+    Tabela 3 - Segunda entrega
 </figcaption>
 
 Atividade(s) | Data  | Responsável | Revisor |
@@ -61,10 +61,10 @@ Elicitação de requisitos| 14/07/2022 | Todos | Gustavo Martins |
 
 ### Terceira Entrega - 01/08/2022
 
-A seguir, na _figura 5_, se encontra a tabela relacionada à terceira entrega da matéria.
+A seguir, na _tabela 4_, se encontra a tabela relacionada à terceira entrega da matéria.
 
 <figcaption><center>
-    Figura 5 - Terceira entrega
+    Tabela 4 - Terceira entrega
 </figcaption>
 
 Atividade(s) | Data  | Responsável | Revisor |
