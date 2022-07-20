@@ -53,9 +53,10 @@ A seguir, na _tabela 3_, se encontra a tabela relacionada à segunda entrega da 
 Atividade(s) | Data  | Responsável | Revisor |
 ------------ | ------- | ----------| ------- | 
 Brainstorm   | 12/07/2022 | Todos | Vitor Eduardo, Luan Vasco |
-Estudo do perfil do usuário | 12/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco |
+Estudo do perfil do usuário | 12/07/2022 | Adne Moretti, Luan Vasco e Vitor Eduardo | Gabriel Moretti |
 Definição de personas  |   14/07/2022  | Guilherme Puida, Luan Vasco | Gustavo Martins |
 Elicitação de requisitos| 14/07/2022 | Todos | Gustavo Martins |
+Gravação vídeo | 20/7/2022 | Todos | Todos
 
 <br>
 
