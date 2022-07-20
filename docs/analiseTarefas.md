@@ -2,15 +2,20 @@
 
 ## Introdução
 
-A análise de tarefas tem por objetivo, compreender sobre o trabalho dos usuários, como realizam esse trabalho e por quê realizam. Ela pode ser utilizada em diferentes momentos no desenvolvimento de um software: para a análise da situação atual (apoiada ou não por um sistema computacional), para o (re)design de um sistema computacional ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional [1].
+A análise de tarefas tem por objetivo, compreender sobre o trabalho dos usuários, como realizam esse trabalho e por quê realizam. Ela pode ser utilizada em diferentes momentos no desenvolvimento de um software: para a análise da situação atual (apoiada ou não por um sistema computacional), para o (re)design de um sistema computacional ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional.
 
-As análises de tarefas devem envolver um processo de coleta de dados responsáveis por definir objetivos dos usuários dentro da plataforma. No livro Interação Humano-Computador de Simone Diniz e Bruno Siqueira, é apresentado três dos métodos mais comuns de análise de tarefas: O Análise Hierárquica de Tarefas (HTA), GOMS e o ConcurTaskTrees.
+As análises de tarefas devem envolver um processo de coleta de dados responsáveis por definir objetivos dos usuários dentro da plataforma. No livro Interação Humano-Computador de Simone Diniz e Bruno Siqueira, é apresentado três dos métodos mais comuns de análise de tarefas: O Análise Hierárquica de Tarefas (com a sigla em inglês HTA), GOMS e o ConcurTaskTrees.
 
-No presente projeto, utilizaremos o HTA e o ConcurTaskTrees.
+No presente projeto, utilizaremos o **HTA** e o **GOMS**.
 
 ## Análise Hierárquica de Tarefas (HTA)
 
-Ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente. Ela se baseia em psicologia funcional, e não comportamental, como eram as abordagens da época em que foi criada.
+Esta técnica ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente. Ela se baseia em psicologia funcional, e não comportamental, como eram as abordagens da época em que foi criada.
+
+## Motivação
+
+Essa técnica foi escolhida devido à facilidade de visualização e entendimento das operações e objetivos descritos nela. Isso se concretiza pois, se comparada a outras técnicas, como o GOMS, essa técnica se baseia na representação visual e hierárquica e na fácil leitura de elementos.
+## Metodologia
 
 Segue, na _figura 1_ e nos dois próximos pontos, uma legenda para os elementos que foram utilizados nas HTA criadas neste método.
 
@@ -19,7 +24,7 @@ Segue, na _figura 1_ e nos dois próximos pontos, uma legenda para os elementos 
     <p><i>Figura 1 - Legenda para as HTAs</i></p>
 </div>
 
-- **Objetivo:** Um objetivo é um estado específico de coisas, um estado final.Podendo ser definido por um ou mais eventos ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo , em última instância, do desempenho do sistema.
+- **Objetivo:** Um objetivo é um estado específico de coisas, um estado final. Podendo ser definido por um ou mais eventos ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo , em última instância, do desempenho do sistema.
 - **Operação:** Uma operação é especificada pelas circunstâncias nas quais o objetivo é ativado (input ou entrada), pelas atividades ou ações (actions) que contribuem para atingí-lo e pelas condições que indicam o seu atingimento (feedback).
 
 Seguindo o método em questão, foram confeccionados diagramas para as principais tarefas encontradas, sendo elas separadas nos itens **HTA01** (_figura 2_) e **HTA02** (_figura 3_).
@@ -40,11 +45,11 @@ Seguindo o método em questão, foram confeccionados diagramas para as principai
 
 
 ## GOMS
-O GOMS é um método de análise de tarefas proposto por Card et al. (1983) e propõe um conjunto de modelos (Objetivos, Operadores, Métodos e Regras de Seleção) e tem como objetivo analisar o desempenho de usuários competentes de sistemas computacionais. Os modelos GOMS são úteis para prever o desempenho pelo impacto das decisões de design. Se aplica principalmente quando o usuário realizam tarefas que já dominam.
+O GOMS é um método de análise de tarefas proposto por Card et al. (1983) e propõe um conjunto de modelos (Objetivos, Operadores, Métodos e Regras de Seleção) e tem como objetivo analisar o desempenho de usuários competentes de sistemas computacionais. Os modelos GOMS são úteis para prever o desempenho pelo impacto das decisões de design. Se aplica principalmente quando os usuários realizam tarefas que já dominam.
 ## Motivação
-A escolha desse método foi devido ao projeto ser desenvolvido a partir de um sistema já existente, sendo assim, pessupõe-se que os usuários realizem tarefas que já dominem e o objetivo é apenas fornecer uma representação formalizada que pode ser utilizada para prever o desempenho e propor melhorias ao sistema.
+A escolha desse método foi devido ao projeto ser desenvolvido a partir de um sistema já existente, sendo assim, pressupõe-se que os usuários realizem tarefas que já dominem e o objetivo é apenas fornecer uma representação formalizada que pode ser utilizada para prever o desempenho e propor melhorias ao sistema.
 
-### Metodologia
+## Metodologia
 Esse método descreve uma tarefa e o conhecimento do usuário sobre como realizá-la, levando em conta os objetivos, operadores, métodos e regras de seleção. 
 - Objetivos: Representam o motivo, o que usuário quer realizar ao utilizar o software;
 - Operadores: São primitivas internas ou externas;
@@ -60,7 +65,7 @@ GOAL 0: Encontrar a obra desejada
         (SEL.RULE: O usuário deseja procurar uma obra por várias informações ou apenas por tipo de obra)
             OP. 1.A.A.1.: Deslocar o mouse até "Pesquisa Básica" no canto superior esquerdo;
             OP. 1.A.A.2.: Clicar no campo que deseja preencher para buscar obra. (O campo Tipo de Mídia é o único obrigatório;
-            OP 1.A.A.3: Selecionar nos campos de seleção e escrever nos de texto;
+            OP. 1.A.A.3: Selecionar nos campos de seleção e escrever nos de texto;
             OP. 1.A.A.4: Deslocar o mouse para o botão "pesquisar";
             OP. 1.A.A.5: Clicar com o botão esquerdo do mouse;
 
@@ -115,4 +120,4 @@ Humano-Computador e Experiência do usuário. Autopublicação.
 | Versão | Data       | Descrição                                 | Autor        | Revisor   |
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
 | 0.1    | 17/07/2022 | Documento inicial                         | Gabriel Moretti    | Adne Moretti |
-| 0.2    | 19/07/2022 | Adicionando análise de tarefas por GOMS   | Adne Moretti | 
+| 0.2    | 19/07/2022 | Adicionando análise de tarefas por GOMS   | Adne Moretti | Gabriel Moretti 
