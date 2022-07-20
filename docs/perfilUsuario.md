@@ -2,12 +2,17 @@
 
 ## Introdução 
 Busca-se saber qual o perfil do usuário que acessa à biblioteca Domínio Público. Ao traçar um perfil de usuário, decisões melhores podem ser tomadas.
+Para atingir o objetivo de traçar esse perfil, que é uma descrição mais detalhada das características dos usuários, foi utilizado um formulário.
+As características que nos interessam são características como nível de escolaridade, atividades principais,faixa etária e já utilizou ou conhece o site Domínio Público.
+
+## Metodoglia 
+
+Para levantar os dados foi utilizado um google forms no período de 18/7/2022 até 20/7/2022. Tivemos 23 respostas e cada resposta ao formulário não levava mais de 1 minuto.
+O formulário foi distribuído em grupos de matérias, de amigos e de conhecidos.
+O link para acessar o formulário : https://docs.google.com/forms/d/e/1FAIpQLScS9qIBtYtbFIqnFLYNygD9SH9j-unDxr06jbW4R_k41rX8hg/viewform?usp=sf_link
 
 
-## Objetivos
-
-
-## Perguntas
+## Resultados
 
 ### 1 - Qual a sua faixa etária?
 
@@ -75,10 +80,27 @@ Busca-se saber qual o perfil do usuário que acessa à biblioteca Domínio Públ
 ![sugestao_melhoria](https://user-images.githubusercontent.com/56610229/180091037-1e98cf7e-cf44-41bd-959c-d170ac70ef8c.png)
 
 
+## Conclusão
+
+ - Todos os participantes que participaram da pesquisa aceitaram o termo de consentimento
+ - 95,5% dos participantes estão na faixa entre 19 a 24 anos de idade.
+ - 87% dos participantes tem interesse por livros.
+ - 95,7% dos participantes já tiveram necessidade de ter uma fonte segura de livros.
+ - Ninguém se interessa por nenhuma das formas de artes
+ - Som e vídeo são as formas de artes preferidas.
+ - 87% dos participantes são discentes.
+ - 65,2% já tiveram necessidade em fazer essa busca em algum acervo público.
+ - 43,5% dos participantes já utilizaram o site domínio público
+ - 33,3% acham que o site é pouco intuitivo
+ - 44,4% dos participantes acham a interface nada satisfatória
+
+## Referência bibliográfica
+BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
-| 0.1 | 20/07/2022 | Documento Inicial | Vitor Eduardo e Luan Vasco | --- |
+| 0.1 | 20/07/2022 | Documento Inicial | Vitor Eduardo, Luan Vasco e Adne Moretti | Gabriel Moretti |
 
 
