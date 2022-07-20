@@ -75,6 +75,10 @@ Busca-se saber qual o perfil do usuário que acessa à biblioteca Domínio Públ
 ![sugestao_melhoria](https://user-images.githubusercontent.com/56610229/180091037-1e98cf7e-cf44-41bd-959c-d170ac70ef8c.png)
 
 
+## Histórico de Versão
 
+| Versão | Data | Descrição | Autor | Revisor |
+|--------|------|-----------|-------|---------|
+| 0.1 | 20/07/2022 | Documento Inicial | Vitor Eduardo e Luan Vasco | --- |
 
 
