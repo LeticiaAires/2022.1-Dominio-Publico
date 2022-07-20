@@ -11,7 +11,7 @@
 
 - [Análise de Tarefas](/analiseTarefas.md)
 - [Personas](/personas.md)
-- [Perfil do Usuário](/perfilusuario.md)
+- [Perfil do Usuário](/perfilUsuario.md)
 
 - Apresentações
 - [Apresentação 1](/apresentacoes/apresentacao1.md)
