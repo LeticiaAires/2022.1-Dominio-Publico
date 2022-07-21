@@ -1,10 +1,11 @@
 # Questões éticas
 Essa página aborda as questões éticas e de que forma elas foram tratadas para as pesquisas realizadas durante o projeto. 
 
-Para a realização de pesquisas, é extremamente importante respeitar as questões éticas para que os participantes não se sintam violados durante o processo. É fundamental levar em conta os seguintes ponntos:
-- Evitar causar danos ou consequências negativas aos outros; 
-- Assegurar o uso adequado das informações; 
-- Honrar a confienciabilidade das questões respondidas e a privacidade dos participantes.
+Para a realização de pesquisas, é extremamente importante respeitar as questões éticas para que os participantes não se sintam violados durante o processo. É fundamental levar em conta os seguintes princípios:
+- Princípio da autonomia: Envolve o consentimento livre e esclarecido dos indivíduos e a proteção de grupos vulnerávei. tratamento dos indivíduos ccom dignidade e respeito.
+- Princípio da beneficência:POnderação entre riscos e benefícios, poteniais individuais e coletivos. 
+- Princípio da não maleficiência: Garantia de evitar danos previsíveis relacionados à pesquisa.
+- Princípio da justiça e equidade: Relevância social da pesquisa, vantagens significativas para os usuários.
 
 É de suma importância também que os objetivos sejam esclarecidos para os participantes, assim como 
 
