@@ -10,6 +10,7 @@ Para a realização de pesquisas, é extremamente importante respeitar as quest�
 
 A pesquisa realizada pelo projeto foi por meio de questionáios de questões majoritariamente fechadas, pois os questionários possibilitam alcançar o maior núnero de pessoas, além de possibilitar que as pesquisass sejam respondidas de maneira mais rápida, no uestionário, as questões éticas foram abordadas por meio de um termo de consentimento elaborado pelo grupo do projeto. Sendo ele:
 
+## Termo de Consentimento 
 
 Este é um questionário destinado para o projeto do grupo 2 da disciplina Interação Humano-Computador da Universidade de Brasília no período 2022.1,  sendo 
 assim, todos os dados coletados serão anônimos, serão utilizados apenas pelos membros do grupo e apenas para a disciplina. Vale lembrar que não existe 
