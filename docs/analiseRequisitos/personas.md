@@ -71,9 +71,9 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
 </table>
 
 <center> <figcaption>Tabela 1: Persona primária</figcaption> </center>
-    
+
 ### Persona Primária 2: Amanda Nunes Pereira <a id=" AmandaNunes"></a>
-    
+
 <table>
     <thead>
         <th colspan="10" style="text-align: center"> Amanda Nunes Pereira</th>
