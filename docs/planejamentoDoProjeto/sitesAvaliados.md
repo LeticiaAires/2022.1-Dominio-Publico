@@ -9,7 +9,7 @@ A tabela a seguir (_tabela 1_) descreve os sites avaliados nessa etapa.
 
  Site |  Avaliador | Planejamento da avaliação | Avaliação
  ---- | ---------- | ------------------------- | ---------
-[Prefeitura de Joaquim Nabuco](https://joaquimnabuco.pe.gov.br/v1/)  | Gabriel Moretti | 
+[Prefeitura de Joaquim Nabuco](https://joaquimnabuco.pe.gov.br/v1/)  | Gabriel Moretti | [ProjetoParteIndividualPlanejAvaliçãoGabrielMorettiDeSouza.pdf](https://github.com/Interacao-Humano-Computador/2022.1-Dominio-Publico/files/9155163/ProjetoParteIndividualPlanejAvalicaoGabrielMorettiDeSouza.pdf) | [PlojetoParteIndividualMetodoeAvaliçãoGabrielMorettiDeSouza.pdf](https://github.com/Interacao-Humano-Computador/2022.1-Dominio-Publico/files/9155160/PlojetoParteIndividualMetodoeAvalicaoGabrielMorettiDeSouza.pdf) |
 [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.do)  | Adne Moretti | [PlanejAvaliçãoAdneMoretti.pdf](https://github.com/Interacao-Humano-Computador/2022.1-Dominio-Publico/files/9151612/ProjetoParteIndividualPlanejAvalicaoAdneMoretti.pdf) |[MetodoeAvaliçãoAdneMoretti.pdf](https://github.com/Interacao-Humano-Computador/2022.1-Dominio-Publico/files/9151620/ProjetoParteIndividualMetodoeAvalicaoAdneMoretti.1.pdf)
 [Secretaria de Estado de Educação](https://www.educacao.df.gov.br/)  | Luan Vasco |[PlanejAvaliçãoLuanVasco.pdf](https://github.com/Interacao-Humano-Computador/2022.1-Dominio-Publico/files/9151595/planejamento_luan.pdf)|[MetodoeAvaliçãoLuanVasco.pdf](https://github.com/Interacao-Humano-Computador/2022.1-Dominio-Publico/files/9151596/avaliacaosse.pdf)
 [Hacker News](https://news.ycombinator.com/)  | Guilherme Puida |
