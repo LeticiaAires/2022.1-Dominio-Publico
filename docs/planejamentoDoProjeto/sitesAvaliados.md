@@ -70,6 +70,30 @@ Nas imagens abaixo (_imagem 1 e 2_), podemos visualizar o site:
 <p><center><i>Imagem 2 - Tela após pesquisa</i></p>
 
 ![dominio_secundaria](https://user-images.githubusercontent.com/64036847/178317231-a562329f-4990-4d1e-9f6e-9f5c09526208.png)
+    
+## Avaliação do site
+    
+O método principal escolhido para a avaliação foi o de inspeção, através da avaliação
+heurística.O método de Avaliação Heurística é baseado na verificação de uma lista de regras ou
+da própria experiência do avaliador para descobrir problemas na interação e interface.
+Mede principalmente a usabilidade, facilidade de entendimento e agilidade de aplicação.
+(NIELSEN, 1990) (DESURVIRE, 1994). Os critérios para avaliação heurística são: Status do
+sistema, compatibilidade com o mundo real, controle do usuário e liberdade, consistência
+e padrões, prevenção de erros, Reconhecimento ao invés de relembrança Flexibilidade e
+eficiência no uso, Estéticas e design minimalista, ajuda aos usuários no reconhecimento e
+diagnóstico de erros, ajuda e documentação. (NIELSEN, 1994).
+   
+Através desse método, foi possível encontrar os seguintes problemas: 
+   
+![Captura de tela de 2022-07-20 21-19-06](https://user-images.githubusercontent.com/64036847/180104341-2b4730b3-42bc-4a16-908d-1e2eaa3b308e.png)
+
+![Captura de tela de 2022-07-20 21-19-25](https://user-images.githubusercontent.com/64036847/180104348-7dd2aad2-6ee5-4a4a-8b68-1c97ccc684f2.png)
+
+![Captura de tela de 2022-07-20 21-19-46](https://user-images.githubusercontent.com/64036847/180104515-6046fcfc-d792-406f-b223-66718ea20813.png)
+
+![Captura de tela de 2022-07-20 21-19-55](https://user-images.githubusercontent.com/64036847/180104605-11dd7e00-9f8a-47db-b649-704540a7f3aa.png)
+    
+![Captura de tela de 2022-07-20 21-30-06](https://user-images.githubusercontent.com/64036847/180104930-769646f7-18df-48bd-9655-13a3d4067492.png)
 
 
 
