@@ -2,10 +2,11 @@
 
 ## Introdução 
 Busca-se saber qual o perfil do usuário que acessa à biblioteca Domínio Público. Ao traçar um perfil de usuário, decisões melhores podem ser tomadas.
-Para atingir o objetivo de traçar esse perfil, que é uma descrição mais detalhada das características dos usuários, foi utilizado um formulário.
-As características que nos interessam são características como nível de escolaridade, atividades principais,faixa etária e já utilizou ou conhece o site Domínio Público.
 
-## Metodoglia 
+Para atingir o objetivo de traçar esse perfil, que é uma descrição mais detalhada das características dos usuários, foi utilizado um formulário.
+As características que nos interessam são características como nível de escolaridade, atividades principais, faixa etária e se já utilizou ou conhece o site Domínio Público.
+
+## Metodologia 
 
 Para levantar os dados foi utilizado um google forms no período de 18/7/2022 até 20/7/2022. Tivemos 23 respostas e cada resposta ao formulário não levava mais de 1 minuto.
 O formulário foi distribuído em grupos de matérias, de amigos e de conhecidos.
@@ -95,7 +96,7 @@ O link para acessar o formulário : https://docs.google.com/forms/d/e/1FAIpQLScS
  - 44,4% dos participantes acham a interface nada satisfatória
 
 ## Referência bibliográfica
-BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
+>BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
 
 ## Histórico de Versão
 
