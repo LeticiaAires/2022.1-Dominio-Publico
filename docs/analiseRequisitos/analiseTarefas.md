@@ -45,7 +45,7 @@ Seguindo o método em questão, foram confeccionados diagramas para as principai
 
 
 ## GOMS
-O GOMS é um método de análise de tarefas proposto por Card et al. (1983) e propõe um conjunto de modelos (Objetivos, Operadores, Métodos e Regras de Seleção) e tem como objetivo analisar o desempenho de usuários competentes de sistemas computacionais. Os modelos GOMS são úteis para prever o desempenho pelo impacto das decisões de design. Se aplica principalmente quando os usuários realizam tarefas que já dominam.
+O GOMS é um método de análise de tarefas proposto por Card et al. (1983) e propõe um conjunto de modelos (Objetivos, Operadores, Métodos e Regras de Seleção) e tem como objetivo analisar o desempenho de usuários competentes de sistemas computacionais. Os modelos GOMS são úteis para prever o desempenho pelo impacto das decisões de design. Se aplica principalmente quando os usuários realizam tarefas que já dominam. Dentre os modelos da família GOMS, utilizamos o modelo CMN-GOMS.
 ## Motivação
 A escolha desse método foi devido ao projeto ser desenvolvido a partir de um sistema já existente, sendo assim, pressupõe-se que os usuários realizem tarefas que já dominem e o objetivo é apenas fornecer uma representação formalizada que pode ser utilizada para prever o desempenho e propor melhorias ao sistema.
 
