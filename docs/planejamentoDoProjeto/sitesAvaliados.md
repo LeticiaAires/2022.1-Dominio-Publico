@@ -109,3 +109,4 @@ Através desse método, foi possível encontrar os seguintes problemas:
 | 0.6 | 11/07/22 | Adicionando descrição Joaquim Nabuco | Gabriel Moretti | Luan Vasco
 | 0.7 | 11/07/22 | Adicionado informações sobre o site avaliado | Vitor Eduardo | Gustavo Martins
 | 0.8 | 20/07/22 | Adição de planejamento e avaliação individual | Todos | Gabriel Moretti
+| 0.8 | 20/07/22 | Adição da avaliação por inspeção | Adne Moretti | Todos
