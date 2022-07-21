@@ -86,6 +86,8 @@ diagnóstico de erros, ajuda e documentação. (NIELSEN, 1994).
 Através desse método, foi possível encontrar os seguintes problemas: 
    
 ![Captura de tela de 2022-07-20 21-19-06](https://user-images.githubusercontent.com/64036847/180104341-2b4730b3-42bc-4a16-908d-1e2eaa3b308e.png)
+    
+![Captura de tela de 2022-07-20 21-33-23](https://user-images.githubusercontent.com/64036847/180105268-487334af-f1a0-435d-9d6d-fa16c47da976.png)
 
 ![Captura de tela de 2022-07-20 21-19-25](https://user-images.githubusercontent.com/64036847/180104348-7dd2aad2-6ee5-4a4a-8b68-1c97ccc684f2.png)
 
@@ -93,9 +95,6 @@ Através desse método, foi possível encontrar os seguintes problemas:
 
 ![Captura de tela de 2022-07-20 21-19-55](https://user-images.githubusercontent.com/64036847/180104605-11dd7e00-9f8a-47db-b649-704540a7f3aa.png)
     
-![Captura de tela de 2022-07-20 21-30-06](https://user-images.githubusercontent.com/64036847/180104930-769646f7-18df-48bd-9655-13a3d4067492.png)
-
-
 
 ## Histórico de Versão
 
