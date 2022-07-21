@@ -4,7 +4,7 @@
 
 Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.
 
-### Persona Primária: João Victor da Silva <a id=" JoaoVictor"></a>
+### Persona Primária 1: João Victor da Silva <a id=" JoaoVictor"></a>
 
 
 <table>
@@ -71,6 +71,74 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
 </table>
 
 <center> <figcaption>Tabela 1: Persona primária</figcaption> </center>
+    
+### Persona Primária 2: Amanda Nunes Pereira <a id=" AmandaNunes"></a>
+    
+<table>
+    <thead>
+        <th colspan="10" style="text-align: center"> Amanda Nunes Pereira</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="7" colspan="5" style="width: 350px">
+                <figure>
+                    <center>
+                    <a href="https://ibb.co/VQqnnn0"><img src="https://i.ibb.co/NmyDDDg/adulta2.jpg" alt="joao"  alt="Image" height="180" width="180" border="0"></a>
+                    </center>
+                    <figcaption>Figura 1: Foto da Amanda
+                    </figcaption>
+                </figure>
+            </td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Idade:</strong></td>
+            <td class="persona" colspan="1">31 anos</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Nacionalidade:</strong></td>
+            <td class="persona" colspan="1">Brasileira</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Ocupação:</strong></td>
+            <td colspan="1">Estudante de Letras</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Escolaridade:</strong></td>
+            <td colspan="1" class="persona">Ensino Médio Completo</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Objetivos:</strong></td>
+            <td colspan="1" class="persona">Obter obras de autores importantes afim de aumentar o seu repertório cultural </td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Relacionamentos:</strong></td>
+            <td colspan="1" class="persona">Solteira
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Status:</strong></td>
+            <td class="persona" colspan="1">Persona Primária</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Habilidades:</strong></td>
+            <td colspan="8" class="persona">Amanda tem facilidade com ferramentas virtuais e adora estudar sobre a cultura brasileira. Além disso, é uma pessoa muito determinada em relação aos seus objetivos e adora estudar os clássicos da literaturas brasileiras</td>
+        </tr>
+        <tr>
+            <td><strong>Tarefas:</strong></td>
+            <td colspan=8 class="persona">Amanda acorda cedo para ir ao seu curso de graduação em letras. Trabalha em uma livraria para sustentar seus estudos durante a noite e estuda no final da tarde. Nesse período de fim de tarde, ela adora estudar alguma literatura</td>
+        </tr>
+        <tr>
+            <td><strong>Requisitos:</strong></td>
+            <td colspan=8 class="persona">Amanda deseja que o site disponibilize obras de domínio público sobre os clássicos da literatura brasileira</td>
+        </tr>
+        <tr>
+            <td><strong>Expectativas:</strong></td>
+            <td colspan=8 class="persona">Amanda espera conseguir os livros desejado de maneira fácil e intuitiva, a fim de economizar tempo durante o dia para ter mais tempo para estudar as obras as quais deseja</td>
+        </tr>
+    </tbody>
+</table>
+
+<center> <figcaption>Tabela 2: Persona primária</figcaption> </center>
+
 
 ### Persona Secundária: Maria de Lurdes Nicácia <a id="MariLurdes"></a>
 
@@ -138,7 +206,7 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
     </tbody>
 </table>
 
-<center> <figcaption>Tabela 2: Persona secundária</figcaption> </center>
+<center> <figcaption>Tabela 3: Persona secundária</figcaption> </center>
 
 ### Antipersona: Cleber Brandão Winschester <a id="clebao"></a>
 
@@ -198,7 +266,7 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
     </tbody>
 </table>
 
-<center> <figcaption>Tabela 3: Antipersona.</figcaption> </center>
+<center> <figcaption>Tabela 4: Antipersona.</figcaption> </center>
 
 ### Conclusão
 
