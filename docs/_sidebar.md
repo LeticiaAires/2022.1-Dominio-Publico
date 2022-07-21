@@ -1,4 +1,4 @@
-- Planejamento do Projeto
+- **Planejamento do Projeto**
 
 - [Equipe](/planejamentoDoProjeto/equipe.md)
 - [Sites Avaliados](/planejamentoDoProjeto/sitesAvaliados.md)
@@ -7,11 +7,11 @@
 - [Metodologia](/planejamentoDoProjeto/metodologias.md)
 - [Cronograma de Atividades](/planejamentoDoProjeto/cronogramaAtividades.md)
 
-- Análise de Requisitos
+- **Análise de Requisitos**
 
-- [Análise de Tarefas](/analiseTarefas.md)
-- [Personas](/personas.md)
-- [Perfil do Usuário](/perfilUsuario.md)
+- [Análise de Tarefas](/analiseRequisitos/analiseTarefas.md)
+- [Personas](/analiseRequisitos/personas.md)
+- [Perfil do Usuário](/analiseRequisitos/perfilUsuario.md)
 
-- Apresentações
+- **Apresentações**
 - [Apresentação 1](/apresentacoes/apresentacao1.md)
