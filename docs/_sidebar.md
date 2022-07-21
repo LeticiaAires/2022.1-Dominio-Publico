@@ -12,6 +12,7 @@
 - [Análise de Tarefas](/analiseRequisitos/analiseTarefas.md)
 - [Personas](/analiseRequisitos/personas.md)
 - [Perfil do Usuário](/analiseRequisitos/perfilUsuario.md)
+- [Perfil do Usuário](/analiseRequisitos/questoesEticas.md)
 
 - **Apresentações**
 - [Apresentação 1](/apresentacoes/apresentacao1.md)
