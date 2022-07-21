@@ -85,3 +85,4 @@ Nas imagens abaixo (_imagem 1 e 2_), podemos visualizar o site:
 | 0.5 | 11/07/22 | Adicionando imagens do site | Adne Moretti | Vitor Eduardo
 | 0.6 | 11/07/22 | Adicionando descrição Joaquim Nabuco | Gabriel Moretti | Luan Vasco
 | 0.7 | 11/07/22 | Adicionado informações sobre o site avaliado | Vitor Eduardo | Gustavo Martins
+| 0.8 | 20/07/22 | Adição de planejamento e avaliação individual | Todos | Gabriel Moretti
