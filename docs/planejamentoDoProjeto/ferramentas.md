@@ -39,6 +39,8 @@ A ferramenta Telegram será utilizada como fonte de comunicação primária, vis
 
 A ferramenta LucidChart será utilizada para diagramação e construção de esquemáticos de maneira barata, eficaz e colaborativa.
 
+## Google Formulários
+A ferramenta formulários do google será utilizada para a produção de questionários para enriquecer o projeto da disciplina com informações externas.
 <img src='https://user-images.githubusercontent.com/64036847/180206901-f3f56d6a-0ba3-4408-8871-a53d93d95b84.png' width=200px ></img>
 
 <a href="https://user-images.githubusercontent.com/64036847/180206736-aa1e27d2-f956-429d-b62a-4f4c1a0a42e5.png">Formulários do google ícones criados por Freepik - Flaticon</a>
