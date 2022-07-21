@@ -18,7 +18,7 @@ resposta correta.
 
 
 Aceitando como resposta:
-- Sim: O usuário tem acesso e responde o questionário;
+- Sim: O usuário tem acesso as outras perguntas e responde o questionário;
 - Não: O usuário envia o formulário.
 
 > - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
