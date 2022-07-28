@@ -1,5 +1,15 @@
 # Metas de usabilidade
 
+Metas de usabilidade de acordo com Nielsen :
+
+ -  Funcionalidade;
+ -  Confiabilidade;
+ -  Usabilidade
+ -  Eficiência
+ -  Manutenibilidade
+ -  Portabilidade.
+
+
 ## Introdução
 
 ## Resultados
