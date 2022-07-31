@@ -14,6 +14,7 @@
 - [Perfil do Usuário](/analiseRequisitos/perfilUsuario.md)
 - [Questões Éticas](/analiseRequisitos/questoesEticas.md)
 - [Guia de estilo](/analiseRequisitos/guiaEstilo.md)
+- [Princípios Gerais de Design](/analiseRequisitos/principios_gerais.md)
 
 - **Apresentações**
 - [Apresentação 1](/apresentacoes/apresentacao1.md)
