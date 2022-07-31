@@ -13,6 +13,7 @@
 - [Personas](/analiseRequisitos/personas.md)
 - [Perfil do Usuário](/analiseRequisitos/perfilUsuario.md)
 - [Questões Éticas](/analiseRequisitos/questoesEticas.md)
+- [Guia de estilo](/analiseRequisitos/guiaEstilo.md)
 
 - **Apresentações**
 - [Apresentação 1](/apresentacoes/apresentacao1.md)
