@@ -30,11 +30,11 @@ lógica que lhes seja plausível.
 <b>Simplicidade nas Estruturas das Tarefas:</b> 
   Norman (1988) recomenda simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. 
 Tarefas desnecessariamente complexas podem ser reestruturadas, em geral utilizando inovações tecnológicas. Para simplificar a estrutura das tarefas, 
-os designers podem seguir quatro abordagens tecnológicas: 
-- a) Manter a tarefa a mesma, mas fornecendo diversas formas de apoio para que os usuários consigam aprender e realizar a tarefa
-- b) Usar tecnologia para tornar visível o que seria invisível, melhorando o feedback e a capacidade de o usuário se manter no controle da tarefa
-- c) Automatizar a tarefa ou parte dela, mantendo-a igual
-- d) Modificar a natureza da tarefa
+os designers podem seguir quatro abordagens tecnológicas:<br>
+a) Manter a tarefa a mesma, mas fornecendo diversas formas de apoio para que os usuários consigam aprender e realizar a tarefa.<br>
+b) Usar tecnologia para tornar visível o que seria invisível, melhorando o feedback e a capacidade de o usuário se manter no controle da tarefa.<br>
+c) Automatizar a tarefa ou parte dela, mantendo-a igual.<br>
+d) Modificar a natureza da tarefa.<br>
 </p>
 - <p align='justify'>
 <b>Equilíbrio entre Controle e Liberdade do Usuário:</b> 
@@ -84,18 +84,13 @@ deve ter relação clara com os tópicos da conversa até o momento e ser releva
 </p>
 - <p align='justify'>
 <b>Projeto para Erros:</b>
- Norman (1988) recomenda projetar para o erro, ou seja, assumir que qualquer erro potencial será cometido. Sendo assim, o designer deve ajudar o usuário a se 
-recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados. É nesse contexto que Nielsen (1993) e 
-Shneiderman (1998) recomendam que o designer tente, em primeiro lugar, evitar que os erros ocorram.
+ Norman (1988) recomenda projetar para o erro, ou seja, assumir que qualquer erro potencial será cometido. Sendo assim, o designer deve ajudar o usuário a se recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados. É nesse contexto que Nielsen (1993) e Shneiderman (1998) recomendam que o designer tente, em primeiro lugar, evitar que os erros ocorram.
 </p>
 
 ## 3. Conclusão
 
 <p align='justify'>
-    Por fim, vale relembrar que a utilização destes princípios auxliam o processo de design e não o substitui. É nessa contexto que, para o site Domínio 
-Público, vários desses princípios e diretrizes não foram aplicados, evidenciando uma solução de IHC passível de muitas melhorias. Sendo assim, a seção "Sites Avaliados"
-em "Planejamento do Projeto" contem o documento de avaliação do site em questão e, neste documento, podemos ver a insatisfação dos entrevistados. 
- 
+    Por fim, vale relembrar que a utilização dos princípios e diretrizes apresentados auxliam o processo de design e não o substitui. É nessa contexto que, para o site Domínio Público, vários desses princípios e diretrizes não foram aplicados, evidenciando uma solução de IHC passível de muitas melhorias. Sendo assim, a seção "Sites Avaliados" em "Planejamento do Projeto" contem o documento de avaliação do site em questão e, neste documento, podemos ver a insatisfação dos entrevistados. 
 </p>
 
 ## Referências Bibliográfica
