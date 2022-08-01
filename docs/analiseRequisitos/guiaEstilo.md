@@ -71,7 +71,7 @@ Deve existir uma preocupação com a ordenação e disposição das informaçõe
 
 Com o intuito de facilitar a visualização, o layout do site é mostrado na imagem abaixo.
 
-![](/assets/imagens/layout.png)
+![](../assets/imagens/layout.png)
 <figcaption>Imagem do layout -- Elaboração Própria</figcaption>
 
  
