@@ -12,6 +12,10 @@
 
 ## 2. Diretrizes e Princípios
 <p align='justify'>
+Segundo Norman (1988), é importante que o sistema seja projetado utilizando um modelo conceitual em que o usuário seja capaz de aprender rapidamente e sem dificuldade. O modelo conceitual deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo. 
+    
+Para Norman, o design deve facilitar, determinando quais ações serão possíveis a cada momento, fazendo uso de restrições (constraints). O design deve tornar as coisas visíveis, incluindo o modelo conceitual do sistema, as ações alternativas e os resultados das ações. Também deve ser possível avaliar o estado corrente do sistema e seguir mapeamentos naturais entre as intenções e as ações requeridas, entre as ações e o efeito resultante, e entre a informação que está visível e a interpretação do estado do sistema.
+
 Os princípios e as diretrizes comumente utilizados em IHC giram em torno dos seguintes tópicos:
 </p>
 
