@@ -15,6 +15,7 @@
 - [Questões Éticas](/analiseRequisitos/questoesEticas.md)
 - [Guia de estilo](/analiseRequisitos/guiaEstilo.md)
 - [Princípios Gerais de Design](/analiseRequisitos/principios_gerais.md)
+- [Metas de usabilidade](/analiseRequisitos/metas_usabilidade.md)
 
 - **Apresentações**
 - [Apresentação 1](/apresentacoes/apresentacao1.md)
