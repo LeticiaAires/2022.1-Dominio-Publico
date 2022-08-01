@@ -83,9 +83,9 @@ Entrega do arquivo |   01/08/2022  | Gustavo Martins | Todos | 01/08/2022
 ## Histórico de Versão
 
 
-| Versão | Data | Descrição | Autor |
-|--------|------|-----------|-------|
-| 0.1 | 30/06/22 | Documento Inicial | Gustavo Martins |
-| 0.2 | 04/07/22 | Adicionando revisores para cada artefato | Adne Moretti |
-| 0.2 | 07/07/22 | Alterações | Adne Moretti |
-| 0.3 | 11/07/22 | Adição de legendas | Gabriel Moretti |
+| Versão | Data | Descrição | Autor | Revisor
+|--------|------|-----------|-------| -------
+| 0.1 | 30/06/22 | Documento Inicial | Gustavo Martins | Adne Moretti
+| 0.2 | 04/07/22 | Adicionando revisores para cada artefato | Adne Moretti | Gustavo Martins
+| 0.2 | 07/07/22 | Alterações | Adne Moretti | Gabriel Moretti
+| 0.3 | 11/07/22 | Adição de legendas | Gabriel Moretti | Luan Vasco
