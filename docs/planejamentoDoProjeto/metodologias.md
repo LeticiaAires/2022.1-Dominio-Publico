@@ -44,8 +44,8 @@ Fluxo de trabalho:
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                 | Autor        | 
-| ------ | ---------- | ----------------------------------------- | ------------ |
-| 0.1    | 05/07/2022 | Criação do documento                      | Vitor Eduardo     |
-| 0.2    | 07/07/2022 | Criação de uma introdução à pagina | Gustavo Martins       |
-| 0.3    | 11/07/2022 | Adição de legendas e correção de erros | Gabriel Moretti
+| Versão | Data       | Descrição                                 | Autor        | Revisor
+| ------ | ---------- | ----------------------------------------- | ------------ | -------
+| 0.1    | 05/07/2022 | Criação do documento                      | Vitor Eduardo     | Adne Moretti
+| 0.2    | 07/07/2022 | Criação de uma introdução à pagina | Gustavo Martins       | Gabriel Moretti
+| 0.3    | 11/07/2022 | Adição de legendas e correção de erros | Gabriel Moretti | Gustavo Martins
