@@ -52,7 +52,7 @@ Refere-se à facilidade de lembrar como utilizar o sistema depois de ter aprendi
 
 Dentre as metas de usabilidade observadas, as que possuem uma maior prioridade com relação ao site Domínio Público são: eficácia, pois é importante que o site seja bom em encontrar e baixar obras
 ## Referência bibliográfica
-
+> JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homemcomputador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
 
 ## Histórico de Versão
 
