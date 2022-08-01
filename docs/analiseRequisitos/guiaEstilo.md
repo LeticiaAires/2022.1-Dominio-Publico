@@ -83,6 +83,6 @@ Com o intuito de facilitar a visualização, o layout do site é mostrado na ima
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
-|--------|------|-----------|-------|---------|
-| 0.1 | 30/07/2022 | Documento Inicial | Gabriel Moretti |
-| 0.2 | 30/07/2022 | Adição de cores e ícones | Gabriel Moretti |
+|--------|------|-----------|-------|---------| 
+| 0.1 | 30/07/2022 | Documento Inicial | Gabriel Moretti | Adne Moretti
+| 0.2 | 30/07/2022 | Adição de cores e ícones | Gabriel Moretti | Adne Moretti
