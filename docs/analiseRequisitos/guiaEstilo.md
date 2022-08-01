@@ -29,6 +29,28 @@ O objetivo principal dessa documento é compreender o design utilizado para o la
 | <img src='../assets/imagens/guiaEstilo/Video.gif' width=70px ></img> | **Vídeo:** O ícone de vídeo é utilizado nas tabelas resultantes de qualquer pesquisa no site, acompanhando elementos da pesquisa que representam arquivos de vídeos. |
 | <img src='../assets/imagens/guiaEstilo/TextoG.gif' width=70px ></img> | teste desc |
 
+## Tipografia
+
+O site utiliza as fontes Verdana e Arial, duas fontes __sans-serif__ (fontes que não tem protuberâncias, ou __serifs__, nas extremidades).
+Fontes desse estilo são geralmente usadas para representar simplicidade e minimalismo, e trazem um ar de modernidade para os textos.
+Além disso, são frequentemente empregadas em contextos digitais, já que mantém formato uniforme em telas de qualquer resolução.
+
+A fonte Arial foi desenvolvida em 1982 pela empresa [Monotype Typography](https://www.monotype.com/), que se especializa em design de fontes para uso em aparelhos digitais.
+Essa fonte está presente na maioria dos computadores modernos, e começou a ser distribuída em sistemas Windows a partir da versão 3.1.
+Também é incluída em todas as versões do sistema operacional Mac OS, e é encontrada na maior parte das distribuições Linux.
+
+A Verdana é uma fonte mais recente, sendo desenvolvida em 1996 por Matthew Carter, para ser usada nos sistemas operacionais Windows.
+Ainda assim, se tornou uma das fontes __sans serif__ mais usadas, e pode ser encontrada em 99% de sistemas Windows, 98% de sistemas Mac OS e 67% de sistemas Linux.
+
+Como essas fontes são amplamente usadas, elas são uma boa escolha para interfaces gráficas que desejam ser familiares para diversos públicos alvo, como é o caso do Domínio Público.
+
+No design atual, não existe uma padronização do tamanho da tipografia.
+Grande parte da interface do site é composta por imagens, e isso dificulta na implementação de padrões visuais.
+Usar imagens ao invés de textos também afeta a acessibilidade, já que leitores de tela não conseguem interpretar com facilidade o que está sendo descrito na interface.
+
+Assim, é importante que trabalhos de design levem em consideração essas dificuldades, e minimizem o uso de imagens para representar elementos que poderiam ser descritos como texto.
+Também é necessário esforço para padronizar os tamanhos utilizados, visando trazer consistência visual para a interface.
+
 ## Referência bibliográfica
 
 
