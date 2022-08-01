@@ -31,6 +31,9 @@ Refere-se a maneira que um sistema auxilia o usuário a realizar as suas tarefas
 Essa meta se refere a quanto um sistema é seguro ao usuário, ou seja, se evita que o usuário cometa erros e o protege de condições perigosas e situações indesejáveis no sistema. 
 
 - Qual a gama de possíveis erros do produto ao ser utilizado e em qual medida o sistema permite que o usuário corrija erros?
+
+> Meta aplicada ao sistema: O sistema deve direcionar o usuário para as páginas corretas para realizar as ações, além disso, deve possibilitar que o usuário retorne para a página anterior caso já não queira mais realizar a tarefa.
+
 ## Utilidade 
 Essa meta se refere à medida em que o produto oferece o tipo certo de funcionalidade.
 - O produto oferece um conjunto adequado de funções que permitem o usuário realizar todas as suas tarefas?
@@ -54,12 +57,17 @@ Refere-se à facilidade de lembrar como utilizar o sistema depois de ter aprendi
 
 ## Conclusão
 
-Dentre as metas de usabilidade observadas, as que possuem uma maior prioridade com relação ao site Domínio Público são: eficácia, eficiência, capacidade de memorização e aprendizagem, porém, algumas das metas idealizadas não foram alcançadas pelo sistema.
+Dentre as metas de usabilidade observadas, as que possuem uma maior prioridade com relação ao site Domínio Público são: eficácia, eficiência, capacidade de memorização e aprendizagem, pois são de fundamental importância para a utilização e experiência do usuário no sistema, porém, algumas das metas idealizadas não foram alcançadas pelo sistema.
 ### Metas alcançadas: 
  - Segurança: O sistema direciona os usuários para as páginas corretas para realizar as suas tarefas e permite que o usuário volte 
  - Eficiẽnia: O sistema permite que os usuários visualizem e acessem as tarefas do sistema rapidamente, pois apresenta uma página inicial que mostra suas funcionalidades. 
+- Utilidade: O sistema apresenta uma boa utilidade, já que permite ao usuário realizar as principais funcionalidades e permite encontrar e baixar obras de vários tipos, sendo som, vídeo, texto e imagem, agindo conforme o esperado. 
 
 ### Metas não alcançadas
+- Capacidade de aprendizado: Apesar de ser um sistema com funcionalidades simples para o entendimento, esse apresenta uma interface poluída, ícones e cores muito variados, o que pode confundir o usuários na utilização e no aprendizado.
+- Capacidade de memorização: O sistema apresenta ícones muito variados e despadronizados, apesar de serem formas já conhecidas pelo usuário, pode causar certa confusão ou dificul
+- Eficácia: Ao navegar pelo sistema, o usuário pode se confundir com algumas funcionalidades, mesmo repetidas, que encontra no site, o usuário pode então não obter muita produtividade ao utilizar o sistema.
+
 ## Referência bibliográfica
 > JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homemcomputador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
 
