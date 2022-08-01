@@ -63,11 +63,11 @@ Segue, na _figura 1_, o ícone do site.
 </div>
 
 Nas imagens abaixo (_imagem 1 e 2_), podemos visualizar o site:
- <p><center><i>Imagem 2 - Tela principal</i></p>
+ <p><i>Imagem 2 - Tela principal</i></p>
  
 ![dominio_telaprincipal](https://user-images.githubusercontent.com/64036847/178316942-a6883f04-0550-422f-8eff-2560cd2a5e92.png)
 
-<p><center><i>Imagem 3 - Tela após pesquisa</i></p>
+<p><i>Imagem 3 - Tela após pesquisa</i></p>
 
 ![dominio_secundaria](https://user-images.githubusercontent.com/64036847/178317231-a562329f-4990-4d1e-9f6e-9f5c09526208.png)
     
