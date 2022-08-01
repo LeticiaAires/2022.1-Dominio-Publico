@@ -21,7 +21,7 @@ A seguir, na imagem, segue o resultado da pesquisa pelas cores que foram mais ut
 
 Ao buscar pelos ícones que foram utilizados no site, foram encontrados os seguintes itens apresentados na _tabela 1_, em conjunto a uma descrição de onde utilizá-los e um motivo para sua utilização.
 
-<figcaption><center>Tabela X: Ícones do site Domínio Público</figcaption>
+<figcaption><center>Tabela 1: Ícones do site Domínio Público</figcaption>
 
 | Ícone | Descrição |
 |----------------------|--------------------------|
@@ -66,11 +66,11 @@ Também é necessário esforço para padronizar os tamanhos utilizados, visando 
 
 ## Referência bibliográfica
 
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
-| 0.1 | 20/07/2022 | Documento Inicial | Gabriel Moretti |
-
-
+| 0.1 | 30/07/2022 | Documento Inicial | Gabriel Moretti |
+| 0.2 | 30/07/2022 | Adição de cores e ícones | Gabriel Moretti |

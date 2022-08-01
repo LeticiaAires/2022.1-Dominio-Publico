@@ -44,6 +44,11 @@ A ferramenta formulários do google será utilizada para a produção de questio
 
 <img src='https://user-images.githubusercontent.com/64036847/180206901-f3f56d6a-0ba3-4408-8871-a53d93d95b84.png' width=200px ></img>
 
+## [Coolors](https://coolors.co/)
+A ferramenta Coolors do google será utilizada para a produção de paletas de cores que irão ser adicionadas ao guia de estilo do projeto da disciplina.
+
+<img src='../assets/imagens/ferramentas/coolors.png' width=200px ></img>
+
 <a href="https://user-images.githubusercontent.com/64036847/180206736-aa1e27d2-f956-429d-b62a-4f4c1a0a42e5.png">Formulários do google ícones criados por Freepik - Flaticon</a>
 
 ## Histórico de Versão
