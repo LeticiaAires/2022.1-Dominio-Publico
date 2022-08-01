@@ -44,7 +44,7 @@ Ao buscar pelos ícones que foram utilizados no site, foram encontrados os segui
 
 ## Tipografia
 
-O site utiliza as fontes Verdana e Arial, duas fontes __sans-serif__ (fontes que não tem protuberâncias, ou __serifs__, nas extremidades).
+O site utiliza as fontes Verdana e Arial, duas fontes _sans-serif_ (fontes que não tem protuberâncias, ou _serifs_, nas extremidades).
 Fontes desse estilo são geralmente usadas para representar simplicidade e minimalismo, e trazem um ar de modernidade para os textos.
 Além disso, são frequentemente empregadas em contextos digitais, já que mantém formato uniforme em telas de qualquer resolução.
 
@@ -53,7 +53,7 @@ Essa fonte está presente na maioria dos computadores modernos, e começou a ser
 Também é incluída em todas as versões do sistema operacional Mac OS, e é encontrada na maior parte das distribuições Linux.
 
 A Verdana é uma fonte mais recente, sendo desenvolvida em 1996 por Matthew Carter, para ser usada nos sistemas operacionais Windows.
-Ainda assim, se tornou uma das fontes __sans serif__ mais usadas, e pode ser encontrada em 99% de sistemas Windows, 98% de sistemas Mac OS e 67% de sistemas Linux.
+Ainda assim, se tornou uma das fontes _sans-serif_ mais usadas, e pode ser encontrada em 99% de sistemas Windows, 98% de sistemas Mac OS e 67% de sistemas Linux.
 
 Como essas fontes são amplamente usadas, elas são uma boa escolha para interfaces gráficas que desejam ser familiares para diversos públicos alvo, como é o caso do Domínio Público.
 
