@@ -64,6 +64,17 @@ Usar imagens ao invés de textos também afeta a acessibilidade, já que leitore
 Assim, é importante que trabalhos de design levem em consideração essas dificuldades, e minimizem o uso de imagens para representar elementos que poderiam ser descritos como texto.
 Também é necessário esforço para padronizar os tamanhos utilizados, visando trazer consistência visual para a interface.
 
+## Layout
+
+O layout de uma aplicação é a maneira de organização dos elementos gráficos da interface.
+Deve existir uma preocupação com a ordenação e disposição das informações, para que não haja dificuldade na hora de interagir com o sistema.
+
+Com o intuito de facilitar a visualização, o layout do site é mostrado na imagem abaixo.
+
+![](/assets/imagens/layout.png)
+<figcaption>Imagem do layout -- Elaboração Própria</figcaption>
+
+ 
 ## Referência bibliográfica
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
