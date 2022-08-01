@@ -31,14 +31,18 @@ Refere-se a maneira que um sistema auxilia o usuário a realizar as suas tarefas
 Essa meta se refere a quanto um sistema é seguro ao usuário, ou seja, se evita que o usuário cometa erros e o protege de condições perigosas e situações indesejáveis no sistema. 
 
 - Qual a gama de possíveis erros do produto ao ser utilizado e em qual medida o sistema permite que o usuário corrija erros?
+## Utilidade 
+Essa meta se refere à medida em que o produto oferece o tipo certo de funcionalidade.
+- O produto oferece um conjunto adequado de funções que permitem o usuário realizar todas as suas tarefas?
 
+> Meta aplicada ao sistema: O sistema deve posssibilitar que o usuário encontre vários tipos de obras, sendo elas texto, música, som, imagem e vídeo, ao encontrar as obra, o usuário deve possibilitar que a obra seja baixada.
 
 ## Capacidade de aprendizagem 
 Refere-se a facilidade de aprender a utilizar o sistema interativo. É importante que as pessoas se tornem competentes a realizarem as tarefas no sistema sem que precisem de ajuda.
 
 - O usuário saberá como utilizar o produto apenas experimentando determinadas ações e explorando a interface?
 
-> Meta aplicada ao sistema: O sistema deve facilitar a aprendizagem do usuário ao realizar as tarefas do sistema sem que esse precise de ajuda, sendo assim, o sistema deve apresentar uma linguagem simples, direta e concisa, ícones padronizados, os elementos devem estar dispostos a fim de demonstrar que tarefas o usuário pode realizar.
+> Meta aplicada ao sistema: O sistema deve facilitar a aprendizagem do usuário ao realizar as tarefas do sistema sem que esse precise de ajuda, sendo assim, o sistema deve apresentar uma linguagem simples, direta e concisa, interface limpa, os elementos devem estar dispostos a fim de demonstrar que tarefas o usuário pode realizar.
 
 ## Capacidade de memorização 
 Refere-se à facilidade de lembrar como utilizar o sistema depois de ter aprendido uma vez.
@@ -50,7 +54,12 @@ Refere-se à facilidade de lembrar como utilizar o sistema depois de ter aprendi
 
 ## Conclusão
 
-Dentre as metas de usabilidade observadas, as que possuem uma maior prioridade com relação ao site Domínio Público são: eficácia, pois é importante que o site seja bom em encontrar e baixar obras
+Dentre as metas de usabilidade observadas, as que possuem uma maior prioridade com relação ao site Domínio Público são: eficácia, eficiência, capacidade de memorização e aprendizagem, porém, algumas das metas idealizadas não foram alcançadas pelo sistema.
+### Metas alcançadas: 
+ - Segurança: O sistema direciona os usuários para as páginas corretas para realizar as suas tarefas e permite que o usuário volte 
+ - Eficiẽnia: O sistema permite que os usuários visualizem e acessem as tarefas do sistema rapidamente, pois apresenta uma página inicial que mostra suas funcionalidades. 
+
+### Metas não alcançadas
 ## Referência bibliográfica
 > JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homemcomputador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
 
