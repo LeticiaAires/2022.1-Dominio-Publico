@@ -76,5 +76,5 @@ Dentre as metas de usabilidade observadas, as que possuem uma maior prioridade c
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
-| 0.1 | 30/07/2022 | Documento Inicial | Luan Vasco |  |
-| 0.2 | 01/08/2022 | Adição das metas | Adne Moretti Moreira |  |
+| 0.1 | 30/07/2022 | Documento Inicial | Luan Vasco | Gabriel Moretti |
+| 0.2 | 01/08/2022 | Adição das metas | Adne Moretti Moreira | Gabriel Moretti |
