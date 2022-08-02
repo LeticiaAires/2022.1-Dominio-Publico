@@ -60,7 +60,7 @@ Refere-se à facilidade de lembrar como utilizar o sistema depois de ter aprendi
 Dentre as metas de usabilidade observadas, as que possuem uma maior prioridade com relação ao site Domínio Público são: eficácia, eficiência, capacidade de memorização e aprendizagem, pois são de fundamental importância para a utilização e experiência do usuário no sistema, porém, algumas das metas idealizadas não foram alcançadas pelo sistema.
 ### Metas alcançadas: 
  - Segurança: O sistema direciona os usuários para as páginas corretas para realizar as suas tarefas e permite que o usuário volte 
- - Eficiẽnia: O sistema permite que os usuários visualizem e acessem as tarefas do sistema rapidamente, pois apresenta uma página inicial que mostra suas funcionalidades. 
+ - Eficiência: O sistema permite que os usuários visualizem e acessem as tarefas do sistema rapidamente, pois apresenta uma página inicial que mostra suas funcionalidades. 
 - Utilidade: O sistema apresenta uma boa utilidade, já que permite ao usuário realizar as principais funcionalidades e permite encontrar e baixar obras de vários tipos, sendo som, vídeo, texto e imagem, agindo conforme o esperado. 
 
 ### Metas não alcançadas
