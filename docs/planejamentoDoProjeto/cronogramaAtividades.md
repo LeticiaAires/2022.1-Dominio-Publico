@@ -78,7 +78,23 @@ Gravação do vídeo de apresentação  |   30/07/2022  | Todos | Todos | 30/07/
 Edição do vídeo de apresentação  |   01/08/2022  | Guilherme Puida | Todos | 01/08/2022
 Entrega do arquivo |   01/08/2022  | Gustavo Martins | Todos | 01/08/2022
 <br>
+    
+<figcaption><center>
+    Tabela 5 - Quarta entrega
+</figcaption>
 
+Atividade(s) | Data  | Responsável | Revisor | Data de Revisão
+------------ | ------- | ----------| ------- | ---------------
+Planejamento da Análise de Tarefas  | 10/08/2022 | Vitor Eduardo, Luan Vasco  | Luan Vasco | 11/08/2022
+Resultados da análise de tarefas  | 10/08/2022 | Gabriel Moretti  | Luan Vasco | 11/08/2022
+Planejamento do Storyboard | 10/08/2022 | Adne Moretti | Luan Vasco | 11/07/2022
+Storyboard |   11/08/2022  | Gustavo Martins, Guilherme Puida | Adne Moretti | 12/08/2022
+Planejamento da avaliação do storyboard  |   10/08/2022  | Adne Moretti, Luan Vasco | Todos | 11/08/2022
+Resultados da análise do storyboard  |   11/08/2022  | Vitor Eduardo, Gabriel Moretti| Todos | 12/08/2022
+Gravação do vídeo  |   16/08/2022  | Todos | Todos | 30/07/2022
+Edição do vídeo de apresentação  |   16/08/2022  | Guilherme Puida | Todos | 01/08/2022
+Entrega do arquivo |   17/08/2022  | Gustavo Martins | Todos | 01/08/2022
+<br>
 
 ## Histórico de Versão
 
