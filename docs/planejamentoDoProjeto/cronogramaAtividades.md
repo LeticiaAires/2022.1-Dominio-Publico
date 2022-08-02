@@ -72,7 +72,7 @@ A seguir, na _tabela 4_, se encontra a tabela relacionada à terceira entrega da
 Atividade(s) | Data  | Responsável | Revisor | Data de Revisão
 ------------ | ------- | ----------| ------- | ---------------
 Princípios Gerais de Projeto   | 26/07/2022 | Gustavo Martins, Vitor Eduardo | Luan Vasco | 28/07/2022
-Metas de usabilidade | 28/07/2022 | Adne Moretti, Luan Vasco | Gabriel Moretti | 29/07/2022
+Metas de usabilidade | 28/07/2022 | Adne Moretti | Luan Vasco | 29/07/2022
 Guia de Estilo  |   30/07/2022  | Guilherme Puida, Gabriel Moretti | Adne Moretti | 30/07/2022
 Gravação do vídeo de apresentação  |   30/07/2022  | Todos | Todos | 30/07/2022
 Edição do vídeo de apresentação  |   01/08/2022  | Guilherme Puida | Todos | 01/08/2022
