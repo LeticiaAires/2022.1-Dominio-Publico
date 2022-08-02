@@ -102,6 +102,6 @@ Com o intuito de facilitar a visualização, o layout do site é mostrado na ima
 |--------|------|-----------|-------|---------| 
 | 0.1 | 30/07/2022 | Documento Inicial | Gabriel Moretti | Adne Moretti
 | 0.2 | 30/07/2022 | Adição de cores e ícones | Gabriel Moretti | Adne Moretti
-| 0.3 | 30/07/2022 | Adição tipografia | Guilherme Puida |
-| 0.4 | 01/08/2022 | Adição Layout | Guilherme Puida |
-| 0.5 | 01/08/2022 | Adição Botões e entradas | Gabriel Moretti |
+| 0.3 | 30/07/2022 | Adição tipografia | Guilherme Puida | Adne Moretti
+| 0.4 | 01/08/2022 | Adição Layout | Guilherme Puida | Adne Moretti
+| 0.5 | 01/08/2022 | Adição Botões e entradas | Gabriel Moretti | Adne Moretti
