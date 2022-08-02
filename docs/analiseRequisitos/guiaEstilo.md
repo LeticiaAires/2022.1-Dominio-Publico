@@ -43,6 +43,21 @@ Ao buscar pelos ícones que foram utilizados no site, foram encontrados os segui
 | ![](../assets/imagens/guiaEstilo/SomG.gif) | **Som:** O ícone de som é utilizado na tela de baixar, representando um exemplo de um arquivo de áudio.<br>Possui uma miniatura que pode ser encontrada acompanhando documentos do tipo 'som' nas tabelas do site. |
 | ![](../assets/imagens/guiaEstilo/lupa1.gif) | **Lupa:** O ícone da lupa é utilizado em diversos locais do site que representem uma pesquisa. Pode ser encontrado em diversos tamanhos |
 
+## Botões e Entradas
+
+O site apresenta como formas de _input_ (entrada) e botões alguns padrões de estilo. Após analisá-los em seu CSS, foram retiradas as seguintes observações da _tabela 2_:
+
+<figcaption><center><i>Tabela 2: Botões e entradas do site Domínio Público</i></figcaption>
+
+| Ícone | Descrição |
+|----------------------|--------------------------|
+| ![](../assets/imagens/guiaEstilo/defaultButton.png)| **Botões padrão:** Ao lado pode-se observar o botão padrão do site, utilizado dentro das página. <br> Esse botão possui uma borda azul clara arredondada, interior de cor branca e tamanho de 68x22 pixels. |
+| ![](../assets/imagens/guiaEstilo/vermais.png)| **Botões "Ver mais":** Ao lado pode-se observar o botão de "ver mais", com as mesmas cores do botão padrão, porém de tamanho 11x11 e bordas quadradas. |
+| ![](../assets/imagens/guiaEstilo/topbutton.png)| **Botões do menu superior:** Ao lado pode-se observar um exemplo do botão do menu superior, com cores cinzas de fundo, design retangular e tamanhos variáveis dependendo do seu conteúdo, mas sempre mantendo um espaço lateral de 13 pixels à esquerda e 15 à direita, e um espaço de 8 pixels acima e abaixo do texto conteúdo.  |
+| ![](../assets/imagens/guiaEstilo/selectbox.png)| **Caixas de Seleção:** Ao lado pode-se observar uma das entradas do site, a caixa de seleção, que possui um design simples, com fundo branco, texto interno de cor preta, borda de cor preta e tamanho de 15 pixels de altura, com largura variável, porém de máximo 250 pixels. |
+| ![](../assets/imagens/guiaEstilo/textbox.png)| **Caixas de Texto:** Ao lado pode-se observar uma das entradas do site, a caixa de texto, que possui um design simples, com fundo branco, texto interno de cor preta, borda de cor preta e tamanho de 17 pixels de altura, com largura variável, porém de máximo 277 pixels. |
+| ![](../assets/imagens/guiaEstilo/letterButtons.png)| **Botões em letras:** Ao lado podem-se observar os botões de letras, compostos de um fundo branco com o texto cinza. Seu tamanho é de aproximadamente 23x25 para as letras maiúsculas e de 87x14 para o texto inferior, apresentado na imagem. |
+
 ## Tipografia
 
 O site utiliza as fontes Verdana e Arial, duas fontes _sans-serif_ (fontes que não tem protuberâncias, ou _serifs_, nas extremidades).
