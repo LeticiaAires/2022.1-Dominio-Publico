@@ -78,7 +78,8 @@ Gravação do vídeo de apresentação  |   30/07/2022  | Todos | Todos | 30/07/
 Edição do vídeo de apresentação  |   01/08/2022  | Guilherme Puida | Todos | 01/08/2022
 Entrega do arquivo |   01/08/2022  | Gustavo Martins | Todos | 01/08/2022
 <br>
-    
+
+### Quarta Entrega - 17/08/2022
 <figcaption><center>
     Tabela 5 - Quarta entrega
 </figcaption>
