@@ -73,7 +73,8 @@ Deve existir uma preocupação com a ordenação e disposição das informaçõe
 Com o intuito de facilitar a visualização, o layout do site é mostrado na imagem abaixo.
 
 ![](../assets/imagens/layout.png)
-<figcaption><center>Imagem do layout -- Elaboração Própria</center></figcaption>
+<figcaption><center>Imagem X - Imagem do layout - Elaboração Própria</center></figcaption>
+
 
  
 ## Referência bibliográfica
@@ -86,3 +87,7 @@ Com o intuito de facilitar a visualização, o layout do site é mostrado na ima
 |--------|------|-----------|-------|---------| 
 | 0.1 | 30/07/2022 | Documento Inicial | Gabriel Moretti | Adne Moretti
 | 0.2 | 30/07/2022 | Adição de cores e ícones | Gabriel Moretti | Adne Moretti
+| 0.3 | 30/07/2022 | Adição tipografia | Guilherme Puida |
+| 0.4 | 01/08/2022 | Adição Layout | Guilherme Puida |
+
+>>>>>>> 0e96a5a (Histórico)
