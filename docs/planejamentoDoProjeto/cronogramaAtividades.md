@@ -73,17 +73,19 @@ Atividade(s) | Data  | Responsável | Revisor | Data de Revisão
 ------------ | ------- | ----------| ------- | ---------------
 Princípios Gerais de Projeto   | 26/07/2022 | Gustavo Martins, Vitor Eduardo | Adne Moretti | 28/07/2022
 Metas de usabilidade | 28/07/2022 | Adne Moretti, Luan Vasco | Luan Vasco | 29/07/2022
-Guia de Estilo  |   30/07/2022  | Guilherme Puida, Gabriel Moretti | Luan Vasco | 01/08/2022
-
+Guia de Estilo  |   30/07/2022  | Guilherme Puida, Gabriel Moretti | Luan Vasco | 30/07/2022
+Gravação do vídeo de apresentação  |   30/07/2022  | Todos | Todos | 30/07/2022
+Edição do vídeo de apresentação  |   01/08/2022  | Guilherme Puida | Todos | 01/08/2022
+Entrega do arquivo |   01/08/2022  | Gustavo Martins | Todos | 01/08/2022
 <br>
 
 
 ## Histórico de Versão
 
 
-| Versão | Data | Descrição | Autor |
-|--------|------|-----------|-------|
-| 0.1 | 30/06/22 | Documento Inicial | Gustavo Martins |
-| 0.2 | 04/07/22 | Adicionando revisores para cada artefato | Adne Moretti |
-| 0.2 | 07/07/22 | Alterações | Adne Moretti |
-| 0.3 | 11/07/22 | Adição de legendas | Gabriel Moretti |
+| Versão | Data | Descrição | Autor | Revisor
+|--------|------|-----------|-------| -------
+| 0.1 | 30/06/22 | Documento Inicial | Gustavo Martins | Adne Moretti
+| 0.2 | 04/07/22 | Adicionando revisores para cada artefato | Adne Moretti | Gustavo Martins
+| 0.2 | 07/07/22 | Alterações | Adne Moretti | Gabriel Moretti
+| 0.3 | 11/07/22 | Adição de legendas | Gabriel Moretti | Luan Vasco
