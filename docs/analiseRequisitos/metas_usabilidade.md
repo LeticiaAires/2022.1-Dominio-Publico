@@ -5,7 +5,7 @@
 Esse documento tem como principal objetivo apresentar as metas de usabilidade definidas do site avaliado. Essas são baseadas no conjunto de metas definido por Jakob Nielsen(1993). Sendo assim, serão introduzidos os conceitos das metas, as metas idealizada para o projeto e quais dessas realmente foram alcançadas pelo sistema.
 
 ## Resultados
-## Usabilidade
+### Usabilidade
 
 A usabilidade visa assegurar que os sistemas interativos tenham facilidade em seu uso, sejam eficazes, eficientes e agradáveis aos usuários, ou seja, a usabilidade está extremamente relacionada a experiência do usuário no sistema. As metas normalmente são operacionalizadas no formato de perguntas, pois dessa forma se torna mais fácil de avaliar a usabilidade de um sistema.
 
