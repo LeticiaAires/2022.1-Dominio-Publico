@@ -16,7 +16,7 @@
     - [Metas de usabilidade](analiseRequisitos/metas_usabilidade.md)
 
 - **Design, Avaliação e Desenvolvimento**
-    -**Fase 1** 
+    - **Fase 1** 
         - [Planejamento da Avalição - Análise de tarefas](design/Fase1/planejAnaliseTarefas.md)
 
 - **Apresentações**
