@@ -15,6 +15,10 @@
     - [Princípios Gerais de Design](analiseRequisitos/principios_gerais.md)
     - [Metas de usabilidade](analiseRequisitos/metas_usabilidade.md)
 
+- **Design, Avaliação e Desenvolvimento**
+    -**Fase 1** 
+        - [Planejamento da Avalição - Análise de tarefas](design/Fase1/planejAnaliseTarefas.md)
+
 - **Apresentações**
     - [Apresentação 1](apresentacoes/apresentacao1.md)
     - [Apresentação 2](apresentacoes/apresentacao2.md)
