@@ -25,12 +25,13 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 
 ### 4.1.1. Buscar obras
 
+
 <p align="center">
-<img src=''>
+<img src='https://user-images.githubusercontent.com/64036847/183446056-1d44df60-c133-48cb-a560-d28bd27b5fe3.jpeg'>
   <figcaption align='center'>
     <b>Figura 1: X</b>
     </br>
-    <small>Fonte: X</small>
+    <small>Fonte: Autoria própria- Adne Moretti</small>
   </figcaption>
 </p></br>
 
