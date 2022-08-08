@@ -55,20 +55,11 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 ### 4.1.2. Acessar sites relacionados
 
 <p align="center">
-<img src=''>
+<img src='../../assets/imagens/storyboards/storyboard_Gabriel.png'>
   <figcaption align='center'>
-    <b>Figura 1: X</b>
+    <b>StoryBoard 1: Acesso ao site do Machado de Assis</b>
     </br>
-    <small>Fonte: X</small>
-  </figcaption>
-</p></br>
-
-<p align="center">
-<img src=''>
-  <figcaption align='center'>
-    <b>StoryBoard 1: X</b>
-    </br>
-    <small>Fonte: X</small>
+    <small>Fonte: Autor - Gabriel Moretti</small>
   </figcaption>
 </p></br>
 
