@@ -6,7 +6,7 @@ A avaliação de IHC é uma tarefa essencial para produtos de software de alta q
 Anteriormente, na etapa de Análise de requisitos, foi feita uma análise de tarefas, la equipe analisou o site e as tarefas que os usuários realizariam neste, porém, esse levantamento de tarefas foi realizado por investigação própria dos membros do grupo, sem a interação com o usuário. 
 
 ## Metodologia 
-A metodologia utilizada para o planejamento da avaliação foi o framework DECIDE, que utiliza das seguintes atividades. 
+A metodologia utilizada para o planejamento da avaliação foi o framework DECIDE, que utiliza de atividades interligadas e executadas iterativamente, são essas:
 
 | Letra | Significado
 | ----- | ----------- 
@@ -37,8 +37,8 @@ A ideia, primeiramente, seria de pedir aos participantes que utilizassem o site 
 ## Questões práticas
 
 ### Participantes
-Serão selecionados participates voluntários que se enquadrem no perfil de usuário desenvolvido para o sistema e nas personas. Sendo assim, é interessante que sejam jovens entre 19 e 24 anos, que são estudantes.
-Além disso, a entrevista será composta por dois participantes do projeto, o entrevistador e o avaliador. O entrevistador será o responsável por fazer as perguntas, enquanto o avaliador deverá gravar a tela e analisar as respostas do entrevistado e os passos que este percorreu para atingir determinado objetivo.
+Serão selecionados participates voluntários que se enquadrem no perfil de usuário desenvolvido para o sistema e nas personas. Sendo assim, é interessante que sejam jovens e adultos, professores, estudantes ou pesquisadores.
+Além disso, a entrevista será composta por dois participantes do projeto, o entrevistador e o avaliador. O entrevistador será o responsável por fazer as perguntas, enquanto o avaliador deverá gravar a tela e analisar as respostas, além de anotar os pontos discutidos mais importantes.
 
 ### Ambiente de avaliação
 A entrevista vai ser feita de forma remota e, por isso, os participantes utilizarão de recursos próprios, por isso, o participante escolherá a pĺataforma que mais tem familiariedade, dentre as seguintes:
@@ -78,8 +78,10 @@ Identificador | Pergunta | Possível resposta
 13 | Você já utilizou o sistema com algum objetivo que difere de buscar e baixar obras | Discursiva 
 
 ## Interpretação dos resultados
-A partir da realização da entrevista e da gravação do vídeo a equipe vai interpretar e relatar os resultaods obtidos. O relato dos resultados ficará em um tópico da documentação intitulado por "Resultados da avaliação da Análise de Tarefas. A partir dos resultados obtidos o grupo levantará possíveis melhorias para o artefato Análise de Tarefas para que esse tenha as tarefas e com maior detalhamento e proximidade com a realidade possível.
+A partir da realização da entrevista e da gravação do vídeo a equipe vai se juntas para analisar e interpretar todos os resultados obtidos através da entrevista a fim de utilizar dessas informações para acresentar melhorias ao projeto.
 
+## Relato dos resultados
+O relato dos resultados ficará em um tópico da documentação intitulado por "Resultados da avaliação da Análise de Tarefas. A partir dos resultados obtidos e da interpretação já feita, o grupo levantará possíveis melhorias para o artefato Análise de Tarefas para que esse tenha as tarefas e com maior detalhamento e proximidade com a realidade possível.
 
 ## Referência bibliográfica
 >BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
