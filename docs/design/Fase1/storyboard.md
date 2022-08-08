@@ -55,6 +55,15 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
   </figcaption>
 </p></br>
 
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/70032505/183531967-e5d34052-ed2e-42d6-a0e3-15565a658edb.png'>
+  <figcaption align='center'>
+    <b>StoryBoard 2: Acessar hinos brasileiros</b>
+    </br>
+  <small>Fonte: Autoria Própria - Guilherme Puida</small>
+  </figcaption>
+  </p></br>
+
 ## 4.2 Storyboards finais
 
 ### 4.2.1 Buscar obras
