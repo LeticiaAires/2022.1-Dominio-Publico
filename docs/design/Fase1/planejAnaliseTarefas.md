@@ -16,6 +16,12 @@ A metodologia utilizada para o planejamento da avaliação foi o framework DECID
 | I| Identificar e administrar as questões práticas, equipamentos, participantes, etc.
 | D | Decidir de que forma lidar com as questões éticas envolvidas na avaliação, como a elaboração de um termo de consentimento
 | E | Avaliar e interpretar os dados 
+<p align="center">
+  <figcaption align='center'>
+    <b>Tabela 1: Framework DECIDA</b>
+    </br>
+  </figcaption>
+</p></br>
 
 ## Resultados 
 
@@ -76,6 +82,13 @@ Identificador | Pergunta | Possível resposta
 12.1 | Você já precisou da ajuda ou teve que se comunicar com alguém do sistema? |<li>Sim</li><li>Não</li>
 12.2 | Como você fez para se comunicar com alguém do sistema? (Caso a resposta anterior tenha sido sim) | Discursiva
 13 | Você já utilizou o sistema com algum objetivo que difere de buscar e baixar obras | Discursiva 
+
+<p align="center">
+  <figcaption align='center'>
+    <b>Tabela 2: Roteiro da entrevista</b>
+    </br>
+  </figcaption>
+</p></br>
 
 ## Interpretação dos resultados
 A partir da realização da entrevista e da gravação do vídeo a equipe vai se juntas para analisar e interpretar todos os resultados obtidos através da entrevista a fim de utilizar dessas informações para acresentar melhorias ao projeto.
