@@ -25,22 +25,21 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 
 ### 4.1.1. Buscar obras
 
-
 <p align="center">
-<img src='https://user-images.githubusercontent.com/64036847/183446056-1d44df60-c133-48cb-a560-d28bd27b5fe3.jpeg'>
+<img src='https://user-images.githubusercontent.com/64036847/183446056-1d44df60-c133-48cb-a560-d28bd27b5fe3.jpeg' width=500px>
   <figcaption align='center'>
-    <b>Figura 1: X</b>
+    <b>Figura 1: Storyboard - buscar obras parte 1</b>
     </br>
     <small>Fonte: Autoria própria- Adne Moretti</small>
   </figcaption>
 </p></br>
 
 <p align="center">
-<img src=''>
+<img src='https://user-images.githubusercontent.com/64036847/183510651-742de894-4d3f-480e-838c-847572af930e.jpeg' width=500px>
   <figcaption align='center'>
-    <b>StoryBoard 1: X</b>
+    <b>StoryBoard 1: Storyboard - buscar obras parte 2</b>
     </br>
-    <small>Fonte: X</small>
+    <small>Fonte: Autoria própria - Adne Moretti</small>
   </figcaption>
 </p></br>
 
