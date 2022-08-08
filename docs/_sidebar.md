@@ -17,7 +17,9 @@
 
 - **Design, Avaliação e Desenvolvimento**
     - **Fase 1** 
-        - [Planejamento da Avalição - Análise de tarefas](design/Fase1/planejAnaliseTarefas.md)
+        - [Planejamento da Avaliação - Análise de tarefas](design/Fase1/planejAnaliseTarefas.md)
+        - [Planejamento da Avaliação - Storyboard](design/Fase1/planejStoryboard.md)
+        - [Storyboard](design/Fase1/storyboard.md)
 
 - **Apresentações**
     - [Apresentação 1](apresentacoes/apresentacao1.md)
