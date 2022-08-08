@@ -79,7 +79,7 @@ Edição do vídeo de apresentação  |   01/08/2022  | Guilherme Puida | Todos 
 Entrega do arquivo |   01/08/2022  | Gustavo Martins | Todos | 01/08/2022
 <br>
 
-### Quarta Entrega - 17/08/2022
+### Quarta Entrega - 8/8/2022
 <figcaption><center>
     Tabela 5 - Quarta entrega
 </figcaption>
@@ -92,6 +92,8 @@ Planejamento do Storyboard | 05/08/2022 | Adne Moretti | Luan Vasco | 06/07/2022
 Storyboard |   06/08/2022  | Gustavo Martins, Guilherme Puida | Adne Moretti | 06/08/2022
 Planejamento da avaliação do storyboard  |   06/08/2022  | Adne Moretti, Luan Vasco | Todos | 07/08/2022
 Resultados da análise do storyboard  |   06/08/2022  | Vitor Eduardo, Gabriel Moretti| Todos | 07/08/2022
+Planejamento do Relato de Resultados do Storyboard  |   06/08/2022  | Luan Vasco | Vitor Eduardo | 07/08/2022
+Planejamento do Relato de Resultados de Análise de Tarefas |   06/08/2022  | Luan Vasco | Vitor Eduardo | 07/08/2022
 Gravação do vídeo  |   07/08/2022  | Todos | Todos | 07/07/2022
 Edição do vídeo de apresentação  |   08/08/2022  | Guilherme Puida | Todos | 08/08/2022
 Entrega do arquivo |   08/08/2022  | Gustavo Martins | Todos | 08/08/2022
