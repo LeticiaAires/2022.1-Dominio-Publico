@@ -70,7 +70,7 @@ Identificador | Pergunta | Possível resposta
 10.2 | Como você buscou por essa obra? (Caso a resposta anterior tenha sido sim) | Discursiva
 10.3 | O que achou da busca pela obra no site | Discursiva
 10.4 | Qual o tipo de obra que você costuma pesquisar? | Discursiva
-10.5 | Quando você buscou por alguma obra, qual ou quais informações você utilizou para a busca?  | Autor/título/Idioma/Categoria/Tipo de mídia
+10.5 | Quando você buscou por alguma obra, qual ou quais informações você utilizou para a busca?  | <li>Autor</li><li>Título</li><li>Idioma</li><li>Categoria</li><li>Tipo de mídia</li>
 11.1 | Você já baixou uma obra no site? | <li>Sim</li><li>Não</li>
 11.2 | Como foi o processo de baixar uma obra? (Caso a resposta anterior tenha sido sim) | Discursiva
 12.1 | Você já precisou da ajuda ou teve que se comunicar com alguém do sistema? |<li>Sim</li><li>Não</li>
