@@ -19,7 +19,7 @@ Após serem identificadas todas as tarefas do sistema, foi utilizada a técnica 
 
 ## 4. Resultados
 
-Como descrito anteriormente, foi feita a confecção dos storyboards individuais. Esses storyboards foram separados entre a função de Buscar Obras e a de Acessar sites relacionados, assim permitindo as histórias a envolverem ambas as tarefas. Seguem, no tópico _4.1 e 4.2_, respectivamente, os storyboards individuais e finais de ditas tarefas.
+Como descrito anteriormente, foi feita a confecção dos storyboards individuais. Para essa confecção foi utilizada a ferramenta do [**StoryboardThat**](https://www.storyboardthat.com/) para melhor representar os storyboards. Esses storyboards foram separados entre a função de Buscar Obras e a de Acessar Sites Relacionados, assim permitindo as histórias a envolverem ambas as tarefas. Seguem, no tópico _4.1 e 4.2_, respectivamente, os storyboards individuais e finais de ditas tarefas.
 
 ## 4.1. Storyboards individuais
 
@@ -27,17 +27,9 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/64036847/183446056-1d44df60-c133-48cb-a560-d28bd27b5fe3.jpeg' width=500px>
-  <figcaption align='center'>
-    <b>Figura 1: Storyboard - buscar obras parte 1</b>
-    </br>
-    <small>Fonte: Autoria própria- Adne Moretti</small>
-  </figcaption>
-</p></br>
-
-<p align="center">
 <img src='https://user-images.githubusercontent.com/64036847/183510651-742de894-4d3f-480e-838c-847572af930e.jpeg' width=500px>
   <figcaption align='center'>
-    <b>StoryBoard 1: Storyboard - buscar obras parte 2</b>
+    <b>StoryBoard 1: Buscar Texto</b>
     </br>
     <small>Fonte: Autoria própria - Adne Moretti</small>
   </figcaption>
@@ -59,7 +51,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
   <figcaption align='center'>
     <b>StoryBoard 1: Acesso ao site do Machado de Assis</b>
     </br>
-    <small>Fonte: Autor - Gabriel Moretti</small>
+    <small>Fonte: Autoria própria - Gabriel Moretti</small>
   </figcaption>
 </p></br>
 
