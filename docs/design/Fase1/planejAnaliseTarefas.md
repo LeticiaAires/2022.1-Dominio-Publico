@@ -30,11 +30,35 @@ A metodologia utilizada para o planejamento da avaliação foi o framework DECID
 O método de avaliação escolhido para a avaliação do projeto foi o método da entrevista, que está dentre os métodos de investigação. A escolha desse método se deve a obter uma visão de um usuário real a respeito das atividades que esse realiza no site.
 
 ### Questões práticas
+De acordo com a análise do perfil de usuário, a maioria dos usuários do sistema são jovens entre 19 e 24 anos, estudantes, sendo assim, o entrevistado será um universitário que esteja nessa faixa etária e possivelmente já tenha utilizado o sistema.
+A entrevista será realizada de forma remota através da plataforma Microsoft Teams e postado através do Youtube.
 
 ### Participantes
+
 ### Ambiente de avaliação
 
 ### Questões éticas
 Para a entrevista, é essencial que as questões éticas sejam tratadas para o participante, a fim de garantir uma confiabilidade das informações para que os participantes não se sintam violados durante o processo.
 Diante disso, foi criado um termo de consentimento que o participante deve concordar para a realização da entrevista, sendo este:
 
+
+
+
+Esse termo de consentimento será apresentado para o entrevistado no início da entrevista, para que ele permita(ou não) a utilização de informações na disciplina.
+
+
+### Perguntas
+Identificador | Pergunta | Possível resposta
+------------- | -------- | ----------------
+1 | Qual o seu nome completo? |  Discursiva
+2 | Qual a sua idade? | Discursiva
+3 | Qual a sua ocupação | 
+4 | Qual o seu grau de ensino? | 
+5 | Você já utilizou o site do Domínio Público?
+6 | Para que você utilizou o site?
+7 | 
+8 | 
+9 | 
+10 | 
+
+### Interpretação dos resultados
