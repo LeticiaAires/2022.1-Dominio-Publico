@@ -69,11 +69,13 @@ Identificador | Pergunta | Possível resposta
 6 | Com que frequência você utiliza o site? (Caso a pergunta 5 seja sim)
 7 | Para que você utilizou o site?
 8 | Você se lembra da primeira vez que você utilizou o site? Se sim, como foi a sua experiência? | 
-9 | Nessa parte da entrevista, gostaríamos que você realizasse algumas tarefas no site e relatasse cada movimento que você estiver fazendo, sendo assim, se for possível abrir o site em sua máquina. | 
-10 | Como você faria para acessar o site do Domínio Público?
-11 | Como você faria pra pesquisar uma obra pelo nome?
+9 | Nessa parte da entrevista, gostaríamos que você realizasse algumas tarefas no site e relatasse cada movimento que você estiver fazendo, sendo assim, se for possível abrir o site em sua máquina. (Só é possível caso o site tenha voltado a funcionar, caso não tenha, só serão feitas perguntas a respeito das tarefas do site)| 
+10 | Você já buscou por alguma obra no site?
+11 | O que achou da busca pela obra no site?
+12 | 
 
 ## Interpretação dos resultados
+
 
 ## Referência bibliográfica
 >BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
