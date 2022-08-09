@@ -53,12 +53,18 @@ A entrevista vai ser feita de forma remota e, por isso, os participantes utiliza
 - Google Meet
 
 ## Questões éticas
-Para a entrevista, é essencial que as questões éticas sejam tratadas para o participante, a fim de garantir uma confiabilidade das informações para que os participantes não se sintam violados durante o processo.
-Diante disso, foi criado um termo de consentimento que o participante deve concordar para a realização da entrevista, sendo este:
+Para a entrevista, é essencial que as questões éticas sejam tratadas para o participante, a fim de garantir uma confiabilidade das informações para que os participantes não se sintam violados durante o processo. Diante disso, foi criado um termo de consentimento que o participante deve concordar para a realização da entrevista. A imagem a seguir representa o documento em questão.
 
 <div align = "center">
-  <img src="https://user-images.githubusercontent.com/72039007/183542309-a9a83640-3abf-4375-95bb-0f14cff04bc1.png" >
+  <img src="https://user-images.githubusercontent.com/72039007/183543652-a84dd06d-23eb-474e-a7f9-8b33deaf3489.png" >
 </div>
+
+<p align="center">
+  <figcaption align='center'>
+    <b>Figura 1: Termo de Concentimento</b>
+    </br>
+  </figcaption>
+</p></br>
 
 Esse termo de consentimento será apresentado para o entrevistado no início da entrevista, para que ele permita (ou não) a utilização de informações na disciplina. A entrevista só prossegue com o devido consentimento do entrevistado.
 
