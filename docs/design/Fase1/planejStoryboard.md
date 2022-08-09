@@ -12,7 +12,7 @@
 
 ## 2. Objetivo
 
-&emsp;&emsp; O objetivo desse documento é detalhar o máximo possível os aspectos da avaliação a ser realizada acima dos [storyboards](../../design/Fase1/storyboard.md) já realizados, auxiliando o avaliador com a confecção de um passo a passo, de forma metódica e sistemática, que possa o guiar ao realizar a avaliação.
+&emsp;&emsp; O objetivo desse documento é detalhar o máximo possível os aspectos da avaliação a ser realizada acima dos [storyboards](https://interacao-humano-computador.github.io/2022.1-Dominio-Publico/#/design/Fase1/storyboard) já realizados, auxiliando o avaliador com a confecção de um passo a passo, de forma metódica e sistemática, que possa o guiar ao realizar a avaliação.
 
 ## 3. Metodologia
 
