@@ -61,6 +61,8 @@ Diante disso, foi criado um termo de consentimento que o participante deve conco
 Esse termo de consentimento será apresentado para o entrevistado no início da entrevista, para que ele permita(ou não) a utilização de informações na disciplina. A entrevista só prossegue com o devido consentimento do entrevistado.
 
 ### Perguntas
+Na _tabela 2_ foram definidas as perguntas a serem realizadas durante a entrvista com o usuário, essas são separadas por identificador, pergunta e possível resposta.
+
 Identificador | Pergunta | Possível resposta
 ------------- | -------- | ----------------
 1 | Qual o seu nome completo? |  Discursiva
