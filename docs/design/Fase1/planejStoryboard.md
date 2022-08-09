@@ -44,14 +44,18 @@
 
 | Número | <center>Pergunta | <center>Opções de resposta |
 |:---:|:----------|:-------------------|
-| 1 | Com relação ao primeiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 3 |
-| 2 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
-| 3 | Com relação ao segundo storyboard, a situação ilustrada retrata bem o quanto que a reserva de empréstimo ajuda o estudante? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 5 |
-| 4 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
-| 5 | Com relaçao ao terceiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 7 |
+| 1 | Qual sua idade? | Pergunta discursiva |
+| 2 | Qual sua formação acadêmica? | Pergunta discursiva. Caso não seja formado ou não esteja em um curso de nível superior, vá para a pergunta 4. |
+| 3 | Qual curso fez/está fazendo? | Pergunta discursiva |
+| 4 | Já teve que utilizar o site do domínio público? Se sim, qual o propósito? | Pergunta discursiva | 
+| 5 | Com relação ao primeiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 7 |
 | 6 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
-| 7 | Com relação ao quarto storyboard, a situação ilustrada retrata bem o quanto que o site ser responsivo ajuda o estudante? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, finalize a entrevista. |
+| 7 | Com relação ao segundo storyboard, a situação ilustrada retrata bem o quanto que a reserva de empréstimo ajuda o estudante? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 9 |
 | 8 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
+| 9 | Com relaçao ao terceiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 11 |
+| 10 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
+| 11 | Com relação ao quarto storyboard, a situação ilustrada retrata bem o quanto que o site ser responsivo ajuda o estudante? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, finalize a entrevista. |
+| 12 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
 
 ### 4.4. Execução das Avaliações
 
