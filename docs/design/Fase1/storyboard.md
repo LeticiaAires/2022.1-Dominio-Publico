@@ -47,7 +47,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 ### 4.1.2. Acessar sites relacionados
 
 <p align="center">
-<img src='../../assets/imagens/storyboards/storyboard_Gabriel.png'>
+<img src='https://user-images.githubusercontent.com/78612945/183534568-cb88b85c-ac5e-4567-b8c7-a00c68c554be.png'>
   <figcaption align='center'>
     <b>StoryBoard 1: Acesso ao site do Machado de Assis</b>
     </br>
