@@ -52,7 +52,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
   </figcaption>
 </p></br>
 
-![storyboard-vitor](https://user-images.githubusercontent.com/56610229/183544537-5b9478ab-248c-4c0f-bf42-f82fbcc0aa58.png)
+![storyboard-vitor](https://user-images.githubusercontent.com/56610229/183544726-6ab2df57-5623-4401-bb22-73b85d5b7d37.png)
 <figcaption align='center'>
     <b>Figura 3: Storyboard - Download de Obras</b>
     </br>
