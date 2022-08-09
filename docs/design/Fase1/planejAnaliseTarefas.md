@@ -3,7 +3,7 @@
 ## Introdução 
 A avaliação de IHC é uma tarefa essencial para produtos de software de alta qualidade, pois serve para identificar problemas na interação e na interface. Para a fase de avaliação, é essencial que a avaliação seja bem planejada, essa envolve questões práticas e éticas envolvidas nesta.
 
-Anteriormente, na etapa de Análise de requisitos, foi feita uma análise de tarefas, a equipe analisou o site e as tarefas que os usuários realizariam neste, porém, esse levantamento de tarefas foi realizado por investigação própria dos membros do grupo, sem a interação com o usuário. 
+Anteriormente, na etapa de Análise de requisitos, foi feita uma análise de tarefas, a equipe analisou o site e as tarefas que os usuários realizariam neste, porém, esse levantamento de tarefas foi realizado por análise própria dos membros do grupo, sem a interação com o usuário. 
 
 ## Metodologia 
 A metodologia utilizada para o planejamento da avaliação foi o framework **DECIDE**, que utiliza de atividades interligadas e executadas iterativamente, são essas citadas na _tabela 1_:
