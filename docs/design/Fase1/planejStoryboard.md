@@ -30,7 +30,7 @@
 
 &emsp;&emsp; O próximo passo é definir quem vai participar da avaliação. Para o nosso caso, visto que devemos levar em consideração usuários que possam consumir o site do Domínio Público, iremos utilizar as personas criadas no projeto, assim atendendo todos os possíveis perfis de usuários.
 
-&emsp;&emsp; Desse modo, as atividades definidas nessa avaliação podem ser executadas pelos perfis de usuários que atendam as necessidades e satisfações das personas [aqui](../../analiseRequisitos/personas.md) listadas.
+&emsp;&emsp; Desse modo, as atividades definidas nessa avaliação podem ser executadas pelos perfis de usuários que atendam as necessidades e satisfações das personas [aqui](https://interacao-humano-computador.github.io/2022.1-Dominio-Publico/#/analiseRequisitos/personas) listadas.
 
 &emsp;&emsp; Nessa etapa, o processo consiste em procurar por pessoas com algum desses perfis, entrar em contato e explicar a motivação da avaliação e os detalhes envolvidos. Caso a pessoa confirme o desejo de participar, deverá ser combinada uma data e um horário.
 
