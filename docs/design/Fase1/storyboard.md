@@ -3,7 +3,9 @@
 <div align='justify'>
 
 ## 1. Introdução
-O documento de Storyboard consiste em quadros desenhados dispostos sistematicamente com o objetivo de narrar uma história fictícia de interação do usuário com a plataforma, geralmente utilizado em conjunto com cenários e histórias de usuários, onde será representado um usuário realizando uma tarefa ou um usuário em um cenário onde é preciso usar a aplicação. Sendo assim, o propósito de fazer um storyboard é oferecer a pré-visualização das pessoas envolvidas, do ambiente/cenário que o sistema poderá ser usado, as interações que podem ocorrer, e os passos necessários para realizar uma determinada tarefa. Além disso, vale ressaltar que o foco dos storyboards são as tarefas e os cenários, desse modo a parte estética ficaria em segundo plano.
+O documento de Storyboard consiste em quadros desenhados dispostos sistematicamente com o objetivo de narrar uma história fictícia de interação do usuário com a plataforma, geralmente utilizado em conjunto com cenários e histórias de usuários, onde será representado um usuário realizando uma tarefa ou um usuário em um cenário onde é preciso usar a aplicação. 
+  
+  Sendo assim, o propósito de fazer um storyboard é oferecer a pré-visualização das pessoas envolvidas, do ambiente/cenário que o sistema poderá ser usado, as interações que podem ocorrer, e os passos necessários para realizar uma determinada tarefa. Além disso, vale ressaltar que o foco dos storyboards são as tarefas e os cenários, desse modo a parte estética ficaria em segundo plano.
 
 ## 2. Objetivo
 Esse documento tem como objetivo apresentar os resultados obtidos durante essa atividade de prototipação, sendo esses divididos entre as primeiras versões dos documentos, realizadas por cada membro da equipe, e as versões finais.
