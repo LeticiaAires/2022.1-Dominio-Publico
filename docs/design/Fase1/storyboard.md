@@ -19,7 +19,9 @@ Após serem identificadas todas as tarefas do sistema, foi utilizada a técnica 
 
 ## 4. Resultados
 
-Como descrito anteriormente, foi feita a confecção dos storyboards individuais. Para essa confecção foi utilizada a ferramenta do [**StoryboardThat**](https://www.storyboardthat.com/) para melhor representar os storyboards. Esses storyboards foram separados entre a função de Buscar Obras e a de Acessar Sites Relacionados, assim permitindo as histórias a envolverem ambas as tarefas. Seguem, no tópico _4.1 e 4.2_, respectivamente, os storyboards individuais e finais de ditas tarefas.
+Como descrito anteriormente, foi feita a confecção dos storyboards individuais e finais. Para essa confecção foi utilizada a ferramenta do [**StoryboardThat**](https://www.storyboardthat.com/) para melhor representar os storyboards. Esses storyboards foram separados entre a função de Buscar Obras e a de Acessar Sites Relacionados, assim permitindo as histórias a envolverem ambas as tarefas.
+
+Seguem, nos tópicos _4.1 e 4.2_ e nas _figuras 1 à 6_, respectivamente, os storyboards individuais e finais de ditas tarefas, de modo que foram escolhidos um storyboard individual de cada funcionalidade que foram passados à versão final.
 
 ## 4.1. Storyboards individuais
 
@@ -29,18 +31,19 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 <img src='https://user-images.githubusercontent.com/64036847/183446056-1d44df60-c133-48cb-a560-d28bd27b5fe3.jpeg' width=500px>
 <img src='https://user-images.githubusercontent.com/64036847/183510651-742de894-4d3f-480e-838c-847572af930e.jpeg' width=500px>
   <figcaption align='center'>
-    <b>StoryBoard 1: Buscar Texto</b>
+    <b>Figura 1: Storyboard - Buscar Textos</b>
     </br>
     <small>Fonte: Autoria própria - Adne Moretti</small>
   </figcaption>
 </p></br>
 
+![Storyboard](https://user-images.githubusercontent.com/72039007/183536546-79dab2fa-8253-486d-a337-304de9f04376.jpg)
 <p align="center">
 <img src=''>
   <figcaption align='center'>
-    <b>StoryBoard 2: X </b>
+    <b>Figura 2: Storyboard - Buscar vídeos</b>
     </br>
-    <small>Fonte: X</small>
+    <small>Fonte: Autoria Própria - Gustavo Martins</small>
   </figcaption>
 </p></br>
 
@@ -49,7 +52,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 <p align="center">
 <img src='https://user-images.githubusercontent.com/78612945/183534568-cb88b85c-ac5e-4567-b8c7-a00c68c554be.png'>
   <figcaption align='center'>
-    <b>StoryBoard 1: Acesso ao site do Machado de Assis</b>
+    <b>Figura 3: Storyboard - Acesso ao site do Machado de Assis</b>
     </br>
     <small>Fonte: Autoria própria - Gabriel Moretti</small>
   </figcaption>
@@ -58,7 +61,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 <p align="center">
   <img src='https://user-images.githubusercontent.com/70032505/183531967-e5d34052-ed2e-42d6-a0e3-15565a658edb.png'>
   <figcaption align='center'>
-    <b>StoryBoard 2: Acessar hinos brasileiros</b>
+    <b>Figura 4: Storyboard - Acessar hinos brasileiros</b>
     </br>
   <small>Fonte: Autoria Própria - Guilherme Puida</small>
   </figcaption>
@@ -66,24 +69,15 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 
 ## 4.2 Storyboards finais
 
+Como dito anteriormente, foram escolhidos um storyboard para cada função principal, sendo utilizado os storyboards dos integrantes _Gustavo Martins_ para Buscar Obras e _Gabriel Moretti_ para Acessar Sites Relacionados.
+
 ### 4.2.1 Buscar obras
 
-<p align="center">
-<img src=''>
-  <figcaption align='center'>
-    <b>Figura 1: X</b>
-    </br>
-    <small>Fonte: X</small>
-  </figcaption>
-</p></br>
-
 ![Storyboard](https://user-images.githubusercontent.com/72039007/183536546-79dab2fa-8253-486d-a337-304de9f04376.jpg)
-
-
 <p align="center">
 <img src=''>
   <figcaption align='center'>
-    <b>StoryBoard 1: X</b>
+    <b>Figura 5: Storyboard - Buscar vídeos</b>
     </br>
     <small>Fonte: Autoria Própria - Gustavo Martins</small>
   </figcaption>
@@ -92,20 +86,11 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 ### 4.2.2 Acessar sites relacionados
 
 <p align="center">
-<img src=''>
+<img src='https://user-images.githubusercontent.com/78612945/183534568-cb88b85c-ac5e-4567-b8c7-a00c68c554be.png'>
   <figcaption align='center'>
-    <b>Figura 1: X</b>
+    <b>Figura 6: Storyboard - Acesso ao site do Machado de Assis</b>
     </br>
-    <small>Fonte: X</small>
-  </figcaption>
-</p></br>
-
-<p align="center">
-<img src=''>
-  <figcaption align='center'>
-    <b>StoryBoard 1: X</b>
-    </br>
-    <small>Fonte: X</small>
+    <small>Fonte: Autoria própria - Gabriel Moretti</small>
   </figcaption>
 </p></br>
 
