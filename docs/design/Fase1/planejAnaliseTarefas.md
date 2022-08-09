@@ -56,8 +56,9 @@ A entrevista vai ser feita de forma remota e, por isso, os participantes utiliza
 Para a entrevista, é essencial que as questões éticas sejam tratadas para o participante, a fim de garantir uma confiabilidade das informações para que os participantes não se sintam violados durante o processo.
 Diante disso, foi criado um termo de consentimento que o participante deve concordar para a realização da entrevista, sendo este:
 
-
-<object data="https://github.com/Interacao-Humano-Computador/2022.1-Dominio-Publico/files/9284887/Termo.de.consentimento.pdf" type="application/pdf"></object>
+<div align = "center">
+  <img src="https://user-images.githubusercontent.com/72039007/183542309-a9a83640-3abf-4375-95bb-0f14cff04bc1.png" >
+</div>
 
 Esse termo de consentimento será apresentado para o entrevistado no início da entrevista, para que ele permita (ou não) a utilização de informações na disciplina. A entrevista só prossegue com o devido consentimento do entrevistado.
 
