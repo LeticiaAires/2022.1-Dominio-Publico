@@ -91,6 +91,7 @@
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor   |
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
-| 0.1    | 06/08/2022 | Documento inicial                         | Gabriel Moretti  |  |
+| 0.1    | 06/08/2022 | Documento inicial                         | Gabriel Moretti  | Guilherme Puida |
+| 0.2    | 07/08/2022 | Adição de mais perguntas                  | Guilherme Puida  |       |
 
 </div>
