@@ -32,6 +32,16 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
   </figcaption>
 </p></br>
 
+<p align="center">
+<img src='https://github.com/Interacao-Humano-Computador/2022.1-Dominio-Publico/blob/gh-pages/docs/assets/imagens/storyboards/luan_story.jpeg' width=500px>
+  <figcaption align='center'>
+    <b>Figura 2: Storyboard - Buscar Textos</b>
+    </br>
+    <small>Fonte: Autoria própria - Luan Vasco</small>
+  </figcaption>
+</p></br>
+
+
 ![Storyboard](https://user-images.githubusercontent.com/72039007/183536546-79dab2fa-8253-486d-a337-304de9f04376.jpg)
 <p align="center">
 <img src=''>
