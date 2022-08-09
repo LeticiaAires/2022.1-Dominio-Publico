@@ -33,7 +33,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 </p></br>
 
 <p align="center">
-<img src='https://github.com/Interacao-Humano-Computador/2022.1-Dominio-Publico/blob/gh-pages/docs/assets/imagens/storyboards/luan_story.jpeg' width=500px>
+<img src='https://user-images.githubusercontent.com/67024690/183546139-2e457873-4e22-499e-a9d3-be53dca4de5e.jpeg' width=500px>
   <figcaption align='center'>
     <b>Figura 2: Storyboard - Buscar Textos</b>
     </br>
@@ -41,12 +41,11 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
   </figcaption>
 </p></br>
 
-
 ![Storyboard](https://user-images.githubusercontent.com/72039007/183536546-79dab2fa-8253-486d-a337-304de9f04376.jpg)
 <p align="center">
 <img src=''>
   <figcaption align='center'>
-    <b>Figura 2: Storyboard - Buscar vídeos</b>
+    <b>Figura 3: Storyboard - Buscar vídeos</b>
     </br>
     <small>Fonte: Autoria Própria - Gustavo Martins</small>
   </figcaption>
@@ -54,7 +53,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 
 ![storyboard-vitor](https://user-images.githubusercontent.com/56610229/183544726-6ab2df57-5623-4401-bb22-73b85d5b7d37.png)
 <figcaption align='center'>
-    <b>Figura 3: Storyboard - Download de Obras</b>
+    <b>Figura 4: Storyboard - Download de Obras</b>
     </br>
     <small>Fonte: Autoria Própria - Vitor Eduardo</small>
  </figcaption>
@@ -64,7 +63,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 <p align="center">
 <img src='https://user-images.githubusercontent.com/78612945/183534568-cb88b85c-ac5e-4567-b8c7-a00c68c554be.png'>
   <figcaption align='center'>
-    <b>Figura 4: Storyboard - Acesso ao site do Machado de Assis</b>
+    <b>Figura 5: Storyboard - Acesso ao site do Machado de Assis</b>
     </br>
     <small>Fonte: Autoria própria - Gabriel Moretti</small>
   </figcaption>
@@ -73,7 +72,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 <p align="center">
   <img src='https://user-images.githubusercontent.com/70032505/183531967-e5d34052-ed2e-42d6-a0e3-15565a658edb.png'>
   <figcaption align='center'>
-    <b>Figura 5: Storyboard - Acessar hinos brasileiros</b>
+    <b>Figura 6: Storyboard - Acessar hinos brasileiros</b>
     </br>
   <small>Fonte: Autoria Própria - Guilherme Puida</small>
   </figcaption>
@@ -89,7 +88,7 @@ Como dito anteriormente, foram escolhidos um storyboard para cada função princ
 <p align="center">
 <img src=''>
   <figcaption align='center'>
-    <b>Figura 6: Storyboard - Buscar vídeos</b>
+    <b>Figura 7: Storyboard - Buscar vídeos</b>
     </br>
     <small>Fonte: Autoria Própria - Gustavo Martins</small>
   </figcaption>
@@ -100,23 +99,11 @@ Como dito anteriormente, foram escolhidos um storyboard para cada função princ
 <p align="center">
 <img src='https://user-images.githubusercontent.com/78612945/183534568-cb88b85c-ac5e-4567-b8c7-a00c68c554be.png'>
   <figcaption align='center'>
-    <b>Figura 7: Storyboard - Acesso ao site do Machado de Assis</b>
+    <b>Figura 8: Storyboard - Acesso ao site do Machado de Assis</b>
     </br>
     <small>Fonte: Autoria própria - Gabriel Moretti</small>
   </figcaption>
 </p></br>
-
-### 4.2.3 Realizar Download de uma Obra
-
-![storyboard-vitor](https://user-images.githubusercontent.com/56610229/183543183-9fd06a49-8a18-484c-a9de-7e4831da4018.png)
-<p align="center">
-  <figcaption align='center'>
-    <b>Figura 8: Storyboard - Download de Obras</b>
-    </br>
-    <small>Fonte: Autoria Própria - Vitor Eduardo</small>
-  </figcaption>
-
-
 
 ## 6. Conclusão
 
