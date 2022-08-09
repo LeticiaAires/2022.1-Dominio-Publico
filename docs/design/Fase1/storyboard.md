@@ -111,3 +111,4 @@ Espera-se que com base nas informações contidas nesse documento, os designers 
 | Versão | Data       | Descrição                                 | Autor        | Revisor   |
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
 | 0.1    | 06/08/2022 | Documento inicial                         | Gabriel Moretti  |  |
+| 0.2    | 07/08/2022 | Adição de storyboards e descrições        | Gabriel Moretti  |  |
