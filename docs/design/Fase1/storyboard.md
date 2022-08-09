@@ -3,25 +3,18 @@
 <div align='justify'>
 
 ## 1. Introdução
-O documento de Storyboard consiste em quadros desenhados dispostos sistematicamente com o objetivo de narrar uma história fictícia de interação do usuário com a plataforma, geralmente utilizado em conjunto com cenários e histórias de usuários, onde será representado um usuário realizando uma tarefa ou um usuário em um cenário onde é preciso usar a aplicação.
-
-O foco dos storyboards são as tarefas e os cenários, desse modo a parte estética ficaria em segundo plano.
-
-O propósito de fazer um storyboard é oferecer a pré-visualização das pessoas envolvidas, do ambiente/cenário que o sistema poderá ser usado, as interações que podem ocorrer, e os passos necessários para realizar uma determinada tarefa.
+O documento de Storyboard consiste em quadros desenhados dispostos sistematicamente com o objetivo de narrar uma história fictícia de interação do usuário com a plataforma, geralmente utilizado em conjunto com cenários e histórias de usuários, onde será representado um usuário realizando uma tarefa ou um usuário em um cenário onde é preciso usar a aplicação. Sendo assim, o propósito de fazer um storyboard é oferecer a pré-visualização das pessoas envolvidas, do ambiente/cenário que o sistema poderá ser usado, as interações que podem ocorrer, e os passos necessários para realizar uma determinada tarefa. Além disso, vale ressaltar que o foco dos storyboards são as tarefas e os cenários, desse modo a parte estética ficaria em segundo plano.
 
 ## 2. Objetivo
 Esse documento tem como objetivo apresentar os resultados obtidos durante essa atividade de prototipação, sendo esses divididos entre as primeiras versões dos documentos, realizadas por cada membro da equipe, e as versões finais.
 
 ## 3. Metodologia
-Primeiramente foi analisado o documento de [Análise de Tarefa](../../analiseRequisitos/analiseTarefas.md) onde está detalhado as tarefas que os usuários podem realizar no sistema.
-
-Após serem identificadas todas as tarefas do sistema, foi utilizada a técnica da **introspecção** para identificar possíveis cenários onde a realização dessas tarefas poderia ocorrer. Nessa introspecção foram sugeridas e definidas as pessoas envolvidas, o ambiente, a tarefa, os passos e as motivações. Assim, produzindo histórias que correlacionem todos esse fatores.
+Primeiramente foi analisado o documento de [Análise de Tarefa](../../analiseRequisitos/analiseTarefas.md) onde está detalhado as tarefas que os usuários podem realizar no sistema. Sendo assim, após serem identificadas todas as tarefas do sistema, foi utilizada a técnica da **introspecção** para identificar possíveis cenários onde a realização dessas tarefas poderia ocorrer. Nessa introspecção foram sugeridas e definidas as pessoas envolvidas, o ambiente, a tarefa, as etapas envolvidas, as motivações e, por fim, a necessidade a qual o sistema preenche. Tais fatores serviram de base para a produção de histórias as quais correlacionam todos esse fatores.
 
 ## 4. Resultados
 
-Como descrito anteriormente, foi feita a confecção dos storyboards individuais e finais. Para essa confecção foi utilizada a ferramenta do [**StoryboardThat**](https://www.storyboardthat.com/) para melhor representar os storyboards. Esses storyboards foram separados entre a função de Buscar Obras e a de Acessar Sites Relacionados, assim permitindo as histórias a envolverem ambas as tarefas.
+Como descrito anteriormente, foi feita a confecção dos storyboards individuais. Para essa confecção foi utilizada a ferramenta do [**StoryboardThat**](https://www.storyboardthat.com/) para melhor representar os storyboards. Esses storyboards foram separados entre a função de Buscar Obras e a de Acessar Sites Relacionados, assim permitindo as histórias as quais envolvem ambas as tarefas. Seguem, no tópico _4.1 e 4.2_, respectivamente, os storyboards individuais e finais das tarefas em questão.
 
-Seguem, nos tópicos _4.1 e 4.2_ e nas _figuras 1 à 6_, respectivamente, os storyboards individuais e finais de ditas tarefas, de modo que foram escolhidos um storyboard individual de cada funcionalidade que foram passados à versão final.
 
 ## 4.1. Storyboards individuais
 
