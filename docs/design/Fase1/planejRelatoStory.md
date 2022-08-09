@@ -7,7 +7,7 @@ O objetivo dessa página é fazer o planejamento de como os resultados da avalia
 
 
 ## 2. Metodologia
-A metodologia a ser utilizada vai ser a entrevista com personas. Essa entrevista será norteada por um roteiro em que um dos membros do grupo encenarão uma persona, anteriormente definida no projeto, com o objetivo de obter o máximo de informação possível, buscando a melhoria dos artefator produzidos pela equipe.
+A metodologia a ser utilizada vai ser a entrevista com personas. Essa entrevista será norteada por um roteiro em que um dos membros do grupo encenará uma persona anteriormente definida no projeto, com o objetivo de obter o máximo de informação possível, buscando a melhoria dos artefatos produzidos pela equipe.
 
 Além disso, existe uma abordagem para se tratar o entrevistado e para lidar com a aplicação.
 
