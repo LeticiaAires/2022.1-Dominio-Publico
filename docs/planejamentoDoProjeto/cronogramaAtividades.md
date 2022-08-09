@@ -80,6 +80,8 @@ Entrega do arquivo |   01/08/2022  | Gustavo Martins | Todos | 01/08/2022
 <br>
 
 ### Quarta Entrega - 8/8/2022
+A seguir, na _tabela 5_, se encontra a tabela relacionada à quarta entrega da matéria.
+    
 <figcaption><center>
     Tabela 5 - Quarta entrega
 </figcaption>
@@ -97,6 +99,7 @@ Entrega do arquivo |   08/08/2022  | Gustavo Martins | Todos | 08/08/2022
 <br>
 
 ### Quinta Entrega - 17/08/2022
+A seguir, na _tabela 6_, se encontra a tabela relacionada à quinta entrega da matéria.
 <figcaption><center>
     Tabela 6 - Quinta entrega
 </figcaption>
