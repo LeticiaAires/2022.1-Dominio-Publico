@@ -52,12 +52,19 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
   </figcaption>
 </p></br>
 
+![storyboard-vitor](https://user-images.githubusercontent.com/56610229/183544537-5b9478ab-248c-4c0f-bf42-f82fbcc0aa58.png)
+<figcaption align='center'>
+    <b>Figura 3: Storyboard - Download de Obras</b>
+    </br>
+    <small>Fonte: Autoria Própria - Vitor Eduardo</small>
+ </figcaption>
+
 ### 4.1.2. Acessar sites relacionados
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/78612945/183534568-cb88b85c-ac5e-4567-b8c7-a00c68c554be.png'>
   <figcaption align='center'>
-    <b>Figura 3: Storyboard - Acesso ao site do Machado de Assis</b>
+    <b>Figura 4: Storyboard - Acesso ao site do Machado de Assis</b>
     </br>
     <small>Fonte: Autoria própria - Gabriel Moretti</small>
   </figcaption>
@@ -66,7 +73,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 <p align="center">
   <img src='https://user-images.githubusercontent.com/70032505/183531967-e5d34052-ed2e-42d6-a0e3-15565a658edb.png'>
   <figcaption align='center'>
-    <b>Figura 4: Storyboard - Acessar hinos brasileiros</b>
+    <b>Figura 5: Storyboard - Acessar hinos brasileiros</b>
     </br>
   <small>Fonte: Autoria Própria - Guilherme Puida</small>
   </figcaption>
@@ -82,7 +89,7 @@ Como dito anteriormente, foram escolhidos um storyboard para cada função princ
 <p align="center">
 <img src=''>
   <figcaption align='center'>
-    <b>Figura 5: Storyboard - Buscar vídeos</b>
+    <b>Figura 6: Storyboard - Buscar vídeos</b>
     </br>
     <small>Fonte: Autoria Própria - Gustavo Martins</small>
   </figcaption>
@@ -93,7 +100,7 @@ Como dito anteriormente, foram escolhidos um storyboard para cada função princ
 <p align="center">
 <img src='https://user-images.githubusercontent.com/78612945/183534568-cb88b85c-ac5e-4567-b8c7-a00c68c554be.png'>
   <figcaption align='center'>
-    <b>Figura 6: Storyboard - Acesso ao site do Machado de Assis</b>
+    <b>Figura 7: Storyboard - Acesso ao site do Machado de Assis</b>
     </br>
     <small>Fonte: Autoria própria - Gabriel Moretti</small>
   </figcaption>
@@ -104,7 +111,7 @@ Como dito anteriormente, foram escolhidos um storyboard para cada função princ
 ![storyboard-vitor](https://user-images.githubusercontent.com/56610229/183543183-9fd06a49-8a18-484c-a9de-7e4831da4018.png)
 <p align="center">
   <figcaption align='center'>
-    <b>Figura 7: Storyboard - Download de Obras</b>
+    <b>Figura 8: Storyboard - Download de Obras</b>
     </br>
     <small>Fonte: Autoria Própria - Vitor Eduardo</small>
   </figcaption>
