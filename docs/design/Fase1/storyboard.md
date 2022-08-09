@@ -89,6 +89,18 @@ Como dito anteriormente, foram escolhidos um storyboard para cada função princ
   </figcaption>
 </p></br>
 
+### 4.2.3 Realizar Download de uma Obra
+
+![storyboard-vitor](https://user-images.githubusercontent.com/56610229/183543183-9fd06a49-8a18-484c-a9de-7e4831da4018.png)
+<p align="center">
+  <figcaption align='center'>
+    <b>Figura 7: Storyboard - Download de Obras</b>
+    </br>
+    <small>Fonte: Autoria Própria - Vitor Eduardo</small>
+  </figcaption>
+
+
+
 ## 6. Conclusão
 
 Espera-se que com a leitura desse documento, todos os membros da equipe e interessados compreendam as dores dos usuários, os cenários onde as ações do Domínio Público podem ser necessárias, as pessoas envolvidas e as atividades relacionadas.
