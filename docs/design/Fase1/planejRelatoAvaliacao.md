@@ -7,19 +7,19 @@ O objetivo dessa página é fazer o planejamento de como os resultados da avalia
 
 
 ## 2. Metodologia
-A metodologia a ser utilizada vai ser a entrevista com personas. Essas entrevistas serão norteadas por um roteiro com o objetivo de obter o máximo de informação possível.
+A metodologia a ser utilizada vai ser a entrevista com usuário. Essas entrevistas serão norteadas por um roteiro com o objetivo de obter o máximo de informação possível.
 
 Além disso, existe uma abordagem para se tratar o entrevistado e para lidar com a aplicação.
 
 ## 3. Abordagem
 
-Serão investigadas as funcionalidades destacadas nos Storyboards.
+Serão investigadas as tarefas destacadas na Análise de Tarefas.
 
 ## 4. Objetivo
 O objetivo é um relatório que será criado a partir de uma reunião com todos os avaliadores. E é claro, que espera-se encontrar áreas e utilidades para serem melhoradas.
 
 ## 5. Problemas encontrados 
-Os avaliadores devem informar os problemas encontrados após ter sido feitas as entrevistas e as avaliações.
+Os avaliadores devem informar os problemas encontrados após ter sido feitas as entrevistas, as avaliações e a interpretação dos resultados.
 
 ## 5. Conclusão
 Como conclusão, destacamos a importância da geração do relatório contendo os seguintes aspectos : 
@@ -41,4 +41,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor   |
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
-| 0.1    | 06/08/2022 | Documento inicial                         | Luan Vasco  | Vitor Eduardo |
+| 0.1    | 06/08/2022 | Documento inicial                         | Luan Vasco  | Adne Moretti |
