@@ -21,7 +21,7 @@ O objetivo é um relatório que será criado a partir de uma reunião com todos 
 ## 5. Problemas encontrados 
 Os avaliadores devem informar os problemas encontrados após ter sido feitas as entrevistas, as avaliações e a interpretação dos resultados.
 
-## 5. Conclusão
+## 6. Conclusão
 Como conclusão, destacamos a importância da geração do relatório contendo os seguintes aspectos : 
 
     - Os objetivos e escopo da avaliação;
