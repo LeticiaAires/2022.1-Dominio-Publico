@@ -77,12 +77,15 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
   </figcaption>
 </p></br>
 
+![Storyboard](https://user-images.githubusercontent.com/72039007/183536546-79dab2fa-8253-486d-a337-304de9f04376.jpg)
+
+
 <p align="center">
 <img src=''>
   <figcaption align='center'>
     <b>StoryBoard 1: X</b>
     </br>
-    <small>Fonte: X</small>
+    <small>Fonte: Autoria Própria - Gustavo Martins</small>
   </figcaption>
 </p></br>
 
