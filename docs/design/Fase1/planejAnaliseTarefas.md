@@ -81,7 +81,8 @@ Identificador | Pergunta | Possível resposta
 6 | Com que frequência você utiliza o site? | Discursiva
 7 | Para que você utilizou o site? | Discursiva
 8 | Você se lembra da primeira vez que você utilizou o site? Se sim, como foi a sua experiência? | Discursiva
-9 | Nessa parte da entrevista, gostaríamos que você realizasse algumas tarefas no site e relatasse cada movimento que você estiver fazendo, se for possível abrir o site em sua máquina. (Só é possível caso o site tenha voltado a funcionar, caso não tenha, só serão feitas perguntas a respeito das tarefas do site)| Discursiva
+9 | Você já utilizou uma biblioteca pública? | Discursiva
+9 | Como você buscou essa obra dentro da biblioteca? | Discursiva
 10 | Você já buscou por alguma obra no site? | <li>Sim</li><li>Não</li>
 10.1 | Como você buscou por essa obra? (Caso a resposta anterior tenha sido sim) | Discursiva
 10.2 | O que achou da busca pela obra no site? | Discursiva
