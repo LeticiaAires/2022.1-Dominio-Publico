@@ -54,7 +54,7 @@
 | 8 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
 | 9 | Com relação ao segundo storyboard, a situação ilustrada retrata bem o quanto que a reserva de empréstimo ajuda o estudante? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 11 |
 | 10 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
-| 11 | Com relaçao ao terceiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 13 |
+| 11 | Com relação ao terceiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 13 |
 | 12 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
 | 13 | Com relação ao quarto storyboard, a situação ilustrada retrata bem o quanto que o site ser responsivo ajuda o estudante? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, finalize a entrevista. |
 | 14 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
