@@ -81,9 +81,10 @@ Identificador | Pergunta | Possível resposta
 6 | Você já pegou algum livro em alguma biblioteca? | Discursiva
 7 | Como foi todo o processo até pegar esse livro emprestado? | Discursiva
 8 | Como você fez pra encontrar um livro dentro de uma biblioteca. | Discursiva
-9 | Você já baixou algum livro em pdf pra ler online?| Discursiva
-10 | Como foi o processo até baixar?  | <li>Sim</li><li>Não</li>
-
+9 | Você já baixou algum livro em pdf pra ler online?| <li>Sim</li><li>Não</li>
+10 | Como foi o processo até baixar?  | Discursiva
+11 | Você já baixou algum vídeo online?  | <li>Sim</li><li>Não</li>
+12 | Como foi o processo até baixar?  | Discursiva
 
 <p align="center">
   <figcaption align='center'>
