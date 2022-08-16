@@ -77,22 +77,13 @@ Identificador | Pergunta | Possível resposta
 2 | Qual a sua idade? | Discursiva
 3 | Qual a sua ocupação? | <li>Aluno</li><li>Professor</li><li>Pesquisador</li><li>Outro</li>
 4 | Qual o seu grau de ensino? | <li>Ensino médio incompleto</li><li>Ensino superior incompleto</li><li>Ensino superior completo</li><li>Outro</li>
-5 | Você já utilizou o site do Domínio Público? | <li>Sim</li><li>Não</li> ⚠️ Caso a resposta seja "Não", encerrar a entrevista
-6 | Com que frequência você utiliza o site? | Discursiva
-7 | Para que você utilizou o site? | Discursiva
-8 | Você se lembra da primeira vez que você utilizou o site? Se sim, como foi a sua experiência? | Discursiva
-9 | Você já utilizou uma biblioteca pública? | Discursiva
-9 | Como você buscou essa obra dentro da biblioteca? | Discursiva
-10 | Você já buscou por alguma obra no site? | <li>Sim</li><li>Não</li>
-10.1 | Como você buscou por essa obra? (Caso a resposta anterior tenha sido sim) | Discursiva
-10.2 | O que achou da busca pela obra no site? | Discursiva
-10.3 | Qual o tipo de obra que você costuma pesquisar? | Discursiva
-10.4 | Quando você buscou por alguma obra, qual ou quais informações você utilizou para a busca?  | <li>Autor</li><li>Título</li><li>Idioma</li><li>Categoria</li><li>Tipo de mídia</li>
-11 | Você já baixou uma obra no site? | <li>Sim</li><li>Não</li>
-11.1 | Como foi o processo de baixar uma obra? (Caso a resposta anterior tenha sido sim) | Discursiva
-12 | Você já precisou da ajuda ou teve que se comunicar com alguém do sistema? |<li>Sim</li><li>Não</li>
-12.1 | Como você fez para se comunicar com alguém do sistema? (Caso a resposta anterior tenha sido sim) | Discursiva
-13 | Você já utilizou o sistema com algum objetivo que difere de buscar e baixar obras? | Discursiva 
+5 | Você já foi a uma biblioteca pública? | <li>Sim</li><li>Não</li> ⚠️ Caso a resposta seja "Sim", segue para a pergunta 6
+6 | Você já pegou algum livro em alguma biblioteca? | Discursiva
+7 | Como foi todo o processo até pegar esse livro emprestado? | Discursiva
+8 | Como você fez pra encontrar um livro dentro de uma biblioteca. | Discursiva
+9 | Você já baixou algum livro em pdf pra ler online?| Discursiva
+10 | Como foi o processo até baixar?  | <li>Sim</li><li>Não</li>
+
 
 <p align="center">
   <figcaption align='center'>
