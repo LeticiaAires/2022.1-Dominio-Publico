@@ -15,4 +15,3 @@ Gabriel Moretti | MorettiGS |
 Luan Vasco | Luan-Cavalcante |
 Guilherme Puida | guilherme-puida |
 Vitor Eduardo | vitorekr |
-

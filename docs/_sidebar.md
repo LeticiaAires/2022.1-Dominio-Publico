@@ -20,8 +20,12 @@
         - [Planejamento da Avaliação - Análise de tarefas](design/Fase1/planejAnaliseTarefas.md)
         - [Planejamento da Avaliação - Storyboard](design/Fase1/planejStoryboard.md)
         - [Storyboard](design/Fase1/storyboard.md)
+        - [Planejamento do Relato da Avaliação - Storyboard](design/Fase1/planejRelatoStory.md)
+        - [Planejamento do Relato da Avaliação - Análise de Tarefas](design/Fase1/planejRelatoAvaliacao.md)
 
 - **Apresentações**
     - [Apresentação 1](apresentacoes/apresentacao1.md)
     - [Apresentação 2](apresentacoes/apresentacao2.md)
     - [Apresentação 3](apresentacoes/apresentacao3.md)
+    - [Apresentação 4](apresentacoes/apresentacao4.md)
+

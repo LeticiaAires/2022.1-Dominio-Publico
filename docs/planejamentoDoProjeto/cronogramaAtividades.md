@@ -79,24 +79,43 @@ Edição do vídeo de apresentação  |   01/08/2022  | Guilherme Puida | Todos 
 Entrega do arquivo |   01/08/2022  | Gustavo Martins | Todos | 01/08/2022
 <br>
 
-### Quarta Entrega - 17/08/2022
+### Quarta Entrega - 8/8/2022
+A seguir, na _tabela 5_, se encontra a tabela relacionada à quarta entrega da matéria.
+    
 <figcaption><center>
     Tabela 5 - Quarta entrega
 </figcaption>
 
 Atividade(s) | Data  | Responsável | Revisor | Data de Revisão
 ------------ | ------- | ----------| ------- | ---------------
-Planejamento da Análise de Tarefas  | 04/08/2022 | Vitor Eduardo, Luan Vasco  | Luan Vasco | 05/08/2022
-Resultados da análise de tarefas  | 05/08/2022 | Gabriel Moretti  | Luan Vasco | 06/08/2022
-Planejamento do Storyboard | 05/08/2022 | Adne Moretti | Luan Vasco | 06/07/2022
-Storyboard |   06/08/2022  | Gustavo Martins, Guilherme Puida | Adne Moretti | 06/08/2022
-Planejamento da avaliação do storyboard  |   06/08/2022  | Adne Moretti, Luan Vasco | Todos | 07/08/2022
-Resultados da análise do storyboard  |   06/08/2022  | Vitor Eduardo, Gabriel Moretti| Todos | 07/08/2022
-Gravação do vídeo  |   07/08/2022  | Todos | Todos | 07/07/2022
+Planejamento da avaliação da Análise de Tarefas  | 04/08/2022 | Adne Moretti  | Gabriel Moretti | 05/08/2022
+Planejamento da avaliação do storyboard  |   06/08/2022  | Gabriel Moretti, Guilherme Puida | Guilherme Puida, Vitor Eduardo | 06/08/2022
+Storyboard |   06/08/2022  | Todos | Adne Moretti | 07/08/2022
+Planejamento do Relato de Resultados do Storyboard  |   06/08/2022  | Luan Vasco | Adne Moretti | 07/08/2022
+Planejamento do Relato de Resultados de Análise de Tarefas |   06/08/2022  | Luan Vasco | Adne Moretti | 07/08/2022
+Gravação do vídeo  |   07/08/2022  | Todos | Todos | 07/08/2022
 Edição do vídeo de apresentação  |   08/08/2022  | Guilherme Puida | Todos | 08/08/2022
 Entrega do arquivo |   08/08/2022  | Gustavo Martins | Todos | 08/08/2022
 <br>
 
+### Quinta Entrega - 17/08/2022
+A seguir, na _tabela 6_, se encontra a tabela relacionada à quinta entrega da matéria.
+<figcaption><center>
+    Tabela 6 - Quinta entrega
+</figcaption>
+
+Atividade(s) | Data  | Responsável | Revisor | Data de Revisão
+------------ | ------- | ----------| ------- | ---------------
+Relato dos resultados da avalição da Análise de Tarefas  | 10/08/2022 | Adne Moretti  | Gabriel Moretti | 11/08/2022
+Relato dos resultados da avaliação do Storyboard  |   11/08/2022  | Gabriel Moretti, Guilherme Puida | Vitor Eduardo | 12/08/2022
+Planejamento da avalição Protótipo de Papel  |   12/08/2022  | Luan Vasco | Adne Moretti | 13/08/2022
+Prototipação em papel |  13/08/2022  | Protótipo de papel | Adne Moretti | 13/08/2022
+Planejamento do Relato de Resultados do protótipo de papel |  14/08/2022  |Vitor Eduardo| Luan Vasco | 15/08/2022 
+Gravação do vídeo  |   16/08/2022  | Todos | Todos | 16/08/2022
+Edição do vídeo de apresentação  |   16/08/2022  | Guilherme Puida | Todos | 16/08/2022
+Entrega do arquivo |   17/08/2022  | Gustavo Martins | Todos | 17/08/2022
+<br>
+    
 ## Histórico de Versão
 
 

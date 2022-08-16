@@ -45,9 +45,14 @@ A ferramenta formulários do google será utilizada para a produção de questio
 <img src='https://user-images.githubusercontent.com/64036847/180206901-f3f56d6a-0ba3-4408-8871-a53d93d95b84.png' width=200px ></img>
 
 ## [Coolors](https://coolors.co/)
-A ferramenta Coolors do google será utilizada para a produção de paletas de cores que irão ser adicionadas ao guia de estilo do projeto da disciplina.
+A ferramenta Coolors será utilizada para a produção de paletas de cores que irão ser adicionadas ao guia de estilo do projeto da disciplina.
 
 ![](../assets/imagens/ferramentas/coolors.png)
+
+## [StoryboardThat](https://www.storyboardthat.com/)
+A ferramenta StoryboardThat será utilizada para a produção de storyboards que irão ser adicionados à Fase 1 do projeto da disciplina.
+
+![](../assets/imagens/ferramentas/storyboardthat.png)
 
 ## Histórico de Versão
 
