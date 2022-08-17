@@ -28,16 +28,17 @@ A metodologia utilizada vai ser o uso do Framework DECIDE. O framework decide co
     - A página de protótipo de papel tem erros gramaticais ?
 
 # Escolher o método de avaliação 
-    O método utilizado na avaliação será o método de investigação. Ele envolve o uso de questionários, entrevistas,grupos de foco e estudos de campo. Para a nossa atividade,serão utilizados questionários e entrevistas.
+O método utilizado na avaliação será o método de investigação. Ele envolve o uso de questionários, entrevistas,grupos de foco e estudos de campo. Para a nossa atividade,serão utilizados questionários e entrevistas.
 
 # Identificar e administrar questões práticas 
 As questões práticas envolvidas na avaliação serão feitas baseadas nos questionários e entrevistas realizadas.Sendo assim, tudo que diz respeito a realização destas 2 tarefas serão identificadas e alocadas para a equipe.
 
 # Decidir como lidar com as questões éticas
-Para lidar com as questões éticas, será utilizado um termo de consentimento descrito na figura 1 abaixo.
+Para lidar com as questões éticas, será utilizado um template de termo de consentimento descrito na figura 1 abaixo.
+![Figura1-termo de consentimento](https://user-images.githubusercontent.com/67024690/185247240-2807d861-a1fc-4ced-a233-b4ee866a5b8b.png)
 
 # Avaliar 
-    A parte de avaliação consiste em avaliar e interpretar os dados obtidos. Sendo assim,o avaliador deve levar em consideração a confiabilidade nos dados obtidos antes de divulgar e tirar conclusões da avaliação.
+A parte de avaliação consiste em avaliar e interpretar os dados obtidos. Sendo assim,o avaliador deve levar em consideração a confiabilidade nos dados obtidos antes de divulgar e tirar conclusões da avaliação.
 
 
 # Conclusão 
