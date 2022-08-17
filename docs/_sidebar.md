@@ -26,7 +26,6 @@
             - [Planejamento da Avaliação - Storyboard](design/Fase1/planejStoryboard.md)
             - [Storyboard](design/Fase1/storyboard.md)
             - [Relato dos Resultados da Avaliação - Storyboard](design/Fase1/planejRelatoStory.md)
-    
 
 - **Apresentações**
     - [Apresentação 1](apresentacoes/apresentacao1.md)
