@@ -6,16 +6,13 @@ Esse documento apresenta os vídeos das entrevistas realizadas durante a etapa d
 ## Entrevista 01
 A primeira entrevista foi realizada às 17:30 do dia 16/08/2022 e está registrada em formato de vídeo no youtube como não listado, segue o link: 
 
-
-<iframe width="560" height="315" src="https://youtu.be/zcBSABOt0Lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NcldLPOocOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Entrevista 02
 A segunda entrevista foi realizada às 19:50h do dia 16/08/2022 e está registrada em formato de vídeo no youtube como não listado, segue o link: 
 
-<iframe width="560" height="315" src="https://youtu.be/NcldLPOocOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zcBSABOt0Lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusão 
 As entrevistas foram fundamentais para a avaliação do artefato de Análise de Tarefas, pois tendo o contato com uma pessoa que se encauxasse no perfil de usuário definido pela equipe e com algumas perguntas direcionadas para a funcionalidade fundamental do site, foi possível levantar as possíveis atividades realizadas por um usuáruio dentro do sistema e comparar com as já descritas. 
