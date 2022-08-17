@@ -19,15 +19,15 @@ O diagrama escolhido para abordar na entrevista foi o Análise Hierárquica de t
 Após busca por voluntários que encaixassem no perfil de usuário definido para o sistema, o grupo encontrou 2 pessoas para realizar a avaliação da análise de tarefas, cada entrevista teve apenas dois participantes, o entrevistador e o entrevistado, sendo eles:
 
 
-## 3. Abordagem
+## 4. Abordagem
 
-Serão investigadas as tarefas destacadas na Análise de Tarefas.
+
 
 ## 4. Objetivo
 O objetivo é um relatório que será criado a partir de uma reunião com todos os avaliadores. E é claro, que espera-se encontrar áreas e utilidades para serem melhoradas.
 
 ## 5. Problemas encontrados 
-Os avaliadores devem informar os problemas encontrados após ter sido feitas as entrevistas, as avaliações e a interpretação dos resultados.
+Um problema bem visível foi o item 2.1 (Informar tipo de mídia, categoria, autor, título e idioma), que causou confusão nas duas participantes, por não separar e detalhar as opções em partes menores, deixando claro que a busca de obras no site Domínio Público pode buscar por qualquer um desses itens, não tendo necessidade de informar todos.
 
 ## 6. Conclusão
 Como conclusão, destacamos a importância da geração do relatório contendo os seguintes aspectos : 
