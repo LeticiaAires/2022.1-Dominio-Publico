@@ -3,13 +3,21 @@
 <div align='justify'>
 
 ## 1. Introdução
-O objetivo dessa página é fazer o planejamento de como os resultados da avaliação da Análise de Tarefa serão relatados, isto é, como os resultados devem ser apresentados e trabalhados. Ressaltando que o método utilizado foi o de entrevista com Personas.
+Tendo concluido a etapa do planejamento da avaliação da Análise de Tarefas, seguimos para a realização da avaliação de fato. Nessa avaliação o grupo avaliou as análises de tarefas levantadas, sendo a GOMS e a Árvore de Tarefas Concorrentes para levantar a qualidade do artefato disponível e possíveis melhoras e modificações a serem feitas. 
+
+Esse documento utiliza do _Framework_ DECIDE, sendo a letra E desse framework, que significa de fato a avaliação.
 
 
 ## 2. Metodologia
-A metodologia a ser utilizada vai ser a entrevista com usuário. Essas entrevistas serão norteadas por um roteiro com o objetivo de obter o máximo de informação possível.
+A metodologia utilizada para a realização avaliação foi pela entrevista, método pertencente aos métodos de investigação. Diante outras responsabilidades dos membros do grupo, apenas um entrevistador participou das entrevistas e ficou responsável pela gravação e posterior coleta dos dados.
 
-Além disso, existe uma abordagem para se tratar o entrevistado e para lidar com a aplicação.
+Durante a entrvista, primeiramente foram feitas perguntas bastante conceituais que tivessem relação com o sistema em questão, logo após, foi explicado e apresentado os diagramas de Análise Hierárquica de Tarefas desenvolvidos pelo grupo.
+
+O diagrama escolhido para abordar na entrevista foi o Análise Hierárquica de tarefas por apresentar maior facilidade de entendimento, já que tem como objetivo apresentar de forma mais visual as tarefass que possam ser realizadas pelo usuário.
+
+## 3. Participantes
+Após busca por voluntários que encaixassem no perfil de usuário definido para o sistema, o grupo encontrou 2 pessoas para realizar a avaliação da análise de tarefas, cada entrevista teve apenas dois participantes, o entrevistador e o entrevistado, sendo eles:
+
 
 ## 3. Abordagem
 
