@@ -20,7 +20,7 @@ Após busca por voluntários que encaixassem no perfil de usuário definido para
 
 
 ## 4. Dados obtidos
-    Os dados obtidos na entrevista foram transcritos para a _tabela 1_ e _tabela 2_
+Os dados obtidos na entrevista foram transcritos para a _tabela 1_ e _tabela 2_
 
 ### Entrevista 01 - Julia
     
@@ -57,17 +57,11 @@ Identificador | Pergunta | Resposta
 
 ## 5. Problemas encontrados 
 Um problema bem visível foi o item 2.1 (Informar tipo de mídia, categoria, autor, título e idioma), que causou confusão nas duas participantes, por não separar e detalhar as opções em partes menores, deixando claro que a busca de obras no site Domínio Público pode buscar por qualquer um desses itens, não tendo necessidade de informar todos.
+Também foi concluido que a análise de tarefas pode ser mais detalhada, apesar do sistema possuir tarefas bem simples. 
 
 ## 6. Conclusão
-Como conclusão, destacamos a importância da geração do relatório contendo os seguintes aspectos : 
-
-    - Os objetivos e escopo da avaliação;
-    - A forma como a avaliação foi realizada (método de avaliação empregado);
-    - O número e o perfil de usuários e avaliadores que participaram da avaliação;
-    - Um sumário dos dados coletados, incluindo tabelas e gráficos;
-    - Um relato da interpretação e análise dos dados;
-    - Uma lista dos problemas encontrados;
-    - Um planejamento para o reprojeto do sistema.
+Conclui-se que é necessário fazer algumas pequenas alterações e melhorias no artefato Análise de tarefas, tanto no diagrama de Análise Hierárquica de Tarefas quanto na metodologia do GOMS, detalhando mais cada tarefa realizada pelo usuário dentro do sistema. Subdividindo dentro de "Informar campos de busca" cada uma das formas que as obras podem ser pesquisadas. 
+As melhorias seram feitas pelo membro entrevistador, após a análise dos resultados por todo o grupo e está planejada para o dia 19/08/2022. 
 
 
 ## Bibliografia
