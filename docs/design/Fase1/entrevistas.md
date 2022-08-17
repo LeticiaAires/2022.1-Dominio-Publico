@@ -15,7 +15,7 @@ A segunda entrevista foi realizada às 19:50h do dia 16/08/2022 e está registra
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zcBSABOt0Lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusão 
-As entrevistas foram fundamentais para a avaliação do artefato de Análise de Tarefas, pois tendo o contato com uma pessoa que se encauxasse no perfil de usuário definido pela equipe e com algumas perguntas direcionadas para a funcionalidade fundamental do site, foi possível levantar as possíveis atividades realizadas por um usuáruio dentro do sistema e comparar com as já descritas. 
+As entrevistas foram fundamentais para a avaliação do artefato de Análise de Tarefas, pois tendo o contato com uma pessoa que se encaixasse no perfil de usuário definido pela equipe e com algumas perguntas direcionadas para a funcionalidade fundamental do site, foi possível levantar as possíveis atividades realizadas por um usuáruio dentro do sistema e comparar com as já descritas. 
 
 Além disso, com a opinião do entrevistado na Análise de Tarefas pudemos perceber o que poderia estar confuso ou precisa ser refeito dentro do diagrama.
 
