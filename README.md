@@ -1,7 +1,5 @@
-# Site Domínio Público
-
+# Grupo 2
 ![dominio publico](https://user-images.githubusercontent.com/64036847/176789008-ab907958-3539-410b-82f4-5ead2d0d912e.gif)
-
 
 ## Sobre o projeto
 <p align="justify">
