@@ -16,7 +16,7 @@ Durante a entrvista, primeiramente foram feitas perguntas bastante conceituais q
 O diagrama escolhido para abordar na entrevista foi o Análise Hierárquica de tarefas por apresentar maior facilidade de entendimento, já que tem como objetivo apresentar de forma mais visual as tarefass que possam ser realizadas pelo usuário.
 
 ## 3. Participantes
-Após busca por voluntários que encaixassem no perfil de usuário definido para o sistema, o grupo encontrou 2 pessoas para realizar a avaliação da análise de tarefas, cada entrevista teve apenas dois participantes, o entrevistador e o entrevistado, sendo eles:
+Após busca por voluntários que encaixassem no perfil de usuário definido para o sistema, o grupo encontrou 2 pessoas para realizar a avaliação da análise de tarefas, cada entrevista teve apenas dois participantes, o entrevistador e o entrevistado.
 
 
 ## 4. Dados obtidos
