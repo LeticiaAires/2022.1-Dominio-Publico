@@ -5,27 +5,31 @@ Avaliar um produto permite a equipe de desenvolvimento encontrar eventuais probl
 A metodologia utilizada para facilitar o processo de planejameto de avaliação do protótipo de papel denomina-se Framework DECIDE(BARBOSA,2022,p.279). Tal ferramenta consiste em um framework cujas atividades envolvidas são interligadas e executadas iterativamente à medida que o avaliador articula os objetivos da avaliação, os dados e os recursos disponíveis. Nos próximos tópicos,será apresentado cada um dos fatores a serem considerados durante a atividade de avaliação em questão.
 
 # Determinar os Objetivos 
-    Os objetivos gerais da avaliação são : 
-    - Verificar se o protótipo atinge as necessidades dos usuários.
-    - Verificar se o protótipo segue a definição de baixa-prioridade.
-    - Verificar se a página de protótipo de papel seguem o padrão da disciplina.
+    Os objetivos gerais da avaliação,que foram escolhidos de acordo com o livro da Simone Barbosa,são : 
+    1 - Verificar a conformidade com um padrão
+        - Verificar se a página de protótipo de papel seguem o padrão da disciplina.
+    2 - Identificar problemas na interação e interface
+        - Verificar se o protótipo atinge as necessidades dos usuários.
+        - Verificar se o protótipo segue a definição de baixa-prioridade.
+    
 
 # Explorar perguntas a serem respondidas com a avaliação
     Para cada objetivo definido o avaliador deve elaborar perguntas a serem respondidas na avaliação.
     Perguntas : Objetivo 1
-    - O protótipo foi feito utilizando a opinião dos stakeholders ?
-    - O protótipo foi feito utilizando a opinião do público-alvo ?
-    - Houve coleta de dados para realizar o protótipo ?
-    - O protótipo leva em consideração a acessibilidade ?
+        - O protótipo teve baixo custo ? 
+        - O protótipo se assemelha muito ao produto final ?
+        - O protótipo encorajou a equipe ?
+     Perguntas : Objetivo 2
+        - O protótipo foi feito utilizando a opinião dos stakeholders ?
+        - O protótipo foi feito utilizando a opinião do público-alvo ?
+        - Houve coleta de dados para realizar o protótipo ?
+        - O protótipo leva em consideração a acessibilidade ?
+        - O usuário consegue operar o sistema?
+        - Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
+        - Que parte da interface e da interação o deixa insatisfeito?
+        - Ele vai entender o que deve fazer em seguida?
+    
 
-    Perguntas : Objetivo 2
-    - O protótipo teve baixo custo ? 
-    - O protótipo se assemelha muito ao produto final ?
-    - O protótipo encorajou a equipe ?
-
-    Perguntas : Objetivo 3
-    - A página de protótipo de papel está bem estruturada ?
-    - A página de protótipo de papel tem erros gramaticais ?
 
 # Escolher o método de avaliação 
 O método utilizado na avaliação será o método de investigação. Ele envolve o uso de questionários, entrevistas,grupos de foco e estudos de campo. Para a nossa atividade,serão utilizados questionários e entrevistas.
@@ -39,6 +43,14 @@ Para lidar com as questões éticas, será utilizado um template de termo de con
 <br>Figura 1 - Termo de consentimento - Fonte : Interação Humano Computador e Experiência do Usuário,Simone Barbosa.
 # Avaliar 
 A parte de avaliação consiste em avaliar e interpretar os dados obtidos. Sendo assim,o avaliador deve levar em consideração a confiabilidade nos dados obtidos antes de divulgar e tirar conclusões da avaliação.
+
+# Cronograma da avaliação
+|Entrega|Data|Responsável|Revisor|
+|-------|----|-----------|-------|
+|Protótipo de papel |18/7/2022 | Gustavo Martins |Luan Vasco|
+|Entrevista|18/7/2022|Luan Vasco|Vitor Eduardo|
+|Coleta de dados| 18/7/2022| Luan Vasco | Adne Moretti |
+| Conclusão das Entrevistas | 19/7/2022 | Luan Vasco | Vitor Eduardo |
 
 
 # Conclusão 
