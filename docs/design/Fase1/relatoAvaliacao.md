@@ -20,7 +20,7 @@ Após busca por voluntários que encaixassem no perfil de usuário definido para
 
 
 ## 4. Dados obtidos
-Os dados obtidos na entrevista foram transcritos para a _tabela 1_ e _tabela 2_
+Os dados obtidos na entrevista foram transcritos para a _tabela 1_ e _tabela 2_.
 
 ### Entrevista 01 - Julia
     
@@ -37,7 +37,9 @@ Identificador | Pergunta | Resposta
 9 | Você já baixou algum livro em pdf pra ler online?| Sim, várias vezes
 9.1 | Como foi o processo até baixar? | Geralmente eu procuro no Google né, coloco o nome do livro, autor, pdf e muitas vezes aparece lá nos links. Assim, bem fácil.
 10 | Você já baixou algum vídeo online?  | Não, acredito que não
-
+    
+<figcaption>Tabela 1: Respostas das perguntas da entrevista 1</figcaption>
+    
 Após as perguntas, foi apresentado o digrama de Análise Hierárquica de Tarefas para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada concordou com todas as tarefas, apenas questionando o item 2.1.
     
 ### Entrevista 02 - Clara
@@ -56,7 +58,9 @@ Identificador | Pergunta | Resposta
 9.1 | Como foi o processo até baixar? | Bem, foi bem simples. Eu entrei no site e digitei o nome do livro e ai apareceu uma listagem assim de vários livros que teriam aquele nome e ai eu cliquei na opção do livro e tinha uma opção de baixar em pdf e em outros formatos também, como mobi, ai eu só selecionei e fiz o download.
 10 | Você já baixou algum vídeo online?  | Sim
 10.1 | Como foi o processo até baixar? |   Então, acho o livro que eu queria no youtube provavelmente, copio o link e acho algum site na internet que baixe o vídeo no youtube, entro no site e seleciono o formato.
-
+    
+   <figcaption>Tabela 2: Respostas das perguntas da entrevista 2</figcaption>
+    
   Após as perguntas, foi apresentado o digrama de Análise Hierárquica de Tarefas para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada questionou o item 2.1, perguntando se seriam necessários todas as informações de uma obra para realizar a busca, apesar disso, a entrevistada concordou com as tarefas e não apresentou sugestões.
     
 ## 5. Problemas encontrados 
