@@ -77,8 +77,8 @@ Identificador | Pergunta | Possível resposta
 2 | Qual a sua idade? | Discursiva
 3 | Qual a sua ocupação? | <li>Aluno</li><li>Professor</li><li>Pesquisador</li><li>Outro</li>
 4 | Qual o seu grau de ensino? | <li>Ensino médio incompleto</li><li>Ensino superior incompleto</li><li>Ensino superior completo</li><li>Outro</li>
-5 | Você já foi a uma biblioteca pública? | <li>Sim</li><li>Não</li> ⚠️ Caso a resposta seja "Sim", segue para a pergunta 6
-6 | Você já pegou algum livro em alguma biblioteca? | Discursiva
+5 | Você já foi a uma biblioteca? | <li>Sim</li><li>Não</li> ⚠️ Caso a resposta seja "Sim", segue para a pergunta 6
+6 | Você já pegou algum livro em alguma biblioteca? | <li>Sim</li><li>Não</li>
 7 | Como foi todo o processo até pegar esse livro emprestado? | Discursiva
 8 | Como você fez pra encontrar um livro dentro de uma biblioteca. | Discursiva
 9 | Você já baixou algum livro em pdf pra ler online?| <li>Sim</li><li>Não</li>
