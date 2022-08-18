@@ -30,6 +30,7 @@
     - **Fase 2**
         - **Protótipo de papel**
             - [Planejamento da Avaliação - Protótipo de papel](design/Fase2/planejAvalProt.md)
+            - [Planejamento do Relato - Protótipo de papel](design/Fase2/planej_relato_prot_papel.md)
 
 - **Apresentações**
     - [Apresentação 1](apresentacoes/apresentacao1.md)
