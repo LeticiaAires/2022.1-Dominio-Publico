@@ -3,7 +3,7 @@
 <div align='justify'>
 
 ## 1. Introdução
-Tendo concluido a etapa do planejamento da avaliação da Análise de Tarefas, seguimos para a realização da avaliação de fato. Nessa avaliação o grupo avaliou as análises de tarefas levantadas, sendo a GOMS e a Árvore de Tarefas Concorrentes para levantar a qualidade do artefato disponível e possíveis melhoras e modificações a serem feitas. 
+Tendo concluido a etapa do planejamento da avaliação da [Análise de Tarefas](https://interacao-humano-computador.github.io/2022.1-Dominio-Publico/#/analiseRequisitos/analiseTarefas), seguimos para a realização da avaliação de fato. Nessa avaliação o grupo avaliou as análises de tarefas levantadas, sendo a GOMS e a Árvore de Tarefas Concorrentes para levantar a qualidade do artefato disponível e possíveis melhoras e modificações a serem feitas. 
 
 Esse documento utiliza do _Framework_ DECIDE, sendo a letra E desse framework, que significa de fato a avaliação.
 
