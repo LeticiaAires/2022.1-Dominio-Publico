@@ -49,6 +49,6 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-------|-----------| ------- |
-| 0.1 | 17/08/22 | Documento Inicial | Vitor Eduardo | --- |
+| 0.1 | 17/08/22 | Documento Inicial | Vitor Eduardo | Luan Vasco |
 
 
