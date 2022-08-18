@@ -11,7 +11,7 @@ Esse documento utiliza do _Framework_ DECIDE, sendo a letra E desse framework, q
 ## 2. Metodologia
 A metodologia utilizada para a realização avaliação foi pela entrevista, método pertencente aos métodos de investigação. Diante outras responsabilidades dos membros do grupo, apenas um entrevistador participou das entrevistas e ficou responsável pela gravação e posterior coleta dos dados.
 
-Durante a entrvista, primeiramente foram feitas perguntas bastante conceituais que tivessem relação com o sistema em questão, logo após, foi explicado e apresentado os diagramas de Análise Hierárquica de Tarefas desenvolvidos pelo grupo.
+Durante a entrevista, primeiramente foram feitas perguntas bastante conceituais que tivessem relação com o sistema em questão, logo após, foi explicado e apresentado os diagramas de Análise Hierárquica de Tarefas desenvolvidos pelo grupo.
 
 O diagrama escolhido para abordar na entrevista foi o Análise Hierárquica de tarefas por apresentar maior facilidade de entendimento, já que tem como objetivo apresentar de forma mais visual as tarefass que possam ser realizadas pelo usuário.
 
