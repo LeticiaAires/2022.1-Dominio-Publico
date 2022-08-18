@@ -23,5 +23,5 @@ Além disso, com a opinião do entrevistado na Análise de Tarefas pudemos perce
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor   |
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
-| 0.1    | 16/08/2022 | Documento inicial                         | Adne Moretti  |  |
-| 0.2    | 16/08/2022 | Adicionando detalhes no documento                | Adne Moretti  |  |
+| 0.1    | 16/08/2022 | Documento inicial                         | Adne Moretti  | Gabriel Moretti  |
+| 0.2    | 16/08/2022 | Adicionando detalhes no documento                | Adne Moretti  | Gabriel Moretti  |
