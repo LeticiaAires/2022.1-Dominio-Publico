@@ -41,9 +41,8 @@ Identificador | Pergunta | Resposta
 <figcaption>Tabela 1: Respostas das perguntas da entrevista 1</figcaption>
     
 Após as perguntas, foi apresentado o digrama de Análise Hierárquica de Tarefas para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada concordou com todas as tarefas, apenas questionando o item 2.1.
-    
+
 ### Entrevista 02 - Clara
-    
 Identificador | Pergunta | Resposta
 ------------- | -------- | ----------------
 1 | Qual o seu nome completo? |  Clara Marcelino Ribeiro de Souza
