@@ -1,8 +1,8 @@
 # Introdução
-A seguinte página tem o objetivo de esclarecer como será feita a avaliação do protótipo de papel. A avaliação fará uso do framework DECIDE para orientação da avaliação.
+Avaliar um produto permite a equipe de desenvolvimento encontrar eventuais problemas, permitindo o mesmo a corrigir tais artefatos antes que chegue ao consumidor final.Contudo, no contexto desse artefato, foi realizado um planejamento da avaliação da aplicação de uma técnica denominada protótipo de papel, e não do produto final em si.Tal técnica consiste em uma representação simplificada e de baixo custo.A seguir, confira informações sobre a metodologia utilizada para o planejamento da avaliação em questão.
 
 # Metodologia 
-A metodologia utilizada vai ser o uso do Framework DECIDE. O framework decide consiste em uma série de passos para concretizar o planejamento, a execução e a análise de uma avaliação de IHC.Seguindo o framework, os títulos a seguir fazem parte do método : 
+A metodologia utilizada para facilitar o processo de planejameto de avaliação do protótipo de papel denomina-se Framework DECIDE(BARBOSA,2022,p.279). Tal ferramenta consiste em um framework cujas atividades envolvidas são interligadas e executadas iterativamente à medida que o avaliador articula os objetivos da avaliação, os dados e os recursos disponíveis. Nos próximos tópicos,será apresentado cada um dos fatores a serem considerados durante a atividade de avaliação em questão.
 
 # Determinar os Objetivos 
     Os objetivos gerais da avaliação são : 
@@ -54,3 +54,5 @@ Sendo assim, está feito o planejamento da avaliação do protótipo de baixa fi
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
 | 0.1 | 14/08/2022 | Documento Inicial | Luan Vasco | Adne Moretti |
+| 0.2 | 15/08/2022 | Ajustes em introdução | Luan Vasco | Gustavo Martins |
+
