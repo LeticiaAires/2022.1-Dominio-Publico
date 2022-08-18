@@ -60,9 +60,9 @@ Identificador | Pergunta | Resposta
 
 <figcaption>Tabela 2: Respostas das perguntas da entrevista 2</figcaption>
     
-  Após as perguntas, foi apresentado o digrama de Análise Hierárquica de Tarefas para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada questionou o item 2.1, perguntando se seriam necessários todas as informações de uma obra para realizar a busca, apesar disso, a entrevistada concordou com as tarefas e não apresentou sugestões.
-    
-## 5. Problemas encontrados 
+Após as perguntas, foi apresentado o digrama de Análise Hierárquica de Tarefas para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada questionou o item 2.1, perguntando se seriam necessários todas as informações de uma obra para realizar a busca, apesar disso, a entrevistada concordou com as tarefas e não apresentou sugestões.
+
+## 5. Problemas encontrados
 Um problema bem visível foi o item 2.1 (Informar tipo de mídia, categoria, autor, título e idioma), que causou confusão nas duas participantes, por não separar e detalhar as opções em partes menores, deixando claro que a busca de obras no site Domínio Público pode buscar por qualquer um desses itens, não tendo necessidade de informar todos.
 Também foi concluido que a análise de tarefas pode ser mais detalhada, apesar do sistema possuir tarefas bem simples. 
 
