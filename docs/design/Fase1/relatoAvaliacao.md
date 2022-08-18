@@ -1,4 +1,4 @@
-# <center> Relato de Avaliação de Análise de tarefas.
+# <center> Relato de Avaliação da Análise de tarefas.
 
 <div align='justify'>
 
