@@ -20,7 +20,7 @@ As informações detalhadas a respeito do planejamento e das perguntas que serã
 
 De acordo com Barbosa e Silva (2010), entrevistas permitem ao avaliador coletar dados detalhados e profundos das experiências individuais do grupo de foco. Por essa abordagem, permitimos a coleta de muitas informações e possuímos um formato flexível de tal método, o que facilita o direcionamento da coleta de dados de acordo com o cenário do usuário.
 
-O nosso entrevistado consiste em um indivíduo que nunca usou o site do Domínio Público, somente conhece o site por nome. Porém, essa entrevista também poderia ser feita com um usuário do site, com pouco ou bastante conhecimento da plataforma.
+O nosso entrevistado consiste em um indivíduo estudante de Engenharia de Software, com pouco conhecimento de bibliotecas digitais. Porém, essa entrevista também poderia ser feita com um usuário do site, com pouco ou bastante conhecimento da plataforma.
 
 ## 4. Entrevista
 
@@ -36,7 +36,7 @@ e Guilherme Puida, que participou somente como ouvinte e foi responsável por an
 O entrevistado leu e concordou com o termo de consentimento.
 
 O entrevistado, Tiago Buson, é estudante de Engenharia de Software pela Universidade de Brasília - FGA.
-Ele já havia utilizado plataformas de biblioteca digital, como a BCE, mas nunca tinha usado o Domínio Público.
+Ele já havia utilizado plataformas de biblioteca digital, como a BCE.
 
 Quando perguntado sobre o primeiro storyboard, que retrata o fluxo de _Buscar Obras_ no site do Domínio Público, o participante afirmou
 que o storyboard condizia com a realidade.
