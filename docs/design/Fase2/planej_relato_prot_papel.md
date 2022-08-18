@@ -24,7 +24,7 @@ O método escolhido pelo grupo para esta avaliação foi a entrevista, pertencen
 
 <p style="text-align: justify;">Qualquer pessoa que se encaixe em algum desses perfis estão aptos de serem recrutados para a atividade de validação.</p>
 
-<p style="text-align: justify;">Procure por pessoas com esse perfil, entre em contato, explique a motivação da avaliação e os detalhes envolvidos. Caso a pessoa confirme o desejo de participar, combine uma data e um horário. Caso o avaliador consiga recrutar mais de 3 pessoas, escolha a pessoa com a data mais próxima para realizar o teste-piloto. Teste-piloto é uma execução da avaliação com o objetivo de identificar dúvidas que podem surgir durante a avaliação. Os participantes selecionados foram aqueles que tinham utilizado os serviços do Cebraspe alguma vez na vida, e dessa forma, já possuíam algum conhecimento prévio do sistema vigente.
+<p style="text-align: justify;">Procure por pessoas com esse perfil, entre em contato, explique a motivação da avaliação e os detalhes envolvidos. Caso a pessoa confirme o desejo de participar, combine uma data e um horário. 
 </p>
 
 A partir do relato dos resultados da avaliação, o grupo percebeu que o protótipo de papel apresentou bem suas funções. Tudo isso nos baseando nas entrevistas passadas que os entrevistados sugeriram. A ideia foi justamente criar um passo a passo por meio do protótipo para que os participantes, pudessem acessar as telas por meio de simples cliques simulados no papel. As entrevistas foram úteios para avaliar tanto as perguntas feitas quanto o nosso protótipo de papel, que será melhorado na parte de planejamento da avaliação do protótipo de alta fidelidade.
