@@ -106,11 +106,11 @@ A seguir, na _tabela 6_, se encontra a tabela relacionada à quinta entrega da m
 
 Atividade(s) | Data  | Responsável | Revisor | Data de Revisão
 ------------ | ------- | ----------| ------- | ---------------
-Relato dos resultados da avalição da Análise de Tarefas  | 10/08/2022 | Adne Moretti  | Gabriel Moretti | 11/08/2022
+Relato dos resultados da avalição da Análise de Tarefas  | 10/08/2022 | Luan Vasco | Adne Moretti | 11/08/2022
 Relato dos resultados da avaliação do Storyboard  |   11/08/2022  | Gabriel Moretti, Guilherme Puida | Vitor Eduardo | 12/08/2022
 Planejamento da avalição Protótipo de Papel  |   12/08/2022  | Luan Vasco | Adne Moretti | 13/08/2022
-Prototipação em papel |  13/08/2022  | Protótipo de papel | Adne Moretti | 13/08/2022
-Planejamento do Relato de Resultados do protótipo de papel |  14/08/2022  |Vitor Eduardo| Luan Vasco | 15/08/2022 
+Prototipação em papel |  13/08/2022  | Protótipo de papel | Gustavo Martins | 13/08/2022
+Planejamento do Relato de Resultados do protótipo de papel |  14/08/2022  | Vitor Eduardo | Guilherme Puida | 15/08/2022 
 Gravação do vídeo  |   16/08/2022  | Todos | Todos | 16/08/2022
 Edição do vídeo de apresentação  |   16/08/2022  | Guilherme Puida | Todos | 16/08/2022
 Entrega do arquivo |   17/08/2022  | Gustavo Martins | Todos | 17/08/2022
