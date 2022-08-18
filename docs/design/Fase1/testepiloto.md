@@ -33,5 +33,5 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor   |
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
-| 0.1    | 16/08/2022 | Documento inicial                         | Adne Moretti |  |
-| 0.2    | 16/08/2022 | Adição do teste piloto                         | Adne Moretti |  |
+| 0.1    | 16/08/2022 | Documento inicial                         | Adne Moretti |  Gabriel Moretti |
+| 0.2    | 16/08/2022 | Adição do teste piloto                         | Adne Moretti | Gabriel Moretti  |
