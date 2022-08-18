@@ -41,11 +41,6 @@ Na entrevista, será introduzido ao entrevistado o protótipo de papel e será p
 <p style="text-align: justify;">Após a produção de todos os pequenos relatórios, o avaliador deverá escrever uma conclusão da atividade de avaliação, onde será listado todos os problema com suas devidas priorização (qual deve ser resolvido primeiro).
 </p>
 
-## 6. Conclusão
-
-<p style="text-align: justify;">Esse documento visa facilitar a vida do avaliador durante a realização das avaliações. Desse modo, o avaliador está livre para realizar mudanças durante ou previamente a avaliação, mas sempre lembrando de manter a consistência entre os diversos participantes.
-</p>
-
 ## Referência bibliográfica
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
