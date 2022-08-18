@@ -8,7 +8,7 @@ O documento de Storyboard consiste em quadros desenhados dispostos sistematicame
 
 Visando a correção de possíveis erros e a melhora de documentação, é essencial que, após a elaboração do storyboard, sejam realizadas as devidas avaliações e validações junto aos usuários do sistema, assim verificando se as decisões tomadas fazem sentido no contexto do site.
 
-Dessa forma, este documento visa, seguindo o padrão de avaliação registrado na [etapa de planejamento](), realizar a avaliação dos storyboards desenvolvidos pela equipe do Domínio Público.
+Dessa forma, este documento visa, seguindo o padrão de avaliação registrado na etapa de planejamento, realizar a avaliação dos storyboards desenvolvidos pela equipe do Domínio Público.
 
 ## 2. Objetivo
 
@@ -24,7 +24,7 @@ O nosso entrevistado consiste em um indivíduo que nunca usou o site do Domínio
 
 ## 4. Entrevista
 
-Ao todo foi realizadas uma entrevista com o usuário Tiago Leão Buson, 
+Ao todo foi realizada uma entrevista com o usuário Tiago Leão Buson às 21:30h do dia 16/08/2022, 
 estudante de Engenharia de Software na Universidade de Brasília do Gama (FGA), 
 sendo essas entrevistas gravadas por meio da plataforma Discord e disponibilizadas a seguir.
 
@@ -44,7 +44,7 @@ Tiago não teve nenhuma crítica nem sugestão em relação ao primeiro storyboa
 
 Quando perguntado sobre o segundo storyboard, que retrata a funcionalidade de _Sites Relacionados_ no Domínio Público, o participante
 também afirmou que a situação apresentada no artefato condizia com a realidade.
-Também não houve nenhuma crítica nem sugetão sobre o segundo storyboard.
+Também não houve nenhuma crítica nem sugestão sobre o segundo storyboard.
 
 ## 5. Conclusão
 
@@ -66,4 +66,4 @@ podendo prosseguir com as avaliações e propostas de melhoria de design e usabi
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
 | 0.1 | 16/08/2022 | Documento Inicial | Gabriel Moretti | Guilherme Puida |
-| 0.2 | 17/08/2022 | Adição do link da entrevista e conclusão | Guilherme Puida | --- |
+| 0.2 | 17/08/2022 | Adição do link da entrevista e conclusão | Guilherme Puida | Gabriel Moretti |
