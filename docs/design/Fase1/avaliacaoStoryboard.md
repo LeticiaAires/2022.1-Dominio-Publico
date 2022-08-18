@@ -14,7 +14,7 @@ Dessa forma, este documento visa, seguindo o padrão de avaliação registrado n
 
 O objetivo desse documento é detalhar o máximo possível todas as melhorias, observações e erros dos [storyboards](https://interacao-humano-computador.github.io/2022.1-Dominio-Publico/#/design/Fase1/storyboard) já realizados no projeto.
 
-As informações detalhadas a respeito do planejamento e das perguntas que serão realizadas durante as entrevistas podem ser verificadas no [planejamento da avaliação]() dos storyboards.
+As informações detalhadas a respeito do planejamento e das perguntas que serão realizadas durante as entrevistas podem ser verificadas no planejamento da avaliação dos storyboards.
 
 ## 3. Metodologia
 
