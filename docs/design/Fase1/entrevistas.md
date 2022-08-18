@@ -1,7 +1,7 @@
 # Entrevistas da Avaliação da Análise de Tarefas
 
 ## Introdução
-Esse documento apresenta os vídeos das entrevistas realizadas durante a etapa de avaliação da Análise de Tarefas. Além disso, apresenta também todas as respostas transcritas para a tabela.
+Esse documento apresenta os vídeos das entrevistas realizadas durante a etapa de avaliação da Análise de Tarefas. A entrevista foi realizada por meio da plataforma Microsoft Teams e resultaram nos seguintes vídeos:
 
 ## Entrevista 01
 A primeira entrevista foi realizada às 17:30 do dia 16/08/2022 e está registrada em formato de vídeo no youtube como não listado, segue o link: 
