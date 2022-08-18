@@ -34,9 +34,9 @@ O método utilizado na avaliação será o método de investigação. Ele envolv
 As questões práticas envolvidas na avaliação serão feitas baseadas nos questionários e entrevistas realizadas.Sendo assim, tudo que diz respeito a realização destas 2 tarefas serão identificadas e alocadas para a equipe.
 
 # Decidir como lidar com as questões éticas
-Para lidar com as questões éticas, será utilizado um template de termo de consentimento descrito na figura 1 abaixo.
+Para lidar com as questões éticas, será utilizado um template de termo de consentimento descrito na figura 1 abaixo. 
 ![Figura1-termo de consentimento](https://user-images.githubusercontent.com/67024690/185247240-2807d861-a1fc-4ced-a233-b4ee866a5b8b.png)
-
+<br>Figura 1 - Termo de consentimento - Fonte : Interação Humano Computador e Experiência do Usuário,Simone Barbosa.
 # Avaliar 
 A parte de avaliação consiste em avaliar e interpretar os dados obtidos. Sendo assim,o avaliador deve levar em consideração a confiabilidade nos dados obtidos antes de divulgar e tirar conclusões da avaliação.
 
