@@ -38,6 +38,8 @@ Identificador | Pergunta | Resposta
 9.1 | Como foi o processo até baixar? | Geralmente eu procuro no Google né, coloco o nome do livro, autor, pdf e muitas vezes aparece lá nos links. Assim, bem fácil.
 10 | Você já baixou algum vídeo online?  | Não, acredito que não
 
+Após as perguntas, foi apresentado o digrama de Análise Hierárquica de Tarefas para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada concordou com todas as tarefas, apenas questionando o item 2.1.
+    
 ### Entrevista 02 - Clara
     
 Identificador | Pergunta | Resposta
@@ -55,6 +57,8 @@ Identificador | Pergunta | Resposta
 10 | Você já baixou algum vídeo online?  | Sim
 10.1 | Como foi o processo até baixar? |   Então, acho o livro que eu queria no youtube provavelmente, copio o link e acho algum site na internet que baixe o vídeo no youtube, entro no site e seleciono o formato.
 
+  Após as perguntas, foi apresentado o digrama de Análise Hierárquica de Tarefas para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada questionou o item 2.1, perguntando se seriam necessários todas as informações de uma obra para realizar a busca, apesar disso, a entrevistada concordou com as tarefas e não apresentou sugestões.
+    
 ## 5. Problemas encontrados 
 Um problema bem visível foi o item 2.1 (Informar tipo de mídia, categoria, autor, título e idioma), que causou confusão nas duas participantes, por não separar e detalhar as opções em partes menores, deixando claro que a busca de obras no site Domínio Público pode buscar por qualquer um desses itens, não tendo necessidade de informar todos.
 Também foi concluido que a análise de tarefas pode ser mais detalhada, apesar do sistema possuir tarefas bem simples. 
@@ -73,3 +77,5 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 | Versão | Data       | Descrição                                 | Autor        | Revisor   |
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
 | 0.1    | 06/08/2022 | Documento inicial                         | Luan Vasco  | Adne Moretti |
+| 0.2    | 17/08/2022 | Relato da avaliação                        | Adne Moretti  | Luan Vasco |
+
