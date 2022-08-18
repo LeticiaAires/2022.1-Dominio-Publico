@@ -111,7 +111,7 @@ Relato dos resultados da avaliação do Storyboard  |   11/08/2022  | Gabriel Mo
 Planejamento da avalição Protótipo de Papel  |   12/08/2022  | Luan Vasco | Adne Moretti | 13/08/2022
 Planejamento do Relato de Resultados do protótipo de papel |  14/08/2022  | Vitor Eduardo | Luan Vasco| 15/08/2022 
 Gravação do vídeo  |   16/08/2022  | Todos | Todos | 16/08/2022
-Teste Piloto |  16/08/2022  | Adne Moretti | Gabriel Moretti | 17/08/2022
+Teste Piloto da avaliação da análise de tarefas|  16/08/2022  | Adne Moretti | Gabriel Moretti | 17/08/2022
 Entrevistas Análise de Tarefas |  16/08/2022  | Adne Moretti | Gabriel Moretti | 17/08/2022
 Edição do vídeo de apresentação  |   16/08/2022  | Guilherme Puida | Todos | 16/08/2022
 Entrega do arquivo |   17/08/2022  | Gustavo Martins | Todos | 17/08/2022
