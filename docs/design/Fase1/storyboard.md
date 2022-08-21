@@ -19,8 +19,18 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 
 
 ## 4.1. Storyboards individuais
+  
+### 4.1.1. Tarefas
+  
+Storyboard| Tarefa
+---|---
+1|Buscar Textos
+2|Buscar Textos
+3|Download de Obras
+4|Acesso ao site do Machado de Assis
+4|Acessar hinos brasileiros
 
-### 4.1.1. Buscar obras
+### 4.1.2. Buscar obras
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/64036847/183446056-1d44df60-c133-48cb-a560-d28bd27b5fe3.jpeg' width=500px>
@@ -58,7 +68,7 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
     <small>Fonte: Autoria Própria - Vitor Eduardo</small>
  </figcaption>
 
-### 4.1.2. Acessar sites relacionados
+### 4.1.3. Acessar sites relacionados
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/78612945/183534568-cb88b85c-ac5e-4567-b8c7-a00c68c554be.png'>
@@ -82,7 +92,14 @@ Como descrito anteriormente, foi feita a confecção dos storyboards individuais
 
 Como dito anteriormente, foram escolhidos um storyboard para cada função principal, sendo utilizado os storyboards dos integrantes _Gustavo Martins_ para Buscar Obras e _Gabriel Moretti_ para Acessar Sites Relacionados.
 
-### 4.2.1 Buscar obras
+### 4.2.1 Tarefas
+
+Storyboard| Tarefa
+---|---
+1|Buscar vídeos
+2|Acesso ao site do Machado de Assis
+
+### 4.2.2 Buscar obras
 
 ![Storyboard](https://user-images.githubusercontent.com/72039007/183536546-79dab2fa-8253-486d-a337-304de9f04376.jpg)
 <p align="center">
@@ -94,7 +111,7 @@ Como dito anteriormente, foram escolhidos um storyboard para cada função princ
   </figcaption>
 </p></br>
 
-### 4.2.2 Acessar sites relacionados
+### 4.2.3 Acessar sites relacionados
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/78612945/183534568-cb88b85c-ac5e-4567-b8c7-a00c68c554be.png'>
@@ -123,3 +140,4 @@ Espera-se que com base nas informações contidas nesse documento, os designers 
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
 | 0.1    | 06/08/2022 | Documento inicial                         | Gabriel Moretti  | Adne Moretti |
 | 0.2    | 07/08/2022 | Adição de storyboards e descrições        | Gabriel Moretti  | Adne Moretti |
+| 0.3    | 21/08/2022 | Adição das tabelas de tarefas        | Vitor Eduardo  | -- |
