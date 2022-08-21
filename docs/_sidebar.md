@@ -15,6 +15,13 @@
     - [Princípios Gerais de Design](analiseRequisitos/principios_gerais.md)
     - [Metas de usabilidade](analiseRequisitos/metas_usabilidade.md)
 
+- **Análise**
+    - **Verificação**
+        - [Planejamento da Verificação](verificacao/planejamentoVerificacao.md)
+        - [Verificação Storyboard](verificacao/verificacao_storyboard.md)
+        - [Verificação Princípios Gerais](verificacao/verificacaoPrinGerais.md)
+        - [Verificação Perfil do Usuário](verificacao/verificacaoPerfUsuario.md)
+
 - **Design, Avaliação e Desenvolvimento**
     - **Fase 1** 
         - **Análise de tarefas**
