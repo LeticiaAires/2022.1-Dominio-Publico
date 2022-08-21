@@ -118,6 +118,26 @@ Entrega do arquivo |   17/08/2022  | Gustavo Martins | Todos | 17/08/2022
 Prototipação em papel |  18/08/2022  | Gustavo Martins | Guilherme Puida | 18/08/2022
 <br>
     
+### Sexta Entrega - 22/08/2022
+A seguir, na _tabela 7_, se encontra a tabela relacionada à sexta entrega da matéria.
+<figcaption><center>
+    Tabela 7 - Sexta entrega
+</figcaption>
+
+Atividade(s) | Data  | Responsável | Revisor | Data de Revisão
+------------ | ------- | ----------| ------- | ---------------
+Correção dos artefatos verificados  | 22/08/2022 | Todos | -- | 22/08/2022
+Verificação da avalição da Análise de Tarefas  | 21/08/2022 | -- | -- | 22/08/2022
+Verificação do guia de estilo  | 21/08/2022 | Adne Moretti | -- | 22/08/2022
+Verificação das metas de usabilidade  | 21/08/2022 | -- | -- | 22/08/2022
+Verificação das personas  | 21/08/2022 | -- | -- | 22/08/2022    
+Verificação dos perfis de usuário  | 21/08/2022 | Gabriel Moretti | -- | 22/08/2022
+Verificação do storyboard  | 21/08/2022 | Vitor Eduardo | -- | 22/08/2022
+Verificação dos princípios gerais do design  | 21/08/2022 | Gabriel Moretti | -- | 22/08/2022
+Verificação dos resultados do storyboard  | 21/08/2022 | Adne Moretti | -- | 22/08/2022
+Verificação dos resultados da análise de tarefas  | 21/08/2022 | -- | -- | 22/08/2022
+<br>
+    
 ## Histórico de Versão
 
 
