@@ -129,8 +129,9 @@ Atividade(s) | Data  | Responsável | Revisor | Data de Revisão
 Correção dos artefatos verificados  | 22/08/2022 | Todos | -- | 22/08/2022
 Verificação da avalição da Análise de Tarefas  | 21/08/2022 | -- | -- | 22/08/2022
 Verificação do guia de estilo  | 21/08/2022 | Adne Moretti | -- | 22/08/2022
-Verificação das metas de usabilidade  | 21/08/2022 | -- | -- | 22/08/2022
-Verificação das personas  | 21/08/2022 | -- | -- | 22/08/2022    
+Verificação das metas de usabilidade  | 21/08/2022 | Luan Vasco | Adne Moretti | 22/08/2022
+Verificação das personas  | 20/08/2022 | Luan Vasco | Vitor Eduardo | 22/08/2022    
+Verificação da Análise de Tarefas  | 20/08/2022 | Luan Vasco | Gustavo Martins | 22/08/2022    
 Verificação dos perfis de usuário  | 21/08/2022 | Gabriel Moretti | -- | 22/08/2022
 Verificação do storyboard  | 21/08/2022 | Vitor Eduardo | -- | 22/08/2022
 Verificação dos princípios gerais do design  | 21/08/2022 | Gabriel Moretti | -- | 22/08/2022
