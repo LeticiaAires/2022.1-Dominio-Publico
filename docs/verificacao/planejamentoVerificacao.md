@@ -31,14 +31,15 @@
 
 |Atividade(s) | Data  | Responsável | Revisor | Data de Revisão |
 |------------ | ------- | ----------| ------- | --------------- |
-| Verificação do análise de tarefas | 21/08/2022 |  | - |- |
+| Verificação da análise de tarefas | 21/08/2022 |  | - |- |
 | Verificação da avaliação da análise de tarefas | 21/08/2022 |  | - |- |
-| Verificação do guia de estilo | 21/08/2022 |  | - |- |
+| Verificação do guia de estilo | 21/08/2022 | 21/08/2022 | Adne Moretti |- |
 | Verificação das metas de usabilidade | 21/08/2022 |  | - |- |
-| Verificação do perfil do usuário | 21/08/2022 | Gabriel Moretti | - |- |
+| Verificação do perfil do usuário | 21/08/2022 | Gabriel Moretti | Adne Moretti |- |
 | Verificação das personas | 21/08/2022 |  | - | - |
 | Verificação dos princípios gerais do projeto | 21/08/2022 | Gabriel Moretti | - |- |
-| Verificação do storyboard | 21/08/2022 |  | - | - |
+| Verificação do storyboard | 21/08/2022 | Vitor Eduardo | - | - |
+| Verificação dos resultados da avaliação do storyboard | 21/08/2022 | Adne Moretti | - | - |
 | Verificação da avaliação da analise de tarefas | 21/08/2022 |  | - |- |
 
 <figcaption align='center'>
