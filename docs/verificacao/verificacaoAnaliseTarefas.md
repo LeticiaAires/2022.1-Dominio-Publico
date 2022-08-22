@@ -1,4 +1,4 @@
-# <center> Verificação do Backlog
+# <center> Verificação da Análise de Tarefas
 
 ### Introdução
   A verificação é uma tentativa de assegurar que o produto seja construído corretamente, no sentido de que os produtos de saída de uma atividade atendem às
