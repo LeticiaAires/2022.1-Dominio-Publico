@@ -33,7 +33,7 @@
 |------------ | ------- | ----------| ------- | --------------- |
 | Verificação da análise de tarefas | 21/08/2022 |  | - |- |
 | Verificação da avaliação da análise de tarefas | 21/08/2022 |  | - |- |
-| Verificação do guia de estilo | 21/08/2022 | 21/08/2022 | Adne Moretti |- |
+| Verificação do guia de estilo | 21/08/2022 | Adne Moretti |  |- |
 | Verificação das metas de usabilidade | 21/08/2022 |  | - |- |
 | Verificação do perfil do usuário | 21/08/2022 | Gabriel Moretti | Adne Moretti |- |
 | Verificação das personas | 21/08/2022 |  | - | - |
