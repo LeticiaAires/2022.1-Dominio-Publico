@@ -16,7 +16,7 @@
     - [Metas de usabilidade](analiseRequisitos/metas_usabilidade.md)
 
 - **Design, Avaliação e Desenvolvimento**
-    - **Fase 1** 
+    - **Fase 1**
         - **Análise de tarefas**
             - [Planejamento da Avaliação - Análise de tarefas](design/Fase1/planejAnaliseTarefas.md)
             - [Teste-Piloto](design/Fase1/testepiloto.md)
@@ -31,14 +31,14 @@
         - **Protótipo de papel**
             - [Planejamento da Avaliação - Protótipo de papel](design/Fase2/planejAvalProt.md)
             - [Planejamento do Relato - Protótipo de papel](design/Fase2/planej_relato_prot_papel.md)
-            - 
+            -
 - **Análise**
     - **Verificação**
         - [Planejamento da Verificação](verificacao/planejamentoVerificacao.md)
         - [Verificação Storyboard](verificacao/verificacao_storyboard.md)
         - [Verificação Princípios Gerais](verificacao/verificacaoPrinGerais.md)
         - [Verificação Perfil do Usuário](verificacao/verificacaoPerfUsuario.md)
-        - [Verificação do relato dos resultados do storyboard](verificacao/verificao_resultados_storyboard.md)
+        - [Verificação do relato dos resultados do storyboard](verificacao/verificacao_resultados_storyboard.md)
         - [Verificação do Guia de Estilo](verificacao/verificacaoGuia.md)
         - [Verificação Metas de Usabilidade](verificacao/verificacao_metas_usabilidade.md)
         - [Verificação Personas](verificacao/verificacao_personas.md)
