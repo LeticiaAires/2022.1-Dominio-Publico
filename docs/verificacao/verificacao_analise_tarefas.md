@@ -22,8 +22,8 @@ Símbolo | Significado
 --------|------------
 ✔ | Sim
 ✖ | Não
-   
-Tabela 1: Símbologia utilizada no checklist
+
+<p>Tabela 1: Símbologia utilizada no checklist</p>
   
 # Checklist
 Como dito anteriormente, checklist consiste em uma lista de quais defeitos mais comuns foram analisados, servindo de base para encontrar os defeitos tradicionais. Sendo assim, uma tabela foi elaboada com o intuito realizar essa etapa, sendo evidenciado um conjunto de perguntas específicas as quais foram verificadas se o artefato a satisfaz ou não. A tabela 2 a seguir contem o checklist usado nessa atividade.
@@ -40,33 +40,42 @@ Número | Questão                     | HTA01 | HTA02 |  GOMS  | Goal 0 | Goal 
 8  | A imagem pode ser expandida? |   ✖   |   ✖   |   ✖    | ✖      |   ✖    |  ✖     |   ✖    |
 9  | Cada tarefa possui um diagrama? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
 10  | Cada diagrama possui uma tabela de especificação? |   ✖   |   ✖   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
-Taxa de acerto | 85,7%
+11  | Os objetivos estão corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
+12  | As operações estão corretas? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
+13  | O nível dos objetivos estã corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
+14  | Os níveis dos subobjetivos estã corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
+15  | As relações entre os subobjetivos estão corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
+Taxa de acerto | 90,5%
 
-<p align="center">Tabela 2: Checklist usado no processo de verificação do artefato Análise de tarefas</p>
-
-
-# Classificação (parei a revisão aqui - Gustavo)
-
-Número | Questão                     | HTA01 | HTA02 |  GOMS  | Goal 0 | Goal 1 | Goal 2 | Goal 3 |
--------|-----------------------------|-------|-------|--------|--------|--------|--------|--------|
-1  | Os objetivos estão corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
-2  | As operações estão corretas? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
-3  | O nível dos objetivos estã corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
-4  | Os níveis dos subobjetivos estã corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
-5  | As relações entre os subobjetivos estão corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
-Taxa de acerto | 100%
-   
-   
-<figcaption>Tabela 2: Checklist para Resultados específicos Análise de Tarefas </figcaption>
+<p align = "center">Tabela 2: Checklist ao final da etapa atual</p>
 
 
-# Erros 
+# Classificação
+Além da elaboração do checklist, a metodologia impõe uma classificação dos defeitos encontrados. A tabela 2, evidenciada a baixo, consiste em uma evolução da tabela 1, pois possui o acréscimo de uma nova coluna relativa à relevância. Associado a isso, a fim de esclarecer oque seria tal relevância, deve-se entende-la como o nível de impacto negativo que tal problema traz ao artefato. Concomitante a isso, a decisão de replicar a tabela anterior com o acrescimo de uma nova coluna se deve ao fato de, segundo a sistemática da técnica de inspeção, a classificação ser realizada após o término da etapa referente ao checklist.
 
-Em Regras de seleção, a palavra "representam" está escrita de maneira errada. Nenhuma imagem pode ser expandida.
+Número | Questão                     | HTA01 | HTA02 |  GOMS  | Goal 0 | Goal 1 | Goal 2 | Goal 3 | impacto |
+-------|-----------------------------|-------|-------|--------|--------|--------|--------|--------| -------|
+1  | A ortografia está correta ? |   ✔   |   ✔   | ✖      | ✔      |   ✔    |  ✔     |   ✔    | Baixo |
+2  | Existe uma breve introdução sobre o tópico a ser abordado? |   ✔   |   ✔   | ✔      | ✔      |   ✔    |  ✔     |   ✔   | Alto |
+3  | A linguagem está simples e compreensível? |   ✔   |   ✔   |   ✔     | ✔      |   ✔    |  ✔     |   ✔    | Medio | 
+4  | As informações estão consistentes e objetivas? |   ✔   |   ✔   | ✔      | ✔      |   ✔    |  ✔     |   ✔    | Alto |
+5  | As informações necessárias estão presentes? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    | Alto |
+6  | A página possui referências do conteúdo? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    | Alto |
+7  | As imagens possuem legendas? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    | Medio |
+8  | A imagem pode ser expandida? |   ✖   |   ✖   |   ✖    | ✖      |   ✖    |  ✖     |   ✖    | Baixo |
+9  | Cada tarefa possui um diagrama? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    | Medio |
+10  | Cada diagrama possui uma tabela de especificação? |   ✖   |   ✖   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    | Medio |
+11  | Os objetivos estão corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    | Alto |
+12  | As operações estão corretas? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    | Alto |
+13  | O nível dos objetivos estã corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    | Alto |
+14  | Os níveis dos subobjetivos estã corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    | Alto |
+15  | As relações entre os subobjetivos estão corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    | Alto |
+
+<figcaption>Tabela 2: Checklist atualizado com a coluna "impacto", satisfazendo a etapa de classificação </figcaption>
+
 
 # Conclusão
 Com a elaboração deste documento, o repertório de conhecimento sobre o artefato verificado aumentou para todos os envolvidos na sua elaboração. Isso se deve ao exercício mental envolvido nas tarefas de preparação e investigação de eventuais erros, pois isso demanda o conhecimento dos fatores considerados corretos na metodologia em si. Somado a isso, partindo do pressuposto de que tal tecnica permite a identificação prévia de erros, podendo auxiliar o projeto como um todo, pois minimiza atividades futuras de testes, reduzindo o custo total da operação.
-
 
 # Referências bibliográficas
    
