@@ -21,15 +21,33 @@
             - [Planejamento da Avaliação - Análise de tarefas](design/Fase1/planejAnaliseTarefas.md)
             - [Teste-Piloto](design/Fase1/testepiloto.md)
             - [Relato dos resultados da Avaliação - Análise de Tarefas](design/Fase1/relatoAvaliacao.md)
-            - [Entrevistas](design/Fase1/relatoAvaliacao.md)
+            - [Entrevistas](design/Fase1/entrevistas.md)
         - **Storyboard**
             - [Planejamento da Avaliação - Storyboard](design/Fase1/planejStoryboard.md)
             - [Storyboard](design/Fase1/storyboard.md)
             - [Relato dos Resultados da Avaliação - Storyboard](design/Fase1/planejRelatoStory.md)
+            - [Avaliação - Storyboard](design/Fase1/avaliacaoStoryboard.md)
+    - **Fase 2**
+        - **Protótipo de papel**
+            - [Planejamento da Avaliação - Protótipo de papel](design/Fase2/planejAvalProt.md)
+            - [Planejamento do Relato - Protótipo de papel](design/Fase2/planej_relato_prot_papel.md)
+            - 
+- **Análise**
+    - **Verificação**
+        - [Planejamento da Verificação](verificacao/planejamentoVerificacao.md)
+        - [Verificação Storyboard](verificacao/verificacao_storyboard.md)
+        - [Verificação Princípios Gerais](verificacao/verificacaoPrinGerais.md)
+        - [Verificação Perfil do Usuário](verificacao/verificacaoPerfUsuario.md)
+        - [Verificação do relato dos resultados do storyboard](verificacao/verificao_resultados_storyboard.md)
+        - [Verificação do Guia de Estilo](verificacao/verificaoGuia.md)
 
+
+- **Apresentações**
 - **Apresentações**
     - [Apresentação 1](apresentacoes/apresentacao1.md)
     - [Apresentação 2](apresentacoes/apresentacao2.md)
     - [Apresentação 3](apresentacoes/apresentacao3.md)
     - [Apresentação 4](apresentacoes/apresentacao4.md)
+    - [Apresentação 5](apresentacoes/apresentacao5.md)
+
 

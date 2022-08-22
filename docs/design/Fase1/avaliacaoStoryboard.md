@@ -8,55 +8,50 @@ O documento de Storyboard consiste em quadros desenhados dispostos sistematicame
 
 Visando a correção de possíveis erros e a melhora de documentação, é essencial que, após a elaboração do storyboard, sejam realizadas as devidas avaliações e validações junto aos usuários do sistema, assim verificando se as decisões tomadas fazem sentido no contexto do site.
 
-Dessa forma, este documento visa, seguindo o padrão de avaliação registrado na [etapa de planejamento](), realizar a avaliação dos storyboards desenvolvidos pela equipe do Domínio Público.
+Dessa forma, este documento visa, seguindo o padrão de avaliação registrado na etapa de planejamento, realizar a avaliação dos storyboards desenvolvidos pela equipe do Domínio Público.
 
 ## 2. Objetivo
 
 O objetivo desse documento é detalhar o máximo possível todas as melhorias, observações e erros dos [storyboards](https://interacao-humano-computador.github.io/2022.1-Dominio-Publico/#/design/Fase1/storyboard) já realizados no projeto.
 
-As informações detalhadas a respeito do planejamento e das perguntas que serão realizadas durante as entrevistas podem ser verificadas no [planejamento da avaliação]() dos storyboards.
+As informações detalhadas a respeito do planejamento e das perguntas que serão realizadas durante as entrevistas podem ser verificadas no planejamento da avaliação dos storyboards.
 
 ## 3. Metodologia
 
 De acordo com Barbosa e Silva (2010), entrevistas permitem ao avaliador coletar dados detalhados e profundos das experiências individuais do grupo de foco. Por essa abordagem, permitimos a coleta de muitas informações e possuímos um formato flexível de tal método, o que facilita o direcionamento da coleta de dados de acordo com o cenário do usuário.
 
-O nosso entrevistado consiste em um indivíduo que nunca usou o site do Domínio Público, somente conhece o site por nome. Porém, essa entrevista também poderia ser feita com um usuário do site, com pouco ou bastante conhecimento da plataforma.
+O nosso entrevistado consiste em um indivíduo estudante de Engenharia de Software, com pouco conhecimento de bibliotecas digitais. Porém, essa entrevista também poderia ser feita com um usuário do site, com pouco ou bastante conhecimento da plataforma.
 
-## 4. Entrevistas
+## 4. Entrevista
 
-Ao todo foram realizadas 2 entrevistas com o usuário Tiago Leão Buson, estudante de Engenharia de Software na Universidade de Brasília do Gama (FGA), sendo essas entrevistas gravadas por meio da plataforma _______ e disponibilizadas a seguir.
- 
-### 4.1 Entrevista 1
+Ao todo foi realizada uma entrevista com o usuário Tiago Leão Buson às 21:30h do dia 16/08/2022, 
+estudante de Engenharia de Software na Universidade de Brasília do Gama (FGA), 
+sendo essas entrevistas gravadas por meio da plataforma Discord e disponibilizadas a seguir.
 
-[![LINK ENTREVISTA 1](https://img.youtube.com/vi/     /0.jpg)]()
+[![LINK ENTREVISTA](https://img.youtube.com/vi/nuEIR6NgWxw/0.jpg)](https://www.youtube.com/watch?v=nuEIR6NgWxw)
 
-<!-- A primeira entrevista foi realizada pelo integrante João Victor, dia 02 de novembro às 10:00, com o participante Alexandre Moriya, estudante de Engenharia de Energia na Faculdade Gama - FGA. O participante alegou ter visualizado os storyboards criados pelo grupo antes da realização da entrevista.
+A entrevista foi realizada pelos integrantes Gabriel Moretti, que atuou como entrevistador e conduziu toda a entrevista, 
+e Guilherme Puida, que participou somente como ouvinte e foi responsável por anotar as observações pontuadas pelo entrevistado.
 
-Quando perguntado sobre o primeiro storyboard, que retrata a ausência de responsividade do site e os impactos disso na utilização em dispositivos móveis, Alexandre diz que muitas vezes as pessoas desconhecem a existência do site e, quando conhecem o site, não conseguem visualizar as funcionalidades pelo celular. Sobre o segundo storyboard, que retrata os benefícios de um site responsivo, o participante alegou que a situação ilustrada retrata bem a realidade e ajuda bastante a utilização por facilitar a visualização e o acesso ao site.     
+O entrevistado leu e concordou com o termo de consentimento.
 
-Quando perguntado sobre o terceiro storyboard, representando um contexto em que o usuário não consegue reservar um livro pela ausência de exemplares no momento em que faz a tentativa, Alexandre diz que a situação acontece com frequência, muitas pessoas desejam pegar um livro emprestado e, ao chegar à biblioteca, uma pessoa já não encontra mais exemplares disponíveis.
+O entrevistado, Tiago Buson, é estudante de Engenharia de Software pela Universidade de Brasília - FGA.
+Ele já havia utilizado plataformas de biblioteca digital, como a BCE.
 
-Por fim, quando perguntado sobre o quarto storyboard, que retrata a situação de uso do site da BCE para reserva de livros, o participante declarou que a reserva de empréstimo ajuda bastante o estudante, pois é possível se programar com antecedência e visualizar se o livro já foi emprestado ou está disponível.    -->
+Quando perguntado sobre o primeiro storyboard, que retrata o fluxo de _Buscar Obras_ no site do Domínio Público, o participante afirmou
+que o storyboard condizia com a realidade.
+Tiago não teve nenhuma crítica nem sugestão em relação ao primeiro storyboard.
 
-### 4.2 Entrevista 2
-
-[![LINK ENTREVISTA 2](https://img.youtube.com/vi/     /0.jpg)]()
-
-<!-- A segunda entrevista foi realizada pelo integrante Geraldo Victor, dia 02 de novembro às 12:30, com a participante Bruna Almeida, estudante de Engenharia de Software na Faculdade Gama - FGA. A participante alegou ter visualizado os storyboards criados pelo grupo antes da realização da entrevista.
-
-Quando perguntada sobre o primeiro storyboard, que retrata a ausência de responsividade do site e os impactos disso na utilização em dispositivos móveis, a participante alega já ter passado pela situação de tentar utilizar o site pelo celular e ter tido dificuldades. Segundo Bruna, a utilização pelo computador é mais tranquila de se utilizar do que pelo celular. 
-
-Sobre o segundo storyboard, Bruna concorda que o site responsivo ajudaria muito durante a utilização pois o celular está sempre de fácil acesso, assim, seria bem mais fácil consultar o site pelo celular. A consulta seria mais rápida e fácil pois o que é necessário ser feito no atual contexto é abrir o computador e ir atrás das informações no site.
-
-Quando perguntado sobre o terceiro storyboard, representando um contexto em que o usuário não consegue reservar um livro pela ausência de exemplares no momento em que faz a tentativa, Bruna afirma que concorda com a situação ilustrada e que já obteve a experiência contrária, de conseguir realizar o empréstimo de um livro por ter reservado previamente.
-
-Por fim, quando perguntado sobre o quarto storyboard e a satisfação de agendar um empréstimo e conseguir pegar um livro emprestado, a participante concorda com o ilustrado pois diz ser frustrante precisar com urgencia de um livro e não conseguir pegar emprestado. Bruna afirma que a quantidade de livros é limitada em seu campus então a funcionalidade de agendamento de empréstimo é interessante e ajuda bastante.  -->
+Quando perguntado sobre o segundo storyboard, que retrata a funcionalidade de _Sites Relacionados_ no Domínio Público, o participante
+também afirmou que a situação apresentada no artefato condizia com a realidade.
+Também não houve nenhuma crítica nem sugestão sobre o segundo storyboard.
 
 ## 5. Conclusão
 
-Após realizadas ambas as entrevistas, foi-se retirada a informação de que o usuário está de acordo com as situações e ações representadas no storyboard.
-
-Dessa forma, é possível concluir que a equipe poderá prosseguir com as avaliações para propor melhorias de design e interface do site, visto que os documentos dos storyboards os apresentam corretamente o entendimento sobre a usabilidade do Domínio Público.
+Após a realização da entrevista, pode-se concluir que o entrevistado concordou
+com as situações descritas pelos storyboards, já que não expressou nenhuma crítica ou sugestão.
+Assim, entende-se que a equipe teve entendimento satisfatório sobre a usabilidade do site do Domínio Público,
+podendo prosseguir com as avaliações e propostas de melhoria de design e usabilidade.
 
 </div>
 
@@ -70,4 +65,5 @@ Dessa forma, é possível concluir que a equipe poderá prosseguir com as avalia
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
-| 0.1 | 16/08/2022 | Documento Inicial | Gabriel Moretti |  |
+| 0.1 | 16/08/2022 | Documento Inicial | Gabriel Moretti | Guilherme Puida |
+| 0.2 | 17/08/2022 | Adição do link da entrevista e conclusão | Guilherme Puida | Gabriel Moretti |

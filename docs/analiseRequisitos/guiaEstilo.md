@@ -1,14 +1,32 @@
 # Guia de Estilo
 
-## Introdução
+## 1. Introdução
 
 Utilizado em projetos diversos, o documento do guia de estilo visa reunir e informar, através de documentação, os princípios e diretrizes utilizados na confecção do design do produto. É decidida e registrada pelos desenvolvedores e, em alguns casos, pelos usuários, a identidade visual do projeto, sendo este caso aplicado à biblioteca virtual _Domínio Público_.
 
-## Objetivos
+### 1.1. Objetivos
 
 O objetivo principal dessa documento é compreender o design utilizado para o layout da página, os símbolos e outros elementos da página. Após essa compreensão, será criada uma descrição detalhada dos mesmos, que servirá de guia para a criação de protótipos de baixa e alta fidelidade e padronização de futuras implementações no projeto.
 
-## Cores
+### 1.2. Organização e conteúdos
+
+A organização e conteúdos desse guia de estilo seguem a estrutura definida pelo livro Interação Humano Computador da autora Simone Barbosa. 
+
+### 1.3. Público alvo do guia de estilos
+
+O público-alvo desse guia de estilo são os alunos da equipe 02 da dasciplina Interação Humano-Computador, responsáveis pelo projeto em questão, pois esses serão responsáveis pela produção de protótipos.
+
+### 1.4. Como utilizar o guia
+
+O guia de estilo é uma ferramenta que guiará a confecção dos protótipos de baixa e alta fidelidade. Deve ser sempre levada em conta na produção destes.
+
+### 1.5. Como manter o guia
+
+A cada modificação que for definida diante do surgimento de novas ideias, este deve ser sempre atualizado para que seja a principal base para artefatos de prototipação. O guia deve estar sempre atualizado e condizente com o projeto;
+
+## 3. Elementos de interface
+
+### 3.1 Cores
 
 Para representar as principais cores aderidas ao site, foi utilizada a ferramenta [**Coolors**](https://coolors.co/), que possibilita a criação de uma paleta vertical com cores selecionáveis por código hexadecimal.
 
@@ -18,7 +36,7 @@ A seguir, na imagem 1, segue o resultado da pesquisa pelas cores que foram mais 
 
 ![](../assets/imagens/guiaEstilo/Cores-DominioPublico.png)
 
-## Ícones
+### 3.2. Ícones
 
 Ao buscar pelos ícones que foram utilizados no site, foram encontrados os seguintes itens apresentados na _tabela 1_, em conjunto a uma descrição de onde utilizá-los e um motivo para sua utilização.
 
@@ -43,7 +61,18 @@ Ao buscar pelos ícones que foram utilizados no site, foram encontrados os segui
 | ![](../assets/imagens/guiaEstilo/SomG.gif) | **Som:** O ícone de som é utilizado na tela de baixar, representando um exemplo de um arquivo de áudio.<br>Possui uma miniatura que pode ser encontrada acompanhando documentos do tipo 'som' nas tabelas do site. |
 | ![](../assets/imagens/guiaEstilo/lupa1.gif) | **Lupa:** O ícone da lupa é utilizado em diversos locais do site que representem uma pesquisa. Pode ser encontrado em diversos tamanhos |
 
-## Botões e Entradas
+### 3.3. Layout(disposição espacial e grid)
+
+O layout de uma aplicação é a maneira de organização dos elementos gráficos da interface.
+Deve existir uma preocupação com a ordenação e disposição das informações, para que não haja dificuldade na hora de interagir com o sistema.
+
+Com o intuito de facilitar a visualização, o layout do site é mostrado na imagem abaixo.
+
+![](../assets/imagens/layout.png)
+<figcaption><center>Imagem 2 - Imagem do layout - Elaboração Própria</center></figcaption>
+
+## 4. Elementos de ação
+### 4.1 Botões e Entradas
 
 O site apresenta como formas de _input_ (entrada) e botões alguns padrões de estilo. Após analisá-los em seu CSS, foram retiradas as seguintes observações da _tabela 2_:
 
@@ -58,7 +87,15 @@ O site apresenta como formas de _input_ (entrada) e botões alguns padrões de e
 | ![](../assets/imagens/guiaEstilo/textbox.png)| **Caixas de Texto:** Ao lado pode-se observar uma das entradas do site, a caixa de texto, que possui um design simples, com fundo branco, texto interno de cor preta, borda de cor preta e tamanho de 17 pixels de altura, com largura variável, porém de máximo 277 pixels. |
 | ![](../assets/imagens/guiaEstilo/letterButtons.png)| **Botões em letras:** Ao lado podem-se observar os botões de letras, compostos de um fundo branco com o texto cinza. Seu tamanho é de aproximadamente 23x25 para as letras maiúsculas e de 87x14 para o texto inferior, apresentado na imagem. |
 
-## Tipografia
+## 5. Elementos de interação
+## 5.1 Estilos de interação
+As interações com o usuário no sitema se arão através de elementos não tipográficos (ícones) e através de botões e formulários.
+
+## 5.2 Teclas de atalho
+Serão utilizadas teclas de atalho do sistema, sendo elas, atalhos para obras de um autor constantemente pesquisado, atalho para busca de obra por meio de autor, de título e de tipo de obra;
+
+## 6. Vocabulário e padrões
+### 6.1. Tipografia
 
 O site utiliza as fontes Verdana e Arial, duas fontes _sans-serif_ (fontes que não tem protuberâncias, ou _serifs_, nas extremidades).
 Fontes desse estilo são geralmente usadas para representar simplicidade e minimalismo, e trazem um ar de modernidade para os textos.
@@ -80,18 +117,16 @@ Usar imagens ao invés de textos também afeta a acessibilidade, já que leitore
 Assim, é importante que trabalhos de design levem em consideração essas dificuldades, e minimizem o uso de imagens para representar elementos que poderiam ser descritos como texto.
 Também é necessário esforço para padronizar os tamanhos utilizados, visando trazer consistência visual para a interface.
 
-## Layout
+## 6.2 Tipos de tela (tarefas comuns)
+Os protótipos de alta e baixa fidelidade devem seguir o guia de estilo e possuir as seguintes telas:
+- Tela de formulário de pesquisa de obras: Essa tela deve conter o formulário com as informações a serem preenchidas para realizar a busca de uma obra;
+- Tela de lista de obras encontradas com a pesquisa: Essa tela deve apresentar uma lista com links para cada obra encontrada com a pesquisa, para que o usuário escolha a que deseja;
+- Tela de download das obras: Essa tela deve apresentar as informações da obra selecionada e um botão para baixar a obra;
+- Tela do fale conosco: Deve apresentar um formulário para que o usuário entre com uma reclamação, comentário. Também deve disponibilizar o email e o número para o contato.
+- Tela de colaboração: Deve informar o usuário de que maneiras pode colaborar com o sistema;
+- Tela de cadastro: Para usuários que possuem obras no sistema, deve possuir uma tela de cadastro para que esse acesse suas obras;
+- Tela de cadastro: Para usuários que possuem obras no sistema, deve possuir uma tela de login para que esse acesse suas obras;
 
-O layout de uma aplicação é a maneira de organização dos elementos gráficos da interface.
-Deve existir uma preocupação com a ordenação e disposição das informações, para que não haja dificuldade na hora de interagir com o sistema.
-
-Com o intuito de facilitar a visualização, o layout do site é mostrado na imagem abaixo.
-
-![](../assets/imagens/layout.png)
-<figcaption><center>Imagem 2 - Imagem do layout - Elaboração Própria</center></figcaption>
-
-
- 
 ## Referência bibliográfica
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
@@ -105,3 +140,4 @@ Com o intuito de facilitar a visualização, o layout do site é mostrado na ima
 | 0.3 | 30/07/2022 | Adição tipografia | Guilherme Puida | Adne Moretti
 | 0.4 | 01/08/2022 | Adição Layout | Guilherme Puida | Adne Moretti
 | 0.5 | 01/08/2022 | Adição Botões e entradas | Gabriel Moretti | Adne Moretti
+| 0.6 | 22/08/2022 | Melhorias no artefato | Adne Moretti | 

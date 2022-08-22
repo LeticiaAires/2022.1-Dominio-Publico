@@ -9,7 +9,7 @@ O objetivo do teste piloto, é também verificar se o sistema a ser avaliado, os
 ## Gravação do teste-piloto
 O teste piloto foi realizado por uma única entrevistadora. Sendo esse: 
 
-https://youtu.be/2EYCAoCyImI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2EYCAoCyImI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Resultados
 
@@ -27,11 +27,11 @@ Assim, o grupo estará mais bem preparado para a realização das entrevistas.
 
 ## Bibliografia
 
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor   |
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
-| 0.1    | 16/08/2022 | Documento inicial                         | Adne Moretti |  |
-| 0.2    | 16/08/2022 | Adição do teste piloto                         | Adne Moretti |  |
+| 0.1    | 16/08/2022 | Documento inicial                         | Adne Moretti |  Gabriel Moretti |
+| 0.2    | 16/08/2022 | Adição do teste piloto                         | Adne Moretti | Gabriel Moretti  |
