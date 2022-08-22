@@ -40,6 +40,9 @@
         - [Verificação Perfil do Usuário](verificacao/verificacaoPerfUsuario.md)
         - [Verificação do relato dos resultados do storyboard](verificacao/verificao_resultados_storyboard.md)
         - [Verificação do Guia de Estilo](verificacao/verificaoGuia.md)
+        - [Verificação Metas de Usabilidade](verificacao/verificacao_metas_usabilidade.md)
+        - [Verificação Personas](verificacao/verificacao_personas.md)
+        - [Verificação Análise de Tarefas](verificacao/verificacao_analise_tarefas.md)
 
 
 - **Apresentações**
