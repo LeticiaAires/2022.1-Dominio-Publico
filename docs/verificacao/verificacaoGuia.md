@@ -36,17 +36,17 @@ Segue abaixo a legenda para o checklist apresentado para o artefato, está divid
 
 Segue na _figura 1_ o gráfico pizza que demonstra a quantidade de itens atingidos com a verificação. As porcentagens estão aproximadas.
 
-<img src="https://user-images.githubusercontent.com/64036847/185931487-d6aa5143-c56c-44d5-a8ca-10091f47f362.jpg" width=500px></img>
+<img src="https://user-images.githubusercontent.com/64036847/185977285-3f54216f-6b97-4db5-ac2a-d97b36a910eb.jpg" width=500px></img>
 
 <figcaption>Figura 1: Gráfico pizza para a verificação do guia de estilo</figcaption>
 
 <figcaption>Fonte: Canva - Autoria própria</figcaption> 
 
-
 ## Observações
 Diante dos itens apresentados, observamos que de 12 itens elencados para o artefato, 9 foram corretamente atingidos, ou seja, 75% dos itens, enquanto 25% não foram atingidos. Diante disso, o artefato deve ser alterado e atender as melhorias obtidas com a verificação.
 
 Dessa forma, a verificação do artefato foi devidamente realizada e devem ser planejadas as alterações.
+
 ## Referências
 
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 20;
