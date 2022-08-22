@@ -43,6 +43,7 @@
         - [Verificação Metas de Usabilidade](verificacao/verificacao_metas_usabilidade.md)
         - [Verificação Personas](verificacao/verificacao_personas.md)
         - [Verificação Análise de Tarefas](verificacao/verificacao_analise_tarefas.md)
+        - [Verificação dos Resultados da Análise de Tarefas](verificacao/verificacaoResultadoAnaliseTarefas.md)
 
 
 - **Apresentações**
