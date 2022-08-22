@@ -11,10 +11,11 @@
 ### Metodologia
   Com o intuito de satisfazer o objetivo evidenciado na introdução, foi utilizado uma técnica de verificação denominada inspeção, uma técnica formal de revisão (Fagan, 1976). Essa técnica, cujas etapas estão evidenciadas **na imagem 1**, trata-se de um método gerencial de reuniões cujo objetido consiste em encontrar defeitos em documentos (Milene Serrano e Maurício Serrano, aula 23). Para isso, é necessário a realização de uma preparação prévia dos integrantes envolvidos nessa atividade, a fim de que os mesmos participem do processo com maior maestria. Além disso, vale ressaltar que tal tecnica é do tipo estática, isto é, o artefato poderá ser verificado sem a necessidade de execução de algum produto de software. Concomitante a isso, alguns tópicos, tais como checklists e classificação de defeitos, se fazem necessário para cumprir a proposta do método em questão. O primeiro refere-se à uma lista cujo domínio do conteúdo evidencia os defeitos mais comuns e tradicionais os quais foram analisados. Já o segundo, refere-se à classificação do defeito conforme algum critério. No contexto deste documento, o critério utilizado foi o grau de relevância. Os próximos tópicos abordarão cada etapa dessa metodologia com mais detalhe.
 
-![image](https://user-images.githubusercontent.com/72039007/185969942-797112ed-9d58-461f-b3a2-97c4dbb1eec4.png)
+
+<img align = " center"> ![image](https://user-images.githubusercontent.com/72039007/185969942-797112ed-9d58-461f-b3a2-97c4dbb1eec4.png) </img>
   
  Imagem 1: Requisitos - Aula sobre Análise - Lucas e Pedro
-    
+ 
 Após o entendimento sobre as nuâncias da metodologia utilizada para elaboração do presente artefato, dois símbolos foram escolhidos para auxiliarem a elaboração dos checklists. A tabela 1 a seguir explica tal fato com mais detalhe.
 
 Símbolo | Significado
