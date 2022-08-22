@@ -19,16 +19,19 @@ Segue abaixo a legenda para o checklist apresentado para o artefato, está divid
 
 | ID | Item | Atingido?
 | -- | ---- | ---------
-| 1  | O documento especifica a metodologia utilizada na avaliação? | :heavy_check_mark:
-| 2 | O documento especifica a data, horário e a plataforma utilizada para a avliação? |  :heavy_check_mark:
-| 3 | O documento apresenta hyperlinks que facilitem o acesso aos storyboard criados? |  :heavy_check_mark:
-| 4 | A entrevista da avaliação está gravada? |  :heavy_check_mark:
-| 5 | O documento apresenta os problemas encontrados e a conclusaão da avaliação? |  :heavy_check_mark:
-| 6 | O documento está gramaticalmente correto? |  :heavy_check_mark:
-| 7 | O artefato apresenta as resposta dos entrevistados transcritas para facilitar o entendimento? | :x:
-| 8 | As avaliações estão descritas no cronograma da disciplina? | :x:
-| 9 | Foi realizado um teste-piloto para as entrevistas? | :x:
-| 10 | O documento é claro? |  :heavy_check_mark:
+| 1  | O artefato apresenta elementos de layout? | :heavy_check_mark:
+| 2 | O documento apresenta tipografia e seu uso em diálogos? |  :heavy_check_mark:
+| 3 | O artefato apresenta as cores do sistema? |  :heavy_check_mark:
+| 4 |  O documento apresenta tópico elementos de interação( estilos de interação, aceleradores) ? |  :heavy_check_mark:
+| 5 | O documento apresenta elementos de ação(preenchimento de campos, seleção, 
+ativação ? |  :heavy_check_mark:
+| 6 | # O documento apresenta descrição de janelas do sistema? |  :heavy_check_mark:
+| 7 | O artefato apresenta disposição espacial e grid? | :x:
+| 8 | O artefato apresenta introdução com objetivo e conteúdo do guia de estilo? | :x:
+| 9 | O documento apresenta como utilizar e manter o guia de estilo? | :x:
+| 10 | O guia de estilo condiz com o site do projeto? | :x:
+| 11 | O artefato apresenta visualização de informações e design de telas? | :x:
+| 12 | O documento está gramaticalmente correto? |  :heavy_check_mark:
 
 ## Gráfico
 
