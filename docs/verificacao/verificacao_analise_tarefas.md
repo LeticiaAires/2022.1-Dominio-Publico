@@ -26,7 +26,8 @@ Número | Questão                     | HTA01 | HTA02 |  GOMS  | Goal 0 | Goal 
 9  | Cada tarefa possui um diagrama? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
 10  | Cada diagrama possui uma tabela de especificação? |   ✖   |   ✖   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
 Taxa de acerto | 85,7%
-   <figcaption>Tabela 1: Checklist para Resultados Gerais Análise de Tarefas </figcaption>
+
+<figcaption>Tabela 1: Checklist para Resultados Gerais Análise de Tarefas </figcaption>
 
 
 # Resultados específicos
@@ -39,7 +40,9 @@ Número | Questão                     | HTA01 | HTA02 |  GOMS  | Goal 0 | Goal 
 4  | Os níveis dos subobjetivos estã corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
 5  | As relações entre os subobjetivos estão corretos? |   ✔   |   ✔   |   ✔    | ✔      |   ✔    |  ✔     |   ✔    |
 Taxa de acerto | 100%
-   <figcaption>Tabela 2: Checklist para Resultados específicos Análise de Tarefas </figcaption>
+   
+   
+<figcaption>Tabela 2: Checklist para Resultados específicos Análise de Tarefas </figcaption>
 
 
 # Erros 
