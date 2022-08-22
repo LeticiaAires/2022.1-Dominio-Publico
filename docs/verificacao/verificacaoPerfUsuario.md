@@ -63,7 +63,7 @@ Seguindo as perguntas confeccionadas anteriormente, o checklist representado na 
 ## Gráfico
 Segue na _figura 1_ o gráfico pizza que demonstra a quantidade de itens atingidos com a verificação.
 
-<img src="https://user-images.githubusercontent.com/64036847/185265751-962b0c3e-21fa-4f04-86ec-05e1db621ba6.jpg" width=500px></img>
+<img src="https://user-images.githubusercontent.com/78612945/185823332-bc378ac7-b8f0-4ba4-9bc0-37e214ca8903.png" width=500px></img>
 
 <figcaption align='center'>Figura 1: Gráfico pizza para a verificação do Perfil do Usuário</figcaption>
 
