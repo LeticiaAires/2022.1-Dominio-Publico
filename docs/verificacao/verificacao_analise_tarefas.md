@@ -61,4 +61,4 @@ Feito a verificação por inspeção, foram encontrados e localizados os erros. 
 # Histórico de versões
 |Versão|Data|Autor|Revisor|
 |------|----|-----|-------|
-|1.0|14/8/2022|Luan Vasco| Vitor Eduardo |
+|1.0|14/8/2022|Luan Vasco| Gustavo Martins |
