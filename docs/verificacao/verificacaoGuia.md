@@ -38,7 +38,7 @@ Segue na _figura 1_ o gráfico pizza que demonstra a quantidade de itens atingid
 
 <img src="https://user-images.githubusercontent.com/64036847/185931487-d6aa5143-c56c-44d5-a8ca-10091f47f362.jpg" width=500px></img>
 
-<figcaption>Figura 1: Gráfico pizza para a verificação dos léxicos</figcaption>
+<figcaption>Figura 1: Gráfico pizza para a verificação do guia de estilo</figcaption>
 
 <figcaption>Fonte: Canva - Autoria própria</figcaption> 
 
