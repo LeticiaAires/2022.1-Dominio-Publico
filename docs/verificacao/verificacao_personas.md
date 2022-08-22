@@ -5,7 +5,7 @@
 Essa página diz respeito a verificação da <a href="./#/analiseRequisitos/personas.md">personas</a>.
 
 # Metodologia
-A metodologia de avaliação foi por inspeção. A simbologia utilizada foi :
+A metodologia de avaliação foi por inspeção e está explicada em <a href="./#/#/verificacao/planejamentoVerificacao.md">Planejamento da avaliação</a>. A simbologia utilizada foi :
 
 Símbolo | Significado
 --------|------------
