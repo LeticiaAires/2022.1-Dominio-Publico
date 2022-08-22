@@ -127,6 +127,7 @@ A seguir, na _tabela 7_, se encontra a tabela relacionada à sexta entrega da ma
 Atividade(s) | Data  | Responsável | Revisor | Data de Revisão
 ------------ | ------- | ----------| ------- | ---------------
 Correção dos artefatos verificados  | 22/08/2022 | Todos | -- | 22/08/2022
+Planejamento das verificações  | 21/08/2022 | Gabriel Moretti | Adne Moretti | 22/08/2022
 Verificação da avalição da Análise de Tarefas  | 21/08/2022 | -- | -- | 22/08/2022
 Verificação do guia de estilo  | 21/08/2022 | Adne Moretti | -- | 22/08/2022
 Verificação das metas de usabilidade  | 21/08/2022 | Luan Vasco | Adne Moretti | 22/08/2022
@@ -137,6 +138,11 @@ Verificação do storyboard  | 21/08/2022 | Vitor Eduardo | -- | 22/08/2022
 Verificação dos princípios gerais do design  | 21/08/2022 | Gabriel Moretti | -- | 22/08/2022
 Verificação dos resultados do storyboard  | 21/08/2022 | Adne Moretti | -- | 22/08/2022
 Verificação dos resultados da análise de tarefas  | 21/08/2022 | -- | -- | 22/08/2022
+Correção do guia de estilo  | 22/08/2022 | Adne Moretti | -- | 22/08/2022
+Correção dos resultados da avaliação do storyboard | 23/08/2022 | Gabriel Moretti | Adne Moretti | 24/08/2022
+Gravação do vídeo |  22/08/2022 | Todos | Todos | 22/08/2022
+Edição do vídeo |  22/08/2022 | Guilherme Puida | Todos | 22/08/2022
+Entrega do arquivo |  22/08/2022 | Gustavo Martins | Todos | 22/08/2022
 <br>
     
 ## Histórico de Versão
