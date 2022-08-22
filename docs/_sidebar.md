@@ -15,13 +15,6 @@
     - [Princípios Gerais de Design](analiseRequisitos/principios_gerais.md)
     - [Metas de usabilidade](analiseRequisitos/metas_usabilidade.md)
 
-- **Análise**
-    - **Verificação**
-        - [Planejamento da Verificação](verificacao/planejamentoVerificacao.md)
-        - [Verificação Storyboard](verificacao/verificacao_storyboard.md)
-        - [Verificação Princípios Gerais](verificacao/verificacaoPrinGerais.md)
-        - [Verificação Perfil do Usuário](verificacao/verificacaoPerfUsuario.md)
-
 - **Design, Avaliação e Desenvolvimento**
     - **Fase 1** 
         - **Análise de tarefas**
@@ -38,7 +31,18 @@
         - **Protótipo de papel**
             - [Planejamento da Avaliação - Protótipo de papel](design/Fase2/planejAvalProt.md)
             - [Planejamento do Relato - Protótipo de papel](design/Fase2/planej_relato_prot_papel.md)
+            - 
+- **Análise**
+    - **Verificação**
+        - [Planejamento da Verificação](verificacao/planejamentoVerificacao.md)
+        - [Verificação Storyboard](verificacao/verificacao_storyboard.md)
+        - [Verificação Princípios Gerais](verificacao/verificacaoPrinGerais.md)
+        - [Verificação Perfil do Usuário](verificacao/verificacaoPerfUsuario.md)
+        - [Verificação do relato dos resultados do storyboard](verificacao/verificao_resultados_storyboard.md)
+        - [Verificação do Guia de Estilo](verificacao/verificaoGuia.md)
 
+
+- **Apresentações**
 - **Apresentações**
     - [Apresentação 1](apresentacoes/apresentacao1.md)
     - [Apresentação 2](apresentacoes/apresentacao2.md)
