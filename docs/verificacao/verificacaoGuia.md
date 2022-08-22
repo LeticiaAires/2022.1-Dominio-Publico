@@ -23,8 +23,7 @@ Segue abaixo a legenda para o checklist apresentado para o artefato, está divid
 | 2 | O documento apresenta tipografia e seu uso em diálogos? |  :heavy_check_mark:
 | 3 | O artefato apresenta as cores do sistema? |  :heavy_check_mark:
 | 4 |  O documento apresenta tópico elementos de interação( estilos de interação, aceleradores) ? |  :heavy_check_mark:
-| 5 | O documento apresenta elementos de ação(preenchimento de campos, seleção, 
-ativação ? |  :heavy_check_mark:
+| 5 | O documento apresenta elementos de ação(preenchimento de campos, seleção, ativação ? |  :heavy_check_mark:
 | 6 | # O documento apresenta descrição de janelas do sistema? |  :heavy_check_mark:
 | 7 | O artefato apresenta disposição espacial e grid? | :x:
 | 8 | O artefato apresenta introdução com objetivo e conteúdo do guia de estilo? | :x:
