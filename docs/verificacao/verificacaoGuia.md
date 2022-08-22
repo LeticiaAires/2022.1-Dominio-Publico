@@ -43,7 +43,7 @@ Segue na _figura 1_ o gráfico pizza que demonstra a quantidade de itens atingid
 <figcaption>Fonte: Canva - Autoria própria</figcaption> 
 
 ## Observações
-Diante dos itens apresentados, observamos que de 12 itens elencados para o artefato, 9 foram corretamente atingidos, ou seja, 75% dos itens, enquanto 25% não foram atingidos. Diante disso, o artefato deve ser alterado e atender as melhorias obtidas com a verificação.
+Diante dos itens apresentados, observamos que de 12 itens elencados para o artefato,10 foram corretamente atingidos, ou seja, 75% dos itens, enquanto 25% não foram atingidos. Diante disso, o artefato deve ser alterado e atender as melhorias obtidas com a verificação.
 
 Dessa forma, a verificação do artefato foi devidamente realizada e devem ser planejadas as alterações.
 
