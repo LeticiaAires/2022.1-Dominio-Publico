@@ -47,6 +47,14 @@ Diante dos itens apresentados, observamos que de 12 itens elencados para o artef
 
 Dessa forma, a verificação do artefato foi devidamente realizada e devem ser planejadas as alterações.
 
+## Correção
+| Responsável | Data |
+| ----------- | ---- |
+| Adne Moretti | 22/08
+
+## Conclusão
+Sendo assim, o artefato foi devidamente melhorado e agora apresenta uma porcentagem de 100% dos itens do checklist atingidos.
+
 ## Referências
 
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 20;
