@@ -24,11 +24,11 @@ Segue abaixo a legenda para o checklist apresentado para o artefato, está divid
 | 3 | O artefato apresenta as cores do sistema? |  :heavy_check_mark:
 | 4 |  O documento apresenta tópico elementos de interação( estilos de interação, aceleradores) ? |  :heavy_check_mark:
 | 5 | O documento apresenta elementos de ação(preenchimento de campos, seleção, ativação ? |  :heavy_check_mark:
-| 6 | # O documento apresenta descrição de janelas do sistema? |  :heavy_check_mark:
+| 6 | O documento apresenta descrição de janelas do sistema? |  :heavy_check_mark:
 | 7 | O artefato apresenta disposição espacial e grid? | :x:
-| 8 | O artefato apresenta introdução com objetivo e conteúdo do guia de estilo? | :x:
+| 8 | O artefato apresenta introdução com objetivo e conteúdo do guia de estilo? |  :heavy_check_mark:
 | 9 | O documento apresenta como utilizar e manter o guia de estilo? | :x:
-| 10 | O guia de estilo condiz com o site do projeto? | :x:
+| 10 | O guia de estilo condiz com o site do projeto? |:heavy_check_mark:
 | 11 | O artefato apresenta visualização de informações e design de telas? | :x:
 | 12 | O documento está gramaticalmente correto? |  :heavy_check_mark:
 
@@ -36,14 +36,15 @@ Segue abaixo a legenda para o checklist apresentado para o artefato, está divid
 
 Segue na _figura 1_ o gráfico pizza que demonstra a quantidade de itens atingidos com a verificação. As porcentagens estão aproximadas.
 
-<img src="https://user-images.githubusercontent.com/64036847/185829200-039e8483-ddb9-4789-a07f-103bee7b566d.jpg" width=500px></img>
+<img src="https://user-images.githubusercontent.com/64036847/185931487-d6aa5143-c56c-44d5-a8ca-10091f47f362.jpg" width=500px></img>
 
 <figcaption>Figura 1: Gráfico pizza para a verificação dos léxicos</figcaption>
 
 <figcaption>Fonte: Canva - Autoria própria</figcaption> 
 
+
 ## Observações
-Diante dos itens apresentados, observamos pelo gráfico acima que 70% dos itens levantados no checklist foram alcançados, enquanto 30% não. Observamos que nesses itens não alcançados podem ser feitas melhorias a fim de de que o artefato tenha maior qualidade. Dentre os pontos elencados, é possível criar uma tabela para as resposta dos entrevistados transcritas, adicionar a data em que a avaliação foi realizada e gravar um teste-piloto para as avaliações.
+Diante dos itens apresentados, observamos que de 12 itens elencados para o artefato, 9 foram corretamente atingidos, ou seja, 75% dos itens, enquanto 25% não foram atingidos. Diante disso, o artefato deve ser alterado e atender as melhorias obtidas com a verificação.
 
 Dessa forma, a verificação do artefato foi devidamente realizada e devem ser planejadas as alterações.
 ## Referências
