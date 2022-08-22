@@ -29,7 +29,9 @@ Segue abaixo a legenda para o checklist apresentado para o artefato, está divid
 | 8 | As avaliações estão descritas no cronograma da disciplina? | :x:
 | 9 | Foi realizado um teste-piloto para as entrevistas? | :x:
 | 10 | O documento é claro? |  :heavy_check_mark:
+
 <figcaption>Tabela 1: Checklist para o artefato</figcaption> 
+
 ## Gráfico
 
 Segue na _figura 1_ o gráfico pizza que demonstra a quantidade de itens atingidos com a verificação. As porcentagens estão aproximadas.
