@@ -25,7 +25,7 @@ Segue abaixo a legenda para o checklist apresentado para o artefato, está divid
 | 4 |  O documento apresenta tópico elementos de interação( estilos de interação, aceleradores) ? |  :heavy_check_mark:
 | 5 | O documento apresenta elementos de ação(preenchimento de campos, seleção, ativação ? |  :heavy_check_mark:
 | 6 | O documento apresenta descrição de janelas do sistema? |  :heavy_check_mark:
-| 7 | O artefato apresenta disposição espacial e grid? | :x:
+| 7 | O artefato apresenta disposição espacial e grid? | :heavy_check_mark:
 | 8 | O artefato apresenta introdução com objetivo e conteúdo do guia de estilo? |  :heavy_check_mark:
 | 9 | O documento apresenta como utilizar e manter o guia de estilo? | :x:
 | 10 | O guia de estilo condiz com o site do projeto? |:heavy_check_mark:
