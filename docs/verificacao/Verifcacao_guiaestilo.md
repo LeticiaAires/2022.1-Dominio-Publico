@@ -16,7 +16,7 @@ Segue abaixo a legenda para o checklist apresentado para o artefato, está divid
 
 | ID | Item | Atingido?
 | -- | ---- | ---------
-| 1  | O documento especifica a metodologia utilizada na avaliação? | :heavy_check_mark:
+| 1  |  | :heavy_check_mark:
 | 2 | O documento especifica a data, horário e a plataforma utilizada para a avliação? |  :heavy_check_mark:
 | 3 | O documento apresenta hyperlinks que facilitem o acesso aos storyboard criados? |  :heavy_check_mark:
 | 4 | A entrevista da avaliação está gravada? |  :heavy_check_mark:

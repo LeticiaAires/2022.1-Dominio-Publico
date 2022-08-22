@@ -28,7 +28,7 @@ Storyboard| Tarefa
 2|Buscar Textos
 3|Download de Obras
 4|Acesso ao site do Machado de Assis
-4|Acessar hinos brasileiros
+5|Acessar hinos brasileiros
 
 ### 4.1.2. Buscar obras
 
