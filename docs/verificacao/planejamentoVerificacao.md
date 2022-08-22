@@ -16,15 +16,15 @@
 
 &emsp;&emsp; Desta forma, os artefatos verificados serão:
 
-- [Análise de tarefas]()
-- [Resultado da Avaliação da Análise de Tarefas]()
-- [Resultado da Avaliação dos Storyboards]()
-- [Storyboards]()
-- [Perfil dos Usuários]()
-- [Princípios gerais do Design]()
-- [Metas de Usabilidade]()
-- [Personas]()
-- [Guia de Estilo]()
+- [Análise de tarefas](analiseRequisitos/analiseTarefas.md)
+- [Resultado da Avaliação da Análise de Tarefas](design/Fase1/relatoAvaliacao.md)
+- [Resultado da Avaliação dos Storyboards](design/Fase1/relatoAvaliacao.md)
+- [Storyboards](design/Fase1/storyboard.md)
+- [Perfil dos Usuários](analiseRequisitos/perfilUsuario.md)
+- [Princípios gerais do Design](analiseRequisitos/principios_gerais.md)
+- [Metas de Usabilidade](analiseRequisitos/metas_usabilidade.md)
+- [Personas](analiseRequisitos/personas.md)
+- [Guia de Estilo](analiseRequisitos/guiaEstilo.md)
 
 ## 3. Planejamento e Preparação
 &emsp;&emsp; Desse modo, para realizar a inspeção de tais atividades, os membros da equipe foram atribuídos a cada artefato, de tal modo representado na tabela 1 a seguir:
@@ -37,7 +37,7 @@
 | Verificação das metas de usabilidade | 21/08/2022 |  | - |- |
 | Verificação do perfil do usuário | 21/08/2022 | Gabriel Moretti | - |- |
 | Verificação das personas | 21/08/2022 |  | - | - |
-| Verificação dos princípios gerais | 21/08/2022 | Gabriel Moretti | - |- |
+| Verificação dos princípios gerais do projeto | 21/08/2022 | Gabriel Moretti | - |- |
 | Verificação do storyboard | 21/08/2022 |  | - | - |
 | Verificação da avaliação da analise de tarefas | 21/08/2022 |  | - |- |
 

@@ -2,26 +2,35 @@
 
 # Introdução
 
-Essa página tem o objetivo de fazer a verificação do artefato Princípios Gerais do Projeto, seguindo o processo de verificação indicado pelo documento [Planejamento da verificação](verificacao/planejamentoVerificacao.md). 
+Essa página tem o objetivo de fazer a verificação do artefato Perfil do Usuário, seguindo o processo de verificação indicado pelo documento [Planejamento da verificação](verificacao/planejamentoVerificacao.md). 
 
 # Rastreabilidade
 
 Encontra-se a seguir o redirecionamento para o artefato que está sendo analisado nesse documento:
-<a href="./#/analiseRequisitos/principios_gerais.md">Princípios Gerais do Projeto</a>
+<a href="./#/analiseRequisitos/perfilUsuario.md">Perfil do Usuário</a>
 .
 
 # Checklist
 
-Na etapa de preparação do método da inspeção, foram confeccionadas as seguintes perguntas a respeito do artefato Princípios Gerais do Projeto, encontradas na tabela 1:
+Na etapa de preparação do método da inspeção, foram confeccionadas as seguintes perguntas a respeito do artefato Perfil do Usuário, encontradas na tabela 1:
 
 | Questões | Motivo |
 |----|-------|
-| O projeto possui princípios e diretrizes de design? | É necessária, em um projeto, a presença de princípios gerais que guiarão seus membros em seu desenvolvimento |
-| Os princípios representados seguem um dos conjuntos principais de princípios e diretrizes (Norman, Tognazzini, Nielsen, Shneiderman)? | Devido a sua importância, foi considerada necessária a presença de ao menos um dos conjuntos principais de princípios |
-| Os princípios e diretrizes estão bem descritos? | Para utilização adequada dos princípios e diretrizes, é importante entendê-los corretamente  |
-| Os princípios e diretrizes são aplicáveis a outros artefatos? | Seguindo seu objetivo, os princípios e diretrizes devem ser possivelmente aplicados a todos os artefatos do projeto |
-| Os princípios e diretrizes são de fácil e rápido entendimento? | Seguindo o objetivo do documento, o artefato deverá ser utilizado de forma fácil pelos membros da equipe |
-| Os princípios e diretrizes possuem referências | Visto que os princípios e diretrizes devem utilzar um dos conjuntos principais, a referência a tais também deve ser citada |
+| Possui os dados demográficos do usuário? | Preenchimento de informações sobre as características dos usuários |
+| Possui a experiência do usuário no cargo que ocupa? | Preenchimento de informações sobre as características dos usuários |
+| Possui, caso o usuário seja parte de uma empresa, as informações sobre a empresa do mesmo? | Preenchimento de informações sobre as características dos usuários |
+| Possui o grau de educação do usuário? | Preenchimento de informações sobre as características dos usuários |
+| Possui o nível de experiência do usuário? | Preenchimento de informações sobre as características dos usuários |
+| Possui as ferramentas ou tecnologias as quais o usuário tem acesso?  | Preenchimento de informações sobre as características dos usuários |
+| Possui o quanto o usuário valoriza treinamento e qual o tipo? | Preenchimento de informações sobre as características dos usuários |
+| Possui a atitude e os valores do usuário? | Preenchimento de informações sobre as características dos usuários |
+| Possui a quantidade de conhecimento do usuário sobre o assunto em questão, bibliotecas digitais?  | Preenchimento de informações sobre as características dos usuários |
+| Possui os principais objetivos do usuário? | Preenchimento de informações sobre as características dos usuários |
+| Possui as tarefas do usuário? | Preenchimento de informações sobre as características dos usuários |
+| Possui e considera aspectos éticos de toda e qualquer pesquisa envolvendo pessoas? | Para realizar a pesquisa, é necessário que o usuário esteja de acordo com as ações tomadas na mesma |
+| Possui termo de consentimento esclarecedor e bem descrito? | Para realizar a pesquisa, é necessário que o usuário esteja de acordo com as ações tomadas na mesma |
+| Possui o consentimento explícito do entrevistado aos aspectos éticos e ao termo de consentimento? | Para realizar a pesquisa, é necessário que o usuário esteja de acordo com as ações tomadas na mesma |
+| Possui os 4 princípios: da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade? | É importante, na existência do termo de consentimento, o mesmo seguir o padrão geral dos 4 princípios da bioética |
 
 <figcaption align='center'>
     <b>Tabela 1 - Perguntas relacionadas ao checklist </b>
@@ -33,32 +42,45 @@ Seguindo as perguntas confeccionadas anteriormente, o checklist representado na 
 
 |Questões| Satisfação |
 |--------|---|
-| O projeto possui princípios e diretrizes de design? | :heavy_check_mark:|
-| Os princípios representados seguem um dos conjuntos principais de princípios e diretrizes (Norman, Tognazzini, Nielsen, Shneiderman) |:heavy_check_mark: |
-| Os princípios e diretrizes estão bem escritos? | :heavy_check_mark: |
-| Os princípios e diretrizes são aplicáveis a outros artefatos? | :heavy_check_mark: |
-| Os princípios e diretrizes são de fácil e rápido entendimento pelos membros que os utilizarão? | :heavy_check_mark:|
-| Os princípios e diretrizes possuem referências | :heavy_check_mark: |
+| Possui os dados demográficos do usuário? | :heavy_check_mark: |
+| Possui a experiência do usuário no cargo que ocupa? | :x: |
+| Possui, caso o usuário seja parte de uma empresa, as informações sobre a empresa do mesmo? | :heavy_check_mark: |
+| Possui o grau de educação do usuário? | :heavy_check_mark: |
+| Possui o nível de experiência do usuário? | :heavy_check_mark: |
+| Possui as ferramentas ou tecnologias as quais o usuário tem acesso?  | :x: |
+| Possui o quanto o usuário valoriza treinamento e qual o tipo? | :x: |
+| Possui a atitude e os valores do usuário? | :x: |
+| Possui a quantidade de conhecimento do usuário sobre o assunto em questão, bibliotecas digitais?  | :heavy_check_mark: |
+| Possui os principais objetivos do usuário? | :heavy_check_mark: |
+| Possui as tarefas do usuário? | :heavy_check_mark: |
+| Possui e considera aspectos éticos de toda e qualquer pesquisa envolvendo pessoas? | :heavy_check_mark: |
+| Possui termo de consentimento esclarecedor e bem descrito? | :x: |
+| Possui o consentimento explícito do entrevistado aos aspectos éticos e ao termo de consentimento? | :heavy_check_mark: |
+| Possui os 4 princípios: da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade? | :x: |
 
-<figcaption align='center'>Tabela 2 - Checklist das versões dos princípios gerais do projeto</figcaption>
+<figcaption align='center'>Tabela 2 - Checklist das versões do Perfil do Usuário</figcaption>
 
 ## Gráfico
 Segue na _figura 1_ o gráfico pizza que demonstra a quantidade de itens atingidos com a verificação.
 
 <img src="https://user-images.githubusercontent.com/64036847/185265751-962b0c3e-21fa-4f04-86ec-05e1db621ba6.jpg" width=500px></img>
 
-<figcaption align='center'>Figura 1: Gráfico pizza para a verificação dos princípios gerais do projeto</figcaption>
+<figcaption align='center'>Figura 1: Gráfico pizza para a verificação do Perfil do Usuário</figcaption>
 
 <figcaption>Fonte: Canva - Autoria própria</figcaption> 
 
 
 # Observações 
 
-É necessário fazer uma revisão para corrigir erros gramaticais e de organização geral no documento. Mas no quesito de Princípios Gerais do Design, todos os itens do checklist foram satisfeitos. Assim chegando à conclusão que o artefato foi verificado por inspeção adequadamente.
+Após a realização da primeira inspeção, foi encontrado que 60% dos itens da checklist foram satisfeitos. Levando em conta os itens insatisfeitos, serão realizadas mudanças no artefato, de modo a realizar a satisfação dos mesmos.
+
+Para esse artefato, foi necessária a realização de um novo formulário de pesquisa de perfil, com novas perguntas que incluiram os pontos faltantes adquiridos anteriormente. Esse formulário será enviado novamente para a pesquisa, com seus resultados registrados no artefato em questão.
+
+Exceto os ajustes citados, é necessário fazer uma revisão para corrigir erros gramaticais e de organização geral no documento. Mas no quesito de Perfil do Usuário, todos os itens do checklist foram satisfeitos após a mudança realizada no documento. Assim chegando à conclusão que o artefato foi verificado por inspeção adequadamente.
 
 # Referências Bibliográficas
 
->O PRADO LEITE, Julio Cesar Sampaio et al. Enhancing a requirements baseline with scenarios. Requirements Engineering, v. 2, n. 4, p. 184-198, 1997.
+> O PRADO LEITE, Julio Cesar Sampaio et al. Enhancing a requirements baseline with scenarios. Requirements Engineering, v. 2, n. 4, p. 184-198, 1997.
 
 > SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
 
