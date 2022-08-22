@@ -34,7 +34,17 @@ Número |	Questão  |	Resultado
 6 |	Diante do critério de **memorização**, o site foi avaliado de maneira condizente? |	✔
   |	Porcentagem de sucesso |	100%
 
-# Erros 
+# Gráfico
+
+Segue na _figura 1_ o gráfico pizza que demonsta a quantidade de itens atingidos com a verificação.
+
+<img src="https://user-images.githubusercontent.com/64036847/185265751-962b0c3e-21fa-4f04-86ec-05e1db621ba6.jpg"></img>
+
+<figcaption align="center">Figura 1: Gráfico pizza para a verificação das metas de usabilidade</figcaption>
+
+<figcaption>Fonte: Canva - Autoria Própria</figcaption>
+
+# Erros
 
 Não houve nenhum erro encontrado utilizando os checklists. Mas as metas alcançadas e não alcançadas se encontram ao final sem algo dizendo que estão lá. Assim, se o leitor não descer até o fim, não encontra as metas alcançadas e não alcançadas.
 
@@ -47,6 +57,7 @@ Sugere-se que uma mudança seja feita na disposição das metas cumpridas e não
 > BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010.
 
 # Histórico de versões
-|Versão|Data|Autor|Revisor|
-|------|----|-----|-------|
-|1.0|14/8/2022|Luan Vasco| Adne Moretti |
+|Versão|Data|Descrição|Autor|Revisor|
+|------|----|---------|-----|-------|
+|1.0|14/8/2022|Documento inicial|Luan Vasco|Adne Moretti |
+|1.1|22/08/2022|Adição do gráfico pizza|Guilherme Puida | --- |
