@@ -69,5 +69,5 @@ Segue na _figura 1_ o gráfico pizza que demonstra a quantidade de itens atingid
 
 |Versão|Data|Descrição | Autor|Revisor|
 |------|----|--------- |-----|-------|
-|0.1|21/8/2022|Documento inicial| Gabriel Moretti|  |
+|0.1|21/8/2022|Documento inicial| Gabriel Moretti| Guilherme Puida |
 
