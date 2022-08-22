@@ -93,7 +93,7 @@ Com a elaboração deste documento, o repertório de conhecimento sobre o artefa
 > [1] - Requisitos - Aula 23. Disponível em: <a href='https://aprender3.unb.br/pluginfile.php/993660/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf'> https://aprender3.unb.br/pluginfile.php/993660/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf</a><br>
 > [2] - SWEBOK® Guide V3.0 - página 179. Disponível em: <a href='https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3'> https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3</a><br>
 > [3] - Gerência e Qualidade de Software, Verificação e Validação (UNIVESP) - Aula 05. Disponível em: <a href='https://youtu.be/1Y-1zz6rZxo?t=22'> https://youtu.be/1Y-1zz6rZxo?t=22</a><br>
-> [4] - Artefato - Backlog. Disponível em: <a href='https://requisitos-de-software.github.io/2022.1-Exercito-Brasileiro/#/modelagemRequisitos/backlog'> https://requisitos-de-software.github.io/2022.1-Exercito-Brasileiro/#/modelagemRequisitos/backlog</a>
+> [4] - Artefato - Backlog. Disponível em: <a href='https://requisitos-de-software.github.io/2022.1-Exercito-Brasileiro/#/modelagemRequisitos/backlog'> https://requisitos-de-software.github.io/2022.1-Exercito-Brasileiro/#/modelagemRequisitos/backlog</a><br>
 > [5] - Aula - Análise.  Disponível em: <a href='https://aprender3.unb.br/pluginfile.php/2124539/mod_resource/content/2/Aula%20An%C3%A1lise%20.pdf'>https://aprender3.unb.br/pluginfile.php/2124539/mod_resource/content/2/Aula%20An%C3%A1lise%20.pdf</a><br>
 
 # Histórico de versões
