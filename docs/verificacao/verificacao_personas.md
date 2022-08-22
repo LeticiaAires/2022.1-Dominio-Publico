@@ -2,7 +2,7 @@
 
 # Introdução
 
-Essa página diz respeito a verificação da <a href="./#/analiseRequisitos/personas.md">Análise de tarefas</a>.
+Essa página diz respeito a verificação da <a href="./#/analiseRequisitos/personas.md">personas</a>.
 
 # Metodologia
 A metodologia de avaliação foi por inspeção. A simbologia utilizada foi :
